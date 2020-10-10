@@ -149,6 +149,9 @@ talcCrystal.register();
 var glauconiteCrystal = VanillaFactory.createItem("glauconite_crystal");
 glauconiteCrystal.register();
 
+var glauconiteSandCrystal = VanillaFactory.createItem("glauconite_sand_crystal");
+glauconiteSandCrystal.register();
+
 var pentlanditeCrystal = VanillaFactory.createItem("pentlandite_crystal");
 pentlanditeCrystal.register();
 

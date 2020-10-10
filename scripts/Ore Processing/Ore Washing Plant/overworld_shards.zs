@@ -844,3 +844,10 @@ orewasher.recipeBuilder()
     .EUt(120)
     .buildAndRegister();
 
+orewasher.recipeBuilder()
+    .inputs(<contenttweaker:glauconite_sand_shard> * 1)
+    .fluidInputs([<liquid:hydrofluoric_acid> * 20])
+    .outputs(<contenttweaker:glauconite_sand_clump> * 2)
+    .duration(40)
+    .EUt(120)
+    .buildAndRegister();

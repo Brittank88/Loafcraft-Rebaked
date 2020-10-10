@@ -6,6 +6,18 @@ import mods.contenttweaker.Block;
 var ironCrystal = VanillaFactory.createBlock("iron_crystal_block", <blockmaterial:iron>);
 ironCrystal.register();
 
+var tinCrystal = VanillaFactory.createBlock("tin_crystal_block", <blockmaterial:iron>);
+tinCrystal.register();
+
+var silverCrystal = VanillaFactory.createBlock("silver_crystal_block", <blockmaterial:iron>);
+silverCrystal.register();
+
+var leadCrystal = VanillaFactory.createBlock("lead_crystal_block", <blockmaterial:iron>);
+leadCrystal.register();
+
+var copperCrystal = VanillaFactory.createBlock("copper_crystal_block", <blockmaterial:iron>);
+copperCrystal.register();
+
 var dolomiteCrystal = VanillaFactory.createBlock("dolomite_crystal_block", <blockmaterial:iron>);
 dolomiteCrystal.register();
 
@@ -306,3 +318,5 @@ apatiteCrystal.register();
 var phosphorCrystal = VanillaFactory.createBlock("phosphor_crystal_block", <blockmaterial:iron>);
 phosphorCrystal.register();
 
+var glauconiteSandCrystal = VanillaFactory.createBlock("glauconite_sand_crystal_block", <blockmaterial:iron>);
+glauconiteSandCrystal.register();

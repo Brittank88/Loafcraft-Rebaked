@@ -707,3 +707,37 @@ compressor.recipeBuilder()
      .EUt(500000)
      .buildAndRegister();
 
+compressor.recipeBuilder()
+     .inputs(<contenttweaker:glauconite_sand_crystal> * 64)
+     .outputs(<contenttweaker:glauconite_sand_crystal_block> * 1)
+     .duration(100)
+     .EUt(500000)
+     .buildAndRegister();
+
+compressor.recipeBuilder()
+     .inputs(<mekanism:crystal:4> * 64)
+     .outputs(<contenttweaker:tin_crystal_block> * 1)
+     .duration(100)
+     .EUt(500000)
+     .buildAndRegister();
+
+compressor.recipeBuilder()
+     .inputs(<mekanism:crystal:5> * 64)
+     .outputs(<contenttweaker:silver_crystal_block> * 1)
+     .duration(100)
+     .EUt(500000)
+     .buildAndRegister();
+
+compressor.recipeBuilder()
+     .inputs(<mekanism:crystal:6> * 64)
+     .outputs(<contenttweaker:lead_crystal_block> * 1)
+     .duration(100)
+     .EUt(500000)
+     .buildAndRegister();
+
+compressor.recipeBuilder()
+     .inputs(<mekanism:crystal:3> * 64)
+     .outputs(<contenttweaker:copper_crystal_block> * 1)
+     .duration(100)
+     .EUt(500000)
+     .buildAndRegister();

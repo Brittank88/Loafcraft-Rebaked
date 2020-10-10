@@ -17,3 +17,6 @@ aetherPortal.add(<appliedenergistics2:smooth_sky_stone_block>);
 
 val sunCrystal = <ore:sunCrystal>;
 sunCrystal.add(<extrautils2:suncrystal>);
+
+val skyStone = <ore:skyStone>;
+skyStone.add(<appliedenergistics2:sky_stone_block>);

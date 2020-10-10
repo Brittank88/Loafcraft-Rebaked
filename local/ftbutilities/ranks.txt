@@ -1,6 +1,8 @@
 // For more info visit https://faq.ftb.world/books/ftb-utilities/page/ranks
 
 [player]
+ftbutilities.chunkloader.max_chunks: 9999
+ftbutilities.claims.max_chunks: 9999
 default_player_rank: true
 power: 1
 example.permission: true

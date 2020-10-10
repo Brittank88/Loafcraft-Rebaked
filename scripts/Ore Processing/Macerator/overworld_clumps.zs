@@ -739,5 +739,10 @@ macerator.recipeBuilder()
     .EUt(12)
     .buildAndRegister();
 
-
+macerator.recipeBuilder()
+    .inputs(<contenttweaker:glauconite_sand_clump> * 1)
+    .outputs(<ore:crushedGlauconiteSand>.firstItem * 2)
+    .duration(40)
+    .EUt(12)
+    .buildAndRegister();
 

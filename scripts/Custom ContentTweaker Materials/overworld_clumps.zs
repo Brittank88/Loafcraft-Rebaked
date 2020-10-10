@@ -149,6 +149,9 @@ talcClump.register();
 var glauconiteClump = VanillaFactory.createItem("glauconite_clump");
 glauconiteClump.register();
 
+var glauconiteSandClump = VanillaFactory.createItem("glauconite_sand_clump");
+glauconiteSandClump.register();
+
 var pentlanditeClump = VanillaFactory.createItem("pentlandite_clump");
 pentlanditeClump.register();
 

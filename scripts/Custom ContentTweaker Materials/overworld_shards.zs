@@ -149,6 +149,9 @@ talcShard.register();
 var glauconiteShard = VanillaFactory.createItem("glauconite_shard");
 glauconiteShard.register();
 
+var glauconiteSandShard = VanillaFactory.createItem("glauconite_sand_shard");
+glauconiteSandShard.register();
+
 var pentlanditeShard = VanillaFactory.createItem("pentlandite_shard");
 pentlanditeShard.register();
 

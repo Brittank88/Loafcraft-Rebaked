@@ -843,3 +843,11 @@ chemical_reactor.recipeBuilder()
     .duration(80)
     .EUt(7680)
     .buildAndRegister();
+
+chemical_reactor.recipeBuilder()
+    .inputs(<contenttweaker:glauconite_sand_crystal> * 1)
+    .fluidInputs([<liquid:aqua_regia> * 20])
+    .outputs(<contenttweaker:glauconite_sand_shard> * 2)
+    .duration(80)
+    .EUt(7680)
+    .buildAndRegister();

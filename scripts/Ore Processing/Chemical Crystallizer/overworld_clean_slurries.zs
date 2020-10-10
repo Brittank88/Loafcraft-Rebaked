@@ -17,6 +17,7 @@ mods.mekanism.chemical.crystallizer.addRecipe(<gas:clean_kaolinite_slurry> * 50,
 mods.mekanism.chemical.crystallizer.addRecipe(<gas:clean_zeolite_slurry> * 50, <contenttweaker:zeolite_crystal>);
 mods.mekanism.chemical.crystallizer.addRecipe(<gas:clean_fullers_earth_slurry> * 50, <contenttweaker:fullers_earth_crystal>);
 mods.mekanism.chemical.crystallizer.addRecipe(<gas:clean_glauconite_slurry> * 50, <contenttweaker:glauconite_crystal>);
+mods.mekanism.chemical.crystallizer.addRecipe(<gas:clean_glauconite_sand_slurry> * 50, <contenttweaker:glauconite_sand_crystal>);
 mods.mekanism.chemical.crystallizer.addRecipe(<gas:clean_kyanite_slurry> * 50, <contenttweaker:kyanite_crystal>);
 mods.mekanism.chemical.crystallizer.addRecipe(<gas:clean_mica_slurry> * 50, <contenttweaker:mica_crystal>);
 mods.mekanism.chemical.crystallizer.addRecipe(<gas:clean_cassiterite_slurry> * 50, <contenttweaker:cassiterite_crystal>);

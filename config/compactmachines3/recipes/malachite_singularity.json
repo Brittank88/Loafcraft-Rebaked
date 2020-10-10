@@ -1,8 +1,8 @@
 {
-	  "name": "bandedIronSingularity",
+	  "name": "malachiteSingularity",
 	  
 	  "target-item": "extendedcrafting:singularity_custom",
-	  "target-meta": "107",
+	  "target-meta": "108",
 	  "target-count": 1,
 	  "duration": 150,
 	  "catalyst": "appliedenergistics2:material",
@@ -11,7 +11,7 @@
 	  
   "input-types": {
     "a": {
-      "id": "contenttweaker:banded_iron_crystal_block",
+      "id": "contenttweaker:malachite_crystal_block",
       "meta": 0
     }
   },
