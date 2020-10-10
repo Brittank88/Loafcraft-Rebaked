@@ -24,6 +24,9 @@ config/AppliedEnergistics2/VersionChecker.cfg
 # ReAuth
 .ReAuth.cfg
 
+# ChanceCubes
+config/ChanceCubes/CustomRewards/Resourcepack/CustomSounds-Resourcepack.zip
+
 # CraftTweaker (CT)
 crafttweaker.log
 
