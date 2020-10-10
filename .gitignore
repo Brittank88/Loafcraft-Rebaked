@@ -1,3 +1,7 @@
+# GDLauncher
+config.json
+manifest.json
+
 # Vanilla
 options.txt
 servers.dat
@@ -9,14 +13,13 @@ screenshots/
 resourcepacks/
 natives/
 
-# GDLauncher
-config.json
-manifest.json
-
 # Forge
 usernamecache.json
 config/splash.properties
 .mixin.out/
+
+# Applied Energistics 2 (AE2)
+config/AppliedEnergistics2/VersionChecker.cfg
 
 # ReAuth
 .ReAuth.cfg
@@ -46,6 +49,7 @@ local/ftbutilities/backups.json
 backups/
 
 # Draconic Evolution (DE)
+config/brandon3055/contributors.json
 config/brandon3055/ResourceCache/
 
 # Journeymap
