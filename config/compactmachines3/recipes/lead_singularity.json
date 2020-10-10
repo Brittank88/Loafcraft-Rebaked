@@ -1,7 +1,7 @@
 {
 	  "name": "leadSingularity",
 	  
-	  "target-item": "extendedcrafting:singularity_custom",
+	  "target-item": "extendedcrafting:singularity",
 	  "target-meta": "23",
 	  "target-count": 1,
 	  "duration": 150,
