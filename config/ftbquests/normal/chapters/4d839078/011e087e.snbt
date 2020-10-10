@@ -1,0 +1,21 @@
+{
+	x: 3.0d,
+	y: 6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"ea96a61e"
+	],
+	tasks: [{
+		uid: "27e2bf06",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:soul_gem",
+			tag: {},
+			Damage: 3s
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	icon: "aether_legacy:aether_grass",
+	x: 6.0d,
+	y: 6.0d,
+	dependencies: [
+		"c48f7b90"
+	],
+	tasks: [{
+		uid: "151b5ad5",
+		type: "dimension",
+		dim: 4
+	}]
+}

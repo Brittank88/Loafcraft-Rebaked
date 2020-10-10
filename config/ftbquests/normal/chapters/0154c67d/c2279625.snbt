@@ -1,0 +1,50 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	shape: "hexagon",
+	description: "Pure mana!",
+	text: [
+		"As it turns out, the purification process for this solid mana stuff is rather simple! All you have to do is cook it a bit until the original particles burn away, and what you're left with is totally pure mana in powder form.",
+		" ",
+		"Having mana in a less volatile form should make it far easier to work with, so I'm positive that applications will soon present themsevles."
+	],
+	dependencies: [
+		"9f116ab5"
+	],
+	tasks: [{
+		uid: "03d862b2",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2247"
+		}]
+	}],
+	rewards: [{
+		uid: "8a9b589d",
+		type: "command",
+		title: "Thaumic Awakening",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:thaumonomicon"
+		},
+		command: "/thaumcraft research @p all"
+	},
+	{
+		uid: "9d1fcedd",
+		type: "command",
+		title: "Celestial Revelations",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemjournal"
+		},
+		command: "/astralsorcery maximize @p"
+	},
+	{
+		uid: "f7dbe023",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

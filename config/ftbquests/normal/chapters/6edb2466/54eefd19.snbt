@@ -1,0 +1,26 @@
+{
+	x: 1.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	description: "Creation from destruction!",
+	text: [
+		"As it turns out, the dyes DID have an auxiliary use! By combining the crushed up petals with regular fertilizer, it seems to be possible to make a mystical fertilizer that causes more magic flowers to spontaneously grow!",
+		" ",
+		"The nature of this world you've found yourself in continues to confound us in the most fundamental of ways! Which totally isn't concerning at all!"
+	],
+	dependencies: [
+		"d92a8731"
+	],
+	tasks: [{
+		uid: "3ed2654c",
+		type: "item",
+		items: [{
+			item: "botania:fertilizer"
+		}]
+	}],
+	rewards: [{
+		uid: "1ce81383",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

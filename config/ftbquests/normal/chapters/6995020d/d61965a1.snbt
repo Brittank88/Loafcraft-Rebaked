@@ -1,0 +1,13 @@
+{
+	x: 10.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"5924a590"
+	],
+	tasks: [{
+		uid: "7f99c7f9",
+		type: "fluid",
+		fluid: "dichlorobenzene"
+	}]
+}

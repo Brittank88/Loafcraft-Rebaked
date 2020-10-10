@@ -1,0 +1,16 @@
+{
+	title: "Tier 0",
+	x: 0.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"5cbebda4"
+	],
+	tasks: [{
+		uid: "bd6dfc13",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 1"
+		}]
+	}]
+}

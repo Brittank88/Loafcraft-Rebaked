@@ -1,0 +1,16 @@
+{
+	x: -5.0d,
+	y: -4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"fa144dfd",
+		"bd1cb7f3"
+	],
+	tasks: [{
+		uid: "5c97d509",
+		type: "item",
+		items: [{
+			item: "astralsorcery:itemusabledust"
+		}]
+	}]
+}

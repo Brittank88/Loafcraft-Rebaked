@@ -1,0 +1,11 @@
+{
+	x: 28.5d,
+	y: -1.5d,
+	tasks: [{
+		uid: "fbaff175",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 32"
+		}]
+	}]
+}

@@ -1,0 +1,440 @@
+{
+	"populate": {
+		"chalcopyrite": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_chalcopyrite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_vermiculite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_cassiterite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_alunite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 10
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		},
+		"dolomite": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_dolomite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_wollastonite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_trona_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_andradite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 10
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		},
+		"grossular": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_grossular_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_spessartine_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_pyrolusite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_tantalite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 10
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		},
+		"kyanite": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_kyanite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_mica_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_cassiterite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 20
+						},
+												{
+						"name": "gregtech:ore_pollucite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 20
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		},
+		"molybdenum": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_wulfenite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 40
+						},
+												{
+						"name": "gregtech:ore_molybdenite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 40
+						},
+												{
+						"name": "gregtech:ore_powellite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 20
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		},
+		"olivine": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_prasiolite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 5
+						},
+												{
+						"name": "gregtech:ore_bentonite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_magnesite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_olivine_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 30
+						},
+												{
+						"name": "gregtech:ore_glauconite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 10
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		},
+		"salts": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_salt_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 40
+						},
+												{
+						"name": "gregtech:ore_rock_salt_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 35
+						},
+												{
+						"name": "gregtech:ore_lepidolite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 15
+						},
+												{
+						"name": "gregtech:ore_spodumene_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 10
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		},
+		"soapstone": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_soapstone_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 25
+						},
+												{
+						"name": "gregtech:ore_talc_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 25
+						},
+												{
+						"name": "gregtech:ore_glauconite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 25
+						},
+												{
+						"name": "gregtech:ore_pentlandite_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 25
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		},
+		"topaz": {
+			"enabled": "true",
+			"distribution": "uniform",
+			"generator": {
+				"block": [
+						{
+						"name": "gregtech:ore_topaz_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 60
+						},
+												{
+						"name": "gregtech:ore_blue_topaz_0",
+						"properties" : {
+						"stone_type": "diorite"
+						},
+						"weight": 40
+						},]
+				"material":{
+				"name": "aether_legacy:holystone"
+				},
+				"cluster-size": 64
+			},
+			"cluster-count": 1,
+			"min-height": 1,
+			"max-height": 200,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					4
+				]
+			}
+		}
+	}
+}

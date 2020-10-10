@@ -1,0 +1,21 @@
+{
+	title: "Uranium",
+	icon: "gregtech:meta_item_1 1 822",
+	x: -6.0d,
+	y: 2.0d,
+	dependencies: [
+		"d79a9481",
+		"cf5a5a41"
+	],
+	tasks: [{
+		uid: "d6a43758",
+		type: "checkmark"
+	},
+	{
+		uid: "35a93e24",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 822"
+		}]
+	}]
+}

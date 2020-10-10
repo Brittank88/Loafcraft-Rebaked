@@ -1,0 +1,33 @@
+{
+	x: -1.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	description: "Frankenstein's Garden",
+	text: [
+		"According to J.E.I., there should be a way to create functional flowers that make more direct use of the strange energies the natural flowers exhibit. Doing so seems to involve combining specific petals in a stone apothecary structure.",
+		" ",
+		"This warrants some investigation, don't you think?"
+	],
+	dependencies: [
+		"6db19e38"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "c3eae7b2",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}],
+	rewards: [{
+		uid: "091166c6",
+		type: "item",
+		item: "minecraft:wheat_seeds",
+		count: 64
+	},
+	{
+		uid: "97d559fa",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

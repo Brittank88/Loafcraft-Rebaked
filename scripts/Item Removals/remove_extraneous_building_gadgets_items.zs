@@ -1,0 +1,9 @@
+mods.jei.JEI.removeAndHide(<buildinggadgets:constructionblock_dense>);
+mods.jei.JEI.removeAndHide(<buildinggadgets:constructionblock>);
+mods.jei.JEI.removeAndHide(<buildinggadgets:constructionblockpowder>);
+mods.jei.JEI.removeAndHide(<buildinggadgets:constructionpaste>);
+mods.jei.JEI.removeAndHide(<buildinggadgets:construction_chunk_dense>);
+mods.jei.JEI.removeAndHide(<buildinggadgets:constructionpastecontainer>);
+mods.jei.JEI.removeAndHide(<buildinggadgets:constructionpastecontainert2>);
+mods.jei.JEI.removeAndHide(<buildinggadgets:constructionpastecontainert3>);
+mods.jei.JEI.removeAndHide(<buildinggadgets:constructionpastecontainercreative>);

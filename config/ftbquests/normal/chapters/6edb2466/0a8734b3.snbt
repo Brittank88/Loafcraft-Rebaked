@@ -1,0 +1,29 @@
+{
+	x: -1.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	description: "It's alive!",
+	text: [
+		"The simplest combination that J.E.I. suggests is just four white petals in the apothecary with a seed thrown in as a catalyst.",
+		" ",
+		"This should produce something known as a \"Pure Daisy,\" which seems to have the curious property of imbuing adjacent materials with some of its mystical energy, which may result in some interesting effects."
+	],
+	dependencies: [
+		"19cbb492"
+	],
+	tasks: [{
+		uid: "9f30ffe0",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "59ea47c3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

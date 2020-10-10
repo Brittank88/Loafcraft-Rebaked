@@ -1,0 +1,31 @@
+{
+	icon: "bloodmagic:altar",
+	x: -3.5d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"781fc7de",
+		"84f66397",
+		"eeff8ae5",
+		"b603bc05"
+	],
+	tasks: [{
+		uid: "570898d3",
+		type: "item",
+		items: [{
+			item: "bloodmagic:altar"
+		}]
+	},
+	{
+		uid: "f9c7dac6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:sacrificial_dagger",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

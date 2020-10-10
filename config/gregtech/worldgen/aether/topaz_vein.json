@@ -1,0 +1,29 @@
+{
+  "weight": 40,
+  "density": 0.3,
+  "max_height": 200,
+  "min_height": 1,
+  "surface_stone_material": "topaz",
+  "generation_predicate": ["stone_type:diorite", "block:aether_legacy:holystone"],
+  "dimension_filter": ["name:AetherI"],
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [10, 10]
+  },
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 60,
+          "value": "ore:topaz"
+        },
+        {
+          "weight": 40,
+          "value": "ore:blue_topaz"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "environmentMatcher": "",
+    "transformers": [
+      {
+        "type": "multi",
+        "transformer": {
+          "id": "multi_38c26c02",
+          "data": {
+            "environmentMatcher": "biome.type\u003dHOT | biome.type\u003dDRY",
+            "transformers": [
+              {
+                "type": "replaceAll",
+                "transformer": {
+                  "uniform": true,
+                  "id": "replaceAll_265ddc5c",
+                  "sourceExpression": "techguns:camonet \u0026 metadata\u003d0-2",
+                  "destination": [
+                    {
+                      "block": "techguns:camonet",
+                      "metadata": 1,
+                      "tileEntity": "null"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "replaceAll",
+                "transformer": {
+                  "uniform": true,
+                  "id": "replaceAll_46b803cb",
+                  "sourceExpression": "techguns:camonet_top",
+                  "destination": [
+                    {
+                      "block": "techguns:camonet_top",
+                      "metadata": 1,
+                      "tileEntity": "null"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "multi",
+        "transformer": {
+          "id": "multi_b7f2f1d2",
+          "data": {
+            "environmentMatcher": "biome.type\u003dCOLD",
+            "transformers": [
+              {
+                "type": "replaceAll",
+                "transformer": {
+                  "uniform": true,
+                  "id": "replaceAll_265ddc5c",
+                  "sourceExpression": "techguns:camonet \u0026 metadata\u003d0-2",
+                  "destination": [
+                    {
+                      "block": "techguns:camonet",
+                      "metadata": 2,
+                      "tileEntity": "null"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "replaceAll",
+                "transformer": {
+                  "uniform": true,
+                  "id": "replaceAll_46b803cb",
+                  "sourceExpression": "techguns:camonet_top",
+                  "destination": [
+                    {
+                      "block": "techguns:camonet_top",
+                      "metadata": 2,
+                      "tileEntity": "null"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "title": "ReplaceTGCamonet",
+    "description": [
+      "Replaces the Techguns camonet blocks with appropriate variants given the biome type [(HOT or DRY) or COLD]."
+    ]
+  }
+}

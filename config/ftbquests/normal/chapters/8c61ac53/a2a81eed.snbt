@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	dependencies: [
+		"ca2504dd",
+		"63ed891c",
+		"3f646afb"
+	],
+	tasks: [{
+		uid: "b8f73cba",
+		type: "item",
+		items: [{
+			item: "metallurgy:deep_iron_ingot"
+		}]
+	}]
+}

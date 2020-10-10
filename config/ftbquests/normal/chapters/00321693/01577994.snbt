@@ -1,0 +1,15 @@
+{
+	x: 10.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"302eef57"
+	],
+	tasks: [{
+		uid: "c765c1b5",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_ingot"
+		}]
+	}]
+}

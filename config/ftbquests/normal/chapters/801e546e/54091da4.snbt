@@ -1,0 +1,21 @@
+{
+	title: "Molybdenite",
+	icon: "gregtech:meta_item_1 1 132",
+	x: 6.0d,
+	y: 2.0d,
+	dependencies: [
+		"76a23bae",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "2c58f9ba",
+		type: "checkmark"
+	},
+	{
+		uid: "b4a65fdd",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 132"
+		}]
+	}]
+}

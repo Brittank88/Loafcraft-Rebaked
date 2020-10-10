@@ -1,0 +1,36 @@
+{
+	title: "End Nickel Vein",
+	x: 0.0d,
+	y: -5.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "6f2f9433",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_garnierite_0 1 7"
+		}]
+	},
+	{
+		uid: "0fcd7e5d",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_nickel_0 1 7"
+		}]
+	},
+	{
+		uid: "06113cd2",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_cobaltite_0 1 7"
+		}]
+	},
+	{
+		uid: "2033d7c2",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_pentlandite_0 1 7"
+		}]
+	}]
+}

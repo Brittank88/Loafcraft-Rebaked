@@ -1,0 +1,15 @@
+mods.enderio.AlloySmelter.removeRecipe(<thermalfoundation:material:165>);
+mods.enderio.AlloySmelter.removeRecipe(<thermalfoundation:material:166>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_material:39>);
+mods.enderio.AlloySmelter.removeRecipe(<thermalfoundation:material:167>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_alloy_ingot>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_alloy_ingot:1>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_alloy_ingot:2>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_alloy_ingot:5>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_alloy_ingot:6>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_alloy_ingot:8>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_alloy_ingot:9>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_alloy_ingot:7>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_material:1>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_material:54>);
+mods.enderio.AlloySmelter.removeRecipe(<enderio:item_material:53>);

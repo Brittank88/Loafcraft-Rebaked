@@ -1,0 +1,66 @@
+{
+	title: "Rock Crystal",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "astralsorcery:itemrockcrystalsimple",
+		tag: {
+			astralsorcery: {
+				crystalProperties: {
+					collectiveCapability: 100,
+					size: 400,
+					fract: 0,
+					purity: 100,
+					sizeOverride: -1
+				}
+			}
+		}
+	},
+	x: -3.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	description: "What is this, some kind of... livingdiamond?",
+	text: [
+		"If you've managed to find some diamond ore by now, try placing some around the pure daisy. The resulting gem should be quite receptive to mystical energy."
+	],
+	dependencies: [
+		"90803904",
+		"3303ea09"
+	],
+	tasks: [{
+		uid: "9e4e05d1",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_diamond_0"
+		}]
+	},
+	{
+		uid: "aab357dc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemrockcrystalsimple",
+			tag: {
+				astralsorcery: {
+					crystalProperties: {
+						collectiveCapability: 100,
+						size: 400,
+						fract: 0,
+						purity: 100,
+						sizeOverride: -1
+					}
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1d4c441d",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

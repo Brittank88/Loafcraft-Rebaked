@@ -1,0 +1,46 @@
+{
+	title: "The Matter Master",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "projectex:final_star"
+	},
+	x: 0.0d,
+	y: 7.0d,
+	dependencies: [
+		"f11800ba"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "59a7b984",
+		type: "checkmark",
+		title: "Create the Ultimate State of Matter"
+	}],
+	rewards: [{
+		uid: "ae8e8520",
+		type: "item",
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 255,
+				TrophyVariant: "classic",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					ForgeCaps: {
+						"astralsorcery:cap_item_amulet_holder": {
+							AS_Amulet_HolderLeast: -7798356128519025677L,
+							AS_Amulet_HolderMost: 713228429547948170L
+						}
+					},
+					id: "projectex:final_star",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "The Matter Master",
+				TrophyColorRed: 255
+			}
+		}
+	}]
+}

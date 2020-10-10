@@ -1,0 +1,16 @@
+{
+	icon: "thaumcraft:salis_mundus",
+	x: -5.0d,
+	y: 5.0d,
+	shape: "hexagon",
+	dependencies: [
+		"c2279625"
+	],
+	tasks: [{
+		uid: "6293225f",
+		type: "item",
+		items: [{
+			item: "thaumcraft:salis_mundus"
+		}]
+	}]
+}

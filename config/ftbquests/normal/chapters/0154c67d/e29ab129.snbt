@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	description: "Magical Metabolism",
+	text: [
+		"The pure daisy isn't the only functional flower you should be able to make, as it happens.",
+		" ",
+		"J.E.I. tells me that with some different petals it should be possible to create a flower capable of burning solid fuel to energize itself, making it put out far more magical energy than the pure daisy does passively.",
+		" ",
+		"I wonder what it could be used for?"
+	],
+	dependencies: [
+		"3303ea09"
+	],
+	tasks: [{
+		uid: "0961661c",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "endoflame"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "748c3b96",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

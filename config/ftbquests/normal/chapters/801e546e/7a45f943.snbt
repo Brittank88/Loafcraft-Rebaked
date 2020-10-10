@@ -1,0 +1,65 @@
+{
+	title: "Quartzite Vein",
+	x: 5.0d,
+	y: -1.0d,
+	dependencies: [
+		"2086a88b"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "2c684056",
+		type: "item",
+		title: "Quartzite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreQuartzite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "329ecd61",
+		type: "item",
+		title: "Barite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBarite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "b29321a9",
+		type: "item",
+		title: "Certus Quartz Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCertusQuartz",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "3c41a09d",
+		type: "item",
+		title: "Tennantite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTennantite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

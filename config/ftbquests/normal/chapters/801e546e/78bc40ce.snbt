@@ -1,0 +1,15 @@
+{
+	title: "Nether Quartz Vein",
+	x: -4.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "199f3f35",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_nether_quartz_0 1 6"
+		}]
+	}]
+}

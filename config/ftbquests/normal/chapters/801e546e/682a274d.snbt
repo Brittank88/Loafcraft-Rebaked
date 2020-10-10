@@ -1,0 +1,65 @@
+{
+	title: "Vermiculite Vein",
+	x: 1.0d,
+	y: 3.0d,
+	dependencies: [
+		"fad2edaf"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "834dd25c",
+		type: "item",
+		title: "Chalcopyrite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreChalcopyrite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "b32b37d0",
+		type: "item",
+		title: "Vermiculite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreVermiculite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "ede64ae2",
+		type: "item",
+		title: "Cassiterite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCassiterite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "c27300c3",
+		type: "item",
+		title: "Alunite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreAlunite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

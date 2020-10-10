@@ -1,0 +1,31 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"7f06245c"
+	],
+	tasks: [{
+		uid: "e7fb85c9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thermalexpansion:reservoir",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "693a10a5",
+		type: "item",
+		item: "gregtech:meta_item_1 1 32600",
+		count: 5
+	},
+	{
+		uid: "abbda99a",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

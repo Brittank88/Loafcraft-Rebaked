@@ -1,0 +1,51 @@
+{
+	title: "Molybdenite Vein",
+	x: 5.0d,
+	y: 1.0d,
+	dependencies: [
+		"54091da4"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "ff6de0dc",
+		type: "item",
+		title: "Wulfenite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreWulfenite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "82989f6a",
+		type: "item",
+		title: "Molybdenite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreMolybdenite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "6ddfd65e",
+		type: "item",
+		title: "Powellite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePowellite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

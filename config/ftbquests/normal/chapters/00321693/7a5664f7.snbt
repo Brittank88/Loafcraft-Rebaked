@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"571ea1f6",
+		"fee53234"
+	],
+	tasks: [{
+		uid: "0b9d3a72",
+		type: "fluid",
+		fluid: "di_ethylhexyl_phosphoric_acid"
+	}]
+}

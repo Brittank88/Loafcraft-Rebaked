@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"0da98360",
+		"c2279625"
+	],
+	tasks: [{
+		uid: "0260cbc9",
+		type: "item",
+		items: [{
+			item: "bloodmagic:soul_snare"
+		}]
+	}]
+}

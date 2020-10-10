@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"a7b9e074"
+	],
+	tasks: [{
+		uid: "eff8bfe5",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_atomic_reconstructor"
+		}]
+	}]
+}

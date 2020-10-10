@@ -1,0 +1,18 @@
+{
+	title: "LV Circuits",
+	icon: "gregtech:machine 1 501",
+	x: 0.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"48a9a961",
+		"638aa080",
+		"83897e07",
+		"e4845c03"
+	],
+	tasks: [{
+		uid: "7fc173c8",
+		type: "checkmark",
+		title: "LV Circuit Master"
+	}]
+}

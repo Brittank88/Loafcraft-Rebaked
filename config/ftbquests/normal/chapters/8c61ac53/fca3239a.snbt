@@ -1,0 +1,16 @@
+{
+	x: 27.5d,
+	y: 0.0d,
+	dependencies: [
+		"79b93d44",
+		"14dea790",
+		"8677a445"
+	],
+	tasks: [{
+		uid: "c2e36cb3",
+		type: "item",
+		items: [{
+			item: "metallurgy:sanguinite_ingot"
+		}]
+	}]
+}

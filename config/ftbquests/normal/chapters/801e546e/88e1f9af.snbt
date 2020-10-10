@@ -1,0 +1,51 @@
+{
+	title: "Tetrahedrite Vein",
+	x: -2.0d,
+	y: -1.0d,
+	dependencies: [
+		"65d0f580"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "9549cd3e",
+		type: "item",
+		title: "Tetrahedrite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTetrahedrite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "e46810f5",
+		type: "item",
+		title: "Copper Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "dc0811f1",
+		type: "item",
+		title: "Stibnite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreStibnite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

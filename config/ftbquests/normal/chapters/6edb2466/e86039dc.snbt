@@ -1,0 +1,38 @@
+{
+	title: "Time to get digging!",
+	x: 0.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	description: "It's only downhill from here.",
+	text: [
+		"Luckily, we were able to perform a brief geological survey prior to your arrival, so we do know that the mineral makeup of this planet's crust is very similar to that of our own. That means you should be able to build comparable infrastructure!",
+		" ",
+		"Don't worry about the schematics, we'll take care of those. You just start resource gathering and we'll help with the details as you need them."
+	],
+	dependencies: [
+		"c48f7b90"
+	],
+	tasks: [{
+		uid: "dca1a68f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4911d403",
+		type: "item",
+		item: "minecraft:torch",
+		count: 64
+	},
+	{
+		uid: "51bcf513",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

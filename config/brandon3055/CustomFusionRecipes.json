@@ -1,0 +1,30 @@
+[
+    {
+        "mode": "ADD",
+        "result": "projecte:item.pe_fuel,1,2",
+        "catalyst": "gregtech:meta_item_2,1,25357",
+        "energy": 128000,
+        "tier": 0,
+        "ingredients": [
+            "projecte:item.pe_fuel,1,1",
+            "projecte:item.pe_covalence_dust,1,0",
+            "projecte:item.pe_fuel,1,1",
+            "projecte:item.pe_covalence_dust,1,1",
+            "projecte:item.pe_fuel,1,1",
+            "projecte:item.pe_covalence_dust,1,2"
+        ]
+    },
+    {
+        "mode": "ADD",
+        "result": "enderio:item_alloy_ingot,1,8",
+        "catalyst": "metallurgy:meutoite_ingot,1,0",
+        "energy": 4000000,
+        "tier": 3,
+        "ingredients": [
+            "actuallyadditions:item_misc,1,19",
+            "botania:manaresource,1,15",
+            "thermalfoundation:material,1,167",
+            "extendedcrafting:material,1,36"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+{
+	title: "The Magic Master",
+	icon: "thermalfoundation:material 1 1028",
+	x: 6.0d,
+	y: -4.0d,
+	dependencies: [
+		"07d36e47"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "fb0f3ec9",
+		type: "checkmark",
+		title: "Unlock the Deepest Secrets of the Arcane"
+	}],
+	rewards: [{
+		uid: "9ba2d054",
+		type: "item",
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 255,
+				TrophyVariant: "classic",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "thermalfoundation:material",
+					Count: 1b,
+					Damage: 1028s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "The Magic Master",
+				TrophyColorRed: 255
+			}
+		}
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 23.5d,
+	y: 0.0d,
+	dependencies: [
+		"91e94079",
+		"329890fd",
+		"2fd81fd7"
+	],
+	tasks: [{
+		uid: "8336c911",
+		type: "item",
+		items: [{
+			item: "metallurgy:vulcanite_ingot"
+		}]
+	}]
+}

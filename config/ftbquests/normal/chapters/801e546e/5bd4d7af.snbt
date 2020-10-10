@@ -1,0 +1,35 @@
+{
+	x: 0.0d,
+	y: 2.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "68d5e6a8",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_scheelite_0 1 7"
+		}]
+	},
+	{
+		uid: "e16873a6",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_tungstate_0 1 7"
+		}]
+	},
+	{
+		uid: "5ab35307",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_lithium_0 1 7"
+		}]
+	},
+	{
+		uid: "9a227102",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_tellurium_0 1 7"
+		}]
+	}]
+}

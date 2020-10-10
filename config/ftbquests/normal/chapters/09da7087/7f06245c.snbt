@@ -1,0 +1,26 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"9e718fc3"
+	],
+	tasks: [{
+		uid: "fd73b3b5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10184"
+		}]
+	}],
+	rewards: [{
+		uid: "f172bf7d",
+		type: "item",
+		item: "gregtech:meta_item_1 1 10184",
+		count: 16
+	},
+	{
+		uid: "579cfe7c",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

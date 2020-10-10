@@ -1,0 +1,7 @@
+{
+	title: "Advanced Flux",
+	icon: "enderio:item_material 1 53",
+	always_invisible: false,
+	group: -567666654,
+	default_quest_shape: ""
+}

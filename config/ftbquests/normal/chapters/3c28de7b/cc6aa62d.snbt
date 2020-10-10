@@ -1,0 +1,17 @@
+{
+	x: -5.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"87813a35",
+		"8601632d",
+		"7c387ce2"
+	],
+	tasks: [{
+		uid: "8efd638e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:smelter_basic"
+		}]
+	}]
+}

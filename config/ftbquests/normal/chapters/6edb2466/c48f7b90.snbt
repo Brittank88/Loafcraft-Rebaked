@@ -1,0 +1,26 @@
+{
+	title: "Arrival",
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Ah, you're finally awake.",
+	text: [
+		"You may be wondering where you are. In fact, you may even be wondering who or what you are in the first place. Excellent questions, I assure you, but first thing's first, let's get you situated in this strange new world.",
+		" ",
+		"Chances are that you at least know what a crafting table is and how to make one still. If not, though, feel free to take advantage of our patented J.E.I. crafting assistant database we've sent you along with to look up the recipe yourself!",
+		" ",
+		"Oh, and be sure to place down the dimensional linking node we're providing you somewhere safe, because it's going to be very handy and we're only giving you one. So try not to lose it."
+	],
+	tasks: [{
+		uid: "92a0498d",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}],
+	rewards: [{
+		uid: "582a97c3",
+		type: "item",
+		item: "projectex:power_flower"
+	}]
+}

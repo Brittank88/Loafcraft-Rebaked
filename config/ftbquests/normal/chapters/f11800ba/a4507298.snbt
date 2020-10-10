@@ -1,0 +1,32 @@
+{
+	title: "Orange Matter Power Flower",
+	icon: "projectex:power_flower 1 12",
+	x: 10.5d,
+	y: 5.5d,
+	dependencies: [
+		"9b3f70c2",
+		"e772bc17"
+	],
+	tasks: [{
+		uid: "077371d5",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 11"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d1f7923e",
+		type: "item",
+		items: [{
+			item: "projectex:matter 1 9"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "9add74d1",
+		type: "item",
+		item: "projectex:power_flower 1 12"
+	}]
+}

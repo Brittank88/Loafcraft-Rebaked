@@ -1,0 +1,65 @@
+{
+	title: "Sapphire Vein",
+	x: 1.0d,
+	y: -3.0d,
+	dependencies: [
+		"f26ac202"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "b07330d0",
+		type: "item",
+		title: "Almandine Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreAlmandine",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "f46bd01e",
+		type: "item",
+		title: "Pyrope Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePyrope",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "00a029f7",
+		type: "item",
+		title: "Sapphire Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreSapphire",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "d3f647ba",
+		type: "item",
+		title: "Green Sapphire Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGreenSapphire",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

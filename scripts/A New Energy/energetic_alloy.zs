@@ -1,0 +1,1 @@
+mods.thermalexpansion.Infuser.addRecipe(<enderio:item_alloy_ingot:1>, <metallurgy:ignatius_ingot>, 8000);

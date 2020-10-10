@@ -1,0 +1,13 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"40e249e1"
+	],
+	tasks: [{
+		uid: "c4f573c9",
+		type: "fluid",
+		fluid: "antimony_pentafluoride"
+	}]
+}

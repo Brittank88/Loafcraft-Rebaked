@@ -1,0 +1,16 @@
+{
+	title: "Tier 5",
+	x: 0.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"8b3e282f"
+	],
+	tasks: [{
+		uid: "dc333c9a",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_frame 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	title: "Electrolytic Separator",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mekanism:machineblock2",
+		Damage: 4s
+	},
+	x: -1.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"49a67caa",
+		"2130947b"
+	],
+	tasks: [{
+		uid: "63139b1b",
+		type: "item",
+		items: [{
+			item: "mekanism:electrolyticcore"
+		}]
+	},
+	{
+		uid: "b2d7720c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:machineblock2",
+			Damage: 4s
+		}],
+		ignore_nbt: 1b
+	}]
+}

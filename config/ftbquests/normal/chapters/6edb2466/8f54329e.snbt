@@ -1,0 +1,35 @@
+{
+	icon: "gregtech:metal_casing 1 8",
+	x: -1.5d,
+	y: 6.0d,
+	shape: "hexagon",
+	description: "Because better fuel is one hell of a drug.",
+	dependencies: [
+		"6221e12a"
+	],
+	tasks: [{
+		uid: "9ffef254",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 32016"
+		}]
+	},
+	{
+		uid: "5872a85a",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "584b0ae2",
+		type: "item",
+		item: "gregtech:metal_casing 1 8",
+		count: 16
+	},
+	{
+		uid: "dc46e996",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

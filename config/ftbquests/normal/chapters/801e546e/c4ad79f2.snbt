@@ -1,0 +1,65 @@
+{
+	title: "Soapstone Vein",
+	x: 3.0d,
+	y: 1.0d,
+	dependencies: [
+		"1b6ad9da"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "ec2ab623",
+		type: "item",
+		title: "Soapstone Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreSoapstone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "a9d0fb04",
+		type: "item",
+		title: "Talc Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTalc",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "3737f5c6",
+		type: "item",
+		title: "Glauconite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGlauconite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "1bd6d6e3",
+		type: "item",
+		title: "Pentlandite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePentlandite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

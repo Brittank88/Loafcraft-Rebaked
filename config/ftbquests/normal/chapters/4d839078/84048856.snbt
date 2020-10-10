@@ -1,0 +1,29 @@
+{
+	x: -5.0d,
+	y: 6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"4866a5b4"
+	],
+	tasks: [{
+		uid: "66d7885a",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 7"
+		}]
+	},
+	{
+		uid: "03fba3f6",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 8"
+		}]
+	},
+	{
+		uid: "62337de0",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 9"
+		}]
+	}]
+}

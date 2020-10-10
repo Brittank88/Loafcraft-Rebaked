@@ -1,0 +1,16 @@
+{
+	title: "Primal Mana",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "mana",
+			Amount: 1000
+		}
+	},
+	always_invisible: false,
+	group: 131296839,
+	default_quest_shape: ""
+}

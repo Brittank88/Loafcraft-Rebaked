@@ -1,0 +1,21 @@
+{
+	x: -1.5d,
+	y: 1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"08dbb6c7",
+		"b822c893"
+	],
+	tasks: [{
+		uid: "d5c7320a",
+		type: "item",
+		items: [{
+			item: "metallurgy:prometheum_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "aee5894d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

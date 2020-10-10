@@ -1,0 +1,13 @@
+{
+	icon: "minecraft:grass",
+	x: -6.0d,
+	y: -6.0d,
+	dependencies: [
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "3644438d",
+		type: "dimension",
+		dim: 0
+	}]
+}

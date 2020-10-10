@@ -1,0 +1,41 @@
+{
+	title: "Jetpack",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "mekanism:jetpack"
+	},
+	x: -3.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"2734b29b"
+	],
+	tasks: [{
+		uid: "23aeb1af",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:gastank",
+			tag: {
+				tier: 0
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "213a83d3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:jetpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

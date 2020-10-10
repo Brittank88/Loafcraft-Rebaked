@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"390a18f3",
+		"604fb33c"
+	],
+	tasks: [{
+		uid: "1d37bf41",
+		type: "item",
+		items: [{
+			item: "metallurgy:vyroxeres_ingot"
+		}]
+	}]
+}

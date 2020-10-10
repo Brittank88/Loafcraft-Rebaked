@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"387a7091"
+	],
+	tasks: [{
+		uid: "f6dc28f1",
+		type: "fluid",
+		fluid: "aqua_regia"
+	}]
+}

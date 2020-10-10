@@ -1,0 +1,58 @@
+# Vanilla
+options.txt
+servers.dat
+usercache.json
+logs/
+crash-reports/
+saves/
+screenshots/
+resourcepacks/
+natives/
+
+# GDLauncher
+config.json
+manifest.json
+
+# Forge
+usernamecache.json
+config/splash.properties
+.mixin.out/
+
+# ReAuth
+.ReAuth.cfg
+
+# CraftTweaker (CT)
+crafttweaker.log
+
+# Botania
+BotaniaVars.dat
+
+# Patchouli
+patchouli_data.json
+
+# Inventory Tweaks
+config/InvTweaks.cfg
+
+# Just Enough Items (JEI)
+config/jei/jei.cfg
+config/jei/worldSettings.cfg
+config/jei/bookmarks.ini
+
+# Thaumcraft 6
+config/thaumicjei_itemstack_aspects.json
+
+# FTB Utilities (FTBU)
+local/ftbutilities/backups.json
+backups/
+
+# Draconic Evolution (DE)
+config/brandon3055/ResourceCache/
+
+# Journeymap
+journeymap/journeymap.log
+journeymap/data/
+journeymap/icon/
+journeymap/server/
+
+# Astral Sorcery (AS)
+astralsorcery/

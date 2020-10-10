@@ -1,0 +1,60 @@
+{
+	title: "Blast Furnace",
+	icon: "gregtech:machine 1 2534",
+	x: -6.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3a86c02a",
+		"9b46d8df"
+	],
+	tasks: [{
+		uid: "33dfcb8b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 714"
+		}],
+		count: 2L
+	},
+	{
+		uid: "c0af1764",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 712"
+		}]
+	},
+	{
+		uid: "0502f07a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 710"
+		}]
+	},
+	{
+		uid: "b3f22ce3",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 711"
+		}]
+	},
+	{
+		uid: "6966081c",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing_invar"
+		}],
+		count: 12L
+	},
+	{
+		uid: "1197dd3a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2534"
+		}]
+	}],
+	rewards: [{
+		uid: "f93d41b5",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Lapis",
+	icon: "gregtech:meta_item_1 1 216",
+	x: -2.0d,
+	y: -3.0d,
+	dependencies: [
+		"3bab6d3a",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "1a1caaac",
+		type: "checkmark"
+	},
+	{
+		uid: "32c22d23",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 216"
+		}]
+	}]
+}

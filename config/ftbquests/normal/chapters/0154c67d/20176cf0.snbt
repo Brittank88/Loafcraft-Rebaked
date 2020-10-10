@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	description: "What about this is living..?",
+	text: [
+		"Initial analysis suggests that placing mundane stone around a pure daisy should eventually get you a new and potentially useful material. Not like stone is particularly hard to come by, so let's give it a shot!"
+	],
+	dependencies: [
+		"3303ea09"
+	],
+	tasks: [{
+		uid: "671f5665",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}]
+	}],
+	rewards: [{
+		uid: "12a9fd0d",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

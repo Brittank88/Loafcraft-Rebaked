@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"3f7b4eeb",
+		"08329981"
+	],
+	tasks: [{
+		uid: "9dc0a615",
+		type: "item",
+		items: [{
+			item: "gregtech:cable 1 5018"
+		}]
+	}],
+	rewards: [{
+		uid: "c1c1cc8a",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

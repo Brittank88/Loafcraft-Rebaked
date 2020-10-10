@@ -1,0 +1,12 @@
+{
+	title: "All That Matters",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "projectex:final_star"
+	},
+	always_invisible: false,
+	group: 767695227,
+	default_quest_shape: ""
+}

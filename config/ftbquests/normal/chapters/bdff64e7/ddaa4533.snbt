@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"8b3e282f"
+	],
+	tasks: [{
+		uid: "e541b0d1",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:upgrade 1 2"
+		}]
+	}]
+}

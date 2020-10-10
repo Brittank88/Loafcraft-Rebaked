@@ -1,0 +1,41 @@
+{
+	title: "Electricity!",
+	x: 4.5d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"99e51b89"
+	],
+	tasks: [{
+		uid: "3b0ab140",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2242"
+		}]
+	}],
+	rewards: [{
+		uid: "6c6c0b78",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "41b5030b",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:mob_imprisonment_tool"
+		}
+	},
+	{
+		uid: "a18dffe4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "industrialforegoing:mob_imprisonment_tool"
+		}
+	}]
+}

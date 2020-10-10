@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"94fdbef9"
+	],
+	tasks: [{
+		uid: "444bfec2",
+		type: "item",
+		items: [{
+			item: "metallurgy:haderoth_ingot"
+		}]
+	}]
+}

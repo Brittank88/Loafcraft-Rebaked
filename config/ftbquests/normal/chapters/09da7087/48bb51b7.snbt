@@ -1,0 +1,36 @@
+{
+	title: "Wood Plank",
+	icon: "gregtech:meta_item_1 1 12196",
+	x: 4.5d,
+	y: -0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"1d001253",
+		"08f6e881"
+	],
+	tasks: [{
+		uid: "180a049a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2196"
+		}]
+	},
+	{
+		uid: "3eb08a9c",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 12196"
+		}]
+	}],
+	rewards: [{
+		uid: "1a3fa487",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12196",
+		count: 20
+	},
+	{
+		uid: "ef13a59e",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

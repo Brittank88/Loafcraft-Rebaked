@@ -1,0 +1,12 @@
+{
+	x: 16.5d,
+	y: -3.0d,
+	dependencies: [
+		"e00c3909"
+	],
+	tasks: [{
+		uid: "c215ba25",
+		type: "fluid",
+		fluid: "chloroform"
+	}]
+}

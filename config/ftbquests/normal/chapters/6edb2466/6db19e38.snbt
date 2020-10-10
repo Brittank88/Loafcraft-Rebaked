@@ -1,0 +1,140 @@
+{
+	title: "Mystical Flowers",
+	x: 0.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	description: "Magic plants?",
+	text: [
+		"Preliminary scans of the world you've landed in have revealed strange energy signatures emanating from some of the nearby flora. Perhaps gathering at least one of each will grant some useful insights."
+	],
+	dependencies: [
+		"c48f7b90"
+	],
+	tasks: [{
+		uid: "981f0b65",
+		type: "item",
+		items: [{
+			item: "botania:flower"
+		}]
+	},
+	{
+		uid: "8729462b",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 1"
+		}]
+	},
+	{
+		uid: "a9d6a346",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 2"
+		}]
+	},
+	{
+		uid: "df98301c",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 3"
+		}]
+	},
+	{
+		uid: "fd655124",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 4"
+		}]
+	},
+	{
+		uid: "2a20f75c",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 5"
+		}]
+	},
+	{
+		uid: "b45962ea",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 6"
+		}]
+	},
+	{
+		uid: "8c04a3a7",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 7"
+		}]
+	},
+	{
+		uid: "a976774e",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 8"
+		}]
+	},
+	{
+		uid: "665e6f22",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 9"
+		}]
+	},
+	{
+		uid: "b0a3b558",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 10"
+		}]
+	},
+	{
+		uid: "a34fde71",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 11"
+		}]
+	},
+	{
+		uid: "98c7d4d7",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 12"
+		}]
+	},
+	{
+		uid: "d0b943b2",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 13"
+		}]
+	},
+	{
+		uid: "c215e9f3",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 14"
+		}]
+	},
+	{
+		uid: "1dee9a3f",
+		type: "item",
+		items: [{
+			item: "botania:flower 1 15"
+		}]
+	}],
+	rewards: [{
+		uid: "9c19c0fc",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:grasshorn"
+		}
+	},
+	{
+		uid: "728580f3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

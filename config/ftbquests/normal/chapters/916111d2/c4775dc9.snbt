@@ -1,0 +1,35 @@
+{
+	title: "The Flux Master",
+	icon: "thermalexpansion:frame 1 148",
+	x: 0.0d,
+	y: -7.0d,
+	dependencies: [
+		"de2a1822"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "3785e592",
+		type: "checkmark",
+		title: "Perfect the Fusion of Magic and Technology"
+	}],
+	rewards: [{
+		uid: "7f7b90f9",
+		type: "item",
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 255,
+				TrophyVariant: "classic",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "thermalexpansion:frame",
+					Count: 1b,
+					Damage: 148s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "The Flux Master",
+				TrophyColorRed: 255
+			}
+		}
+	}]
+}

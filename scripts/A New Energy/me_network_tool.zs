@@ -1,0 +1,1 @@
+recipes.addShapeless("networkTool", <appliedenergistics2:network_tool>, [<thermalfoundation:wrench>, <appliedenergistics2:material:22>]);

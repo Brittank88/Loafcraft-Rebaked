@@ -1,0 +1,15 @@
+{
+	x: 25.5d,
+	y: -7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"103c2104",
+		"af536d1c"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "d73410eb",
+		type: "fluid",
+		fluid: "ammonia"
+	}]
+}

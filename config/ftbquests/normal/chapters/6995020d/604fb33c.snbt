@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	hide_dependency_lines: true,
+	dependencies: [
+		"080f0fa7"
+	],
+	tasks: [{
+		uid: "423260aa",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 6"
+		}]
+	}]
+}

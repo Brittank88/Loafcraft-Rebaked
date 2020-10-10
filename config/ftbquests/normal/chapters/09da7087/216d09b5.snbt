@@ -1,0 +1,27 @@
+{
+	title: "Steam Power!",
+	x: 1.5d,
+	y: -0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"08dbb6c7"
+	],
+	tasks: [{
+		uid: "93619771",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "b9cd06a0",
+		type: "item",
+		item: "cookingforblockheads:sink"
+	},
+	{
+		uid: "39fcdf12",
+		type: "item",
+		item: "enderio:item_liquid_conduit",
+		count: 8
+	}]
+}

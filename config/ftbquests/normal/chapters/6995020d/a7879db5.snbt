@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"d7aac126",
+		"610bddf3"
+	],
+	tasks: [{
+		uid: "35dec646",
+		type: "fluid",
+		fluid: "indium_concentrate"
+	}]
+}

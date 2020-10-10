@@ -1,0 +1,42 @@
+{
+	title: "A Solid Foundation",
+	icon: "minecraft:brick_block",
+	x: 0.0d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"6221e12a"
+	],
+	tasks: [{
+		uid: "9c03f4a8",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 32013"
+		}]
+	},
+	{
+		uid: "d7490f47",
+		type: "item",
+		items: [{
+			item: "minecraft:brick"
+		}]
+	},
+	{
+		uid: "ce11495f",
+		type: "item",
+		items: [{
+			item: "minecraft:brick_block"
+		}]
+	}],
+	rewards: [{
+		uid: "0661245f",
+		type: "item",
+		item: "minecraft:brick_block",
+		count: 16
+	},
+	{
+		uid: "a176d1d1",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

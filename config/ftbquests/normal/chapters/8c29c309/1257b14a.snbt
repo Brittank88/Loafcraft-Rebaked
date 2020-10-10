@@ -1,0 +1,13 @@
+{
+	x: 24.0d,
+	y: -7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"4d17a836"
+	],
+	tasks: [{
+		uid: "fbc9cccd",
+		type: "fluid",
+		fluid: "air"
+	}]
+}

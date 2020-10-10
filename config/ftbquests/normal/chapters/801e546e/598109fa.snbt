@@ -1,0 +1,21 @@
+{
+	title: "Bornite",
+	icon: "gregtech:meta_item_1 1 360",
+	x: -2.0d,
+	y: 2.0d,
+	dependencies: [
+		"d79a9481",
+		"cf5a5a41"
+	],
+	tasks: [{
+		uid: "092350c7",
+		type: "checkmark"
+	},
+	{
+		uid: "0ecbaa4a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 360"
+		}]
+	}]
+}

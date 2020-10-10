@@ -1,0 +1,3 @@
+recipes.remove(<projectex:matter:5>);
+
+mods.botania.RuneAltar.addRecipe(<projectex:matter:5> * 8, [<astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <astralsorcery:itemcraftingcomponent:4>, <bloodmagic:activation_crystal:1>], 2000);

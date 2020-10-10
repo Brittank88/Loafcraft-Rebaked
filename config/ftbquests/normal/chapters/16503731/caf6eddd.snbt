@@ -1,0 +1,14 @@
+{
+	x: 1.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"83d04a90",
+		"d9d50513"
+	],
+	tasks: [{
+		uid: "74f767cb",
+		type: "fluid",
+		fluid: "sulfuric_naphtha"
+	}]
+}

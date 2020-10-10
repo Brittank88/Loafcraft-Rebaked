@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"64f0607e"
+	],
+	tasks: [{
+		uid: "fdaca7f9",
+		type: "item",
+		items: [{
+			item: "enderio:block_alloy_smelter"
+		}]
+	}]
+}

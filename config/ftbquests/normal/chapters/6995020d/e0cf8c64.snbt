@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	hide_dependency_lines: true,
+	dependencies: [
+		"a21115a6"
+	],
+	tasks: [{
+		uid: "b16d7147",
+		type: "item",
+		items: [{
+			item: "metallurgy:amordrine_ingot"
+		}]
+	}]
+}

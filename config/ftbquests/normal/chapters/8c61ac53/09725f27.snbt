@@ -1,0 +1,16 @@
+{
+	x: 8.5d,
+	y: 0.0d,
+	dependencies: [
+		"1aa7ecf7",
+		"cf47e4fe",
+		"a49d60e6"
+	],
+	tasks: [{
+		uid: "b3ae2826",
+		type: "item",
+		items: [{
+			item: "metallurgy:ceruclase_ingot"
+		}]
+	}]
+}

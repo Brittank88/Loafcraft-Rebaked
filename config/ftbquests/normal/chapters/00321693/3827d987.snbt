@@ -1,0 +1,16 @@
+{
+	x: 13.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"6aa077ae",
+		"049072f7"
+	],
+	tasks: [{
+		uid: "defde831",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil 1 8"
+		}]
+	}]
+}

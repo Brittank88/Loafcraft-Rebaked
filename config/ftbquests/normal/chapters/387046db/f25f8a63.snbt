@@ -1,0 +1,12 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	dependencies: [
+		"0f1d9385"
+	],
+	tasks: [{
+		uid: "c81f4b27",
+		type: "fluid",
+		fluid: "naquadria_difluoride"
+	}]
+}

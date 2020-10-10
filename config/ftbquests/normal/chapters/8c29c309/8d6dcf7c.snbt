@@ -1,0 +1,15 @@
+{
+	x: 30.0d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"5b690e96",
+		"387a7091",
+		"bd0bdea4"
+	],
+	tasks: [{
+		uid: "e5c9e40c",
+		type: "fluid",
+		fluid: "rocket_fuel_b"
+	}]
+}

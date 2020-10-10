@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"8b3e282f"
+	],
+	tasks: [{
+		uid: "d1005f3a",
+		type: "item",
+		items: [{
+			item: "techreborn:machine_casing 1 2"
+		}]
+	}]
+}

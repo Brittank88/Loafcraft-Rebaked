@@ -1,0 +1,17 @@
+{
+	x: 18.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"077dd9e1",
+		"3827d987",
+		"fe3d46b6"
+	],
+	tasks: [{
+		uid: "8fc2cad5",
+		type: "item",
+		items: [{
+			item: "metallurgy:etherium_ingot"
+		}]
+	}]
+}

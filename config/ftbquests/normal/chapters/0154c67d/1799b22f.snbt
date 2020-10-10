@@ -1,0 +1,26 @@
+{
+	x: 3.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	description: "Is this rock living, too?",
+	text: [
+		"As it turns out, it seems the type of stone you place around the pure daisy matters!",
+		" ",
+		"According to what we know so far, placing raw marble near the special flower should... purify it, for lack of a better term, making it potentially usable for mystical constructs in the future."
+	],
+	dependencies: [
+		"3303ea09"
+	],
+	tasks: [{
+		uid: "eeb3a6c6",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockmarble"
+		}]
+	}],
+	rewards: [{
+		uid: "4f1887f0",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "ZPM Circuits",
+	icon: "gregtech:machine 1 507",
+	x: 6.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"4ccd8fa5",
+		"874f72e2",
+		"bcec43ba",
+		"a4d30c24"
+	],
+	tasks: [{
+		uid: "2b246fd3",
+		type: "checkmark",
+		title: "ZPM Circuit Master"
+	}]
+}

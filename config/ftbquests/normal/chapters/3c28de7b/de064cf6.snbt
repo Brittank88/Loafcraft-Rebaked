@@ -1,0 +1,18 @@
+{
+	x: -8.5d,
+	y: -2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"d7c81730",
+		"fa144dfd",
+		"1799b22f",
+		"bd1cb7f3"
+	],
+	tasks: [{
+		uid: "a33c6fbe",
+		type: "item",
+		items: [{
+			item: "astralsorcery:blockwell"
+		}]
+	}]
+}

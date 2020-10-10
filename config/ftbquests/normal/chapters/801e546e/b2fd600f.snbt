@@ -1,0 +1,28 @@
+{
+	x: 5.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "c1d7d90d",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_topaz_0 1 6"
+		}]
+	},
+	{
+		uid: "de242ce2",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_blue_topaz_0 1 6"
+		}]
+	},
+	{
+		uid: "2ebcc7b2",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_zirkelite_0 1 6"
+		}]
+	}]
+}

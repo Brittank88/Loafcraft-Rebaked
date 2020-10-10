@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: 3.0d,
+	dependencies: [
+		"502c71a0",
+		"95b723c4"
+	],
+	tasks: [{
+		uid: "848f82f5",
+		type: "fluid",
+		fluid: "cesium_xenontrioxide_fluoride"
+	}]
+}

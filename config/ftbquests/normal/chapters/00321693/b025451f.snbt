@@ -1,0 +1,17 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"5e877cef",
+		"823adc13",
+		"5e6c70bb"
+	],
+	tasks: [{
+		uid: "76b48e5d",
+		type: "item",
+		items: [{
+			item: "metallurgy:celenegil_ingot"
+		}]
+	}]
+}

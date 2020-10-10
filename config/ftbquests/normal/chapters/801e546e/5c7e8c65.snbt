@@ -1,0 +1,51 @@
+{
+	title: "Platinum Vein",
+	x: -1.0d,
+	y: 4.0d,
+	dependencies: [
+		"0923b23a"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "7dd3f881",
+		type: "item",
+		title: "Platinum Metallic Powder Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePlatinumMetallicPowder",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "b2c81037",
+		type: "item",
+		title: "Palladium Metallic Powder Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePalladiumMetallicPowder",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "0cf7baeb",
+		type: "item",
+		title: "Rarest Metal Residue Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreRarestMetalResidue",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

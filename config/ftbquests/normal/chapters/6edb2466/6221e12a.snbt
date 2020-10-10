@@ -1,0 +1,171 @@
+{
+	title: "Iron Tools",
+	x: 0.0d,
+	y: 6.0d,
+	shape: "hexagon",
+	description: "Sure would be nice to have a box to put these in...",
+	text: [
+		"These are all tools that you're going to need to progress into industry, so let's get one of each right away!",
+		"",
+		"Well, the butchery knife isn't strictly necessary but you'll be glad you made one!"
+	],
+	dependencies: [
+		"7186fc0c"
+	],
+	tasks: [{
+		uid: "7b986548",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			},
+			Damage: 12s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "04702083",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			},
+			Damage: 6s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "5ab2bba4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			},
+			Damage: 8s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1d4f8d2b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			},
+			Damage: 9s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "aa614f3d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			},
+			Damage: 5s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9bcea74a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gtadditions:ga_meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "6fdf14ec",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2f981b77",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			},
+			Damage: 17s
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c7cbfc16",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 21
+				}],
+				GT.ToolStats: {
+					Material: "iron"
+				}
+			},
+			Damage: 18s
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ef23e700",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

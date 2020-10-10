@@ -1,0 +1,38 @@
+{
+	title: "Agriculture!",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "The foundation of society",
+	text: [
+		"I'm not saying you need it to survive or anything, but you could probably do with some starches and greens in your diet.",
+		" ",
+		"If that doesn't appeal to you, however, the ability to make slimeballs out of rice and string out of flax and other crops might pique your interest."
+	],
+	dependencies: [
+		"c48f7b90"
+	],
+	tasks: [{
+		uid: "b8632277",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_hoe"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1c09d4f3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

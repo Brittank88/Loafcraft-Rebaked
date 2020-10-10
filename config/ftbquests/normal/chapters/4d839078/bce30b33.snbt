@@ -1,0 +1,24 @@
+{
+	icon: "botania:pylon 1 2",
+	x: -5.5d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"84048856"
+	],
+	tasks: [{
+		uid: "d0f5a716",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 2"
+		}],
+		count: 4L
+	},
+	{
+		uid: "e584b7d5",
+		type: "item",
+		items: [{
+			item: "minecraft:beacon"
+		}]
+	}]
+}

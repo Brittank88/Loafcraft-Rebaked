@@ -1,0 +1,16 @@
+{
+	x: 19.5d,
+	y: 0.0d,
+	dependencies: [
+		"e197b892",
+		"1feabc2c",
+		"05bdf35e"
+	],
+	tasks: [{
+		uid: "47be4022",
+		type: "item",
+		items: [{
+			item: "metallurgy:amordrine_ingot"
+		}]
+	}]
+}

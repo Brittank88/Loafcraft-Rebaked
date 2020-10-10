@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: 1.5d,
+	dependencies: [
+		"57157aa9",
+		"716a1c30"
+	],
+	tasks: [{
+		uid: "fa24df28",
+		type: "fluid",
+		fluid: "naquadriatic_solution"
+	}]
+}

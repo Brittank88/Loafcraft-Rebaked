@@ -1,0 +1,77 @@
+{
+	x: 13.5d,
+	y: -9.0d,
+	shape: "hexagon",
+	dependencies: [
+		"cacc7206"
+	],
+	tasks: [{
+		uid: "b7b2290a",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2557"
+		}]
+	},
+	{
+		uid: "fffc2656",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 743"
+		}],
+		count: 2L
+	},
+	{
+		uid: "d762298f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 744"
+		}]
+	},
+	{
+		uid: "c79689e3",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 742"
+		}],
+		count: 4L
+	},
+	{
+		uid: "f212bf3f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 740"
+		}]
+	},
+	{
+		uid: "92a69dfa",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing_steel"
+		}],
+		count: 32L
+	},
+	{
+		uid: "07890d78",
+		type: "item",
+		items: [{
+			item: "gtadditions:ga_transparent_casing"
+		}],
+		count: 48L
+	},
+	{
+		uid: "4357f8e1",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil 1 2"
+		}],
+		count: 24L
+	},
+	{
+		uid: "b528731a",
+		type: "item",
+		items: [{
+			item: "gtadditions:ga_multiblock_casing 1 7"
+		}],
+		count: 3L
+	}]
+}

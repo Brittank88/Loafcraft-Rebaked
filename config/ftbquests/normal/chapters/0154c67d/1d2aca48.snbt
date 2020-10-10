@@ -1,0 +1,26 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	description: "Magic storage?",
+	text: [
+		"Recent findings seem to suggest that livingrock may be able to, when worked into the proper shape, store large amounts of the mystical energy these plants put out.",
+		" ",
+		"Only problem is that most of these flowers put out so little energy that nothing would ever make it into the pool in the first place. I'm sure there's something we can do about that, though."
+	],
+	dependencies: [
+		"20176cf0"
+	],
+	tasks: [{
+		uid: "de19d1fd",
+		type: "item",
+		items: [{
+			item: "botania:pool"
+		}]
+	}],
+	rewards: [{
+		uid: "817c5160",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

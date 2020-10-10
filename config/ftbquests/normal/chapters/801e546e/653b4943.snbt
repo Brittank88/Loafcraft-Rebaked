@@ -1,0 +1,65 @@
+{
+	title: "Dolomite Vein",
+	x: 1.0d,
+	y: 1.0d,
+	dependencies: [
+		"9078b4b6"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "b797aa98",
+		type: "item",
+		title: "Dolomite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreDolomite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "736adbdd",
+		type: "item",
+		title: "Wollastonite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreWollastonite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "a6e725c2",
+		type: "item",
+		title: "Trona Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTrona",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "4dd8b97f",
+		type: "item",
+		title: "Andradite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreAndradite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

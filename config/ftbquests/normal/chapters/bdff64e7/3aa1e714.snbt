@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"8b3e282f"
+	],
+	tasks: [{
+		uid: "1536e925",
+		type: "item",
+		items: [{
+			item: "enderio:block_soul_binder"
+		}]
+	}]
+}

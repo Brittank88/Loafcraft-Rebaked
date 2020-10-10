@@ -1,0 +1,7 @@
+{
+	title: "Refined Mana",
+	icon: "gregtech:meta_item_1 1 2247",
+	always_invisible: false,
+	group: 131296839,
+	default_quest_shape: ""
+}

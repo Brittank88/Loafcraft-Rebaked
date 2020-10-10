@@ -1,0 +1,15 @@
+{
+	x: 22.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"57157aa9",
+		"559284b6",
+		"008ced5b"
+	],
+	tasks: [{
+		uid: "e147f417",
+		type: "fluid",
+		fluid: "platinum_concentrate"
+	}]
+}

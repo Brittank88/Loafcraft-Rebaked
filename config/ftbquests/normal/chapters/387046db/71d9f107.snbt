@@ -1,0 +1,12 @@
+{
+	x: 18.0d,
+	y: -3.0d,
+	dependencies: [
+		"e00c3909"
+	],
+	tasks: [{
+		uid: "5c740765",
+		type: "fluid",
+		fluid: "hydrofluoric_acid"
+	}]
+}

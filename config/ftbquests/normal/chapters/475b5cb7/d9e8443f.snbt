@@ -1,0 +1,18 @@
+{
+	title: "Bacon Cheeseburger x32 [28,800]",
+	icon: "harvestcraft:baconcheeseburgeritem",
+	x: 0.0d,
+	y: 3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "a2c761b5",
+		type: "emc",
+		value: 28800L
+	}],
+	rewards: [{
+		uid: "66a371af",
+		type: "item",
+		item: "harvestcraft:baconcheeseburgeritem",
+		count: 32
+	}]
+}

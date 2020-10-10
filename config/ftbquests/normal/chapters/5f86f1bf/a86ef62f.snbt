@@ -1,0 +1,15 @@
+{
+	x: -10.5d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"ef2cc026"
+	],
+	tasks: [{
+		uid: "bbf68afb",
+		type: "item",
+		items: [{
+			item: "metallurgy:ignatius_ingot"
+		}]
+	}]
+}

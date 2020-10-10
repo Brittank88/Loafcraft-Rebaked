@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 0.0d,
+	dependencies: [
+		"59a2729e",
+		"a7ca48c2",
+		"639ca993"
+	],
+	tasks: [{
+		uid: "0741bb1a",
+		type: "item",
+		items: [{
+			item: "metallurgy:shadow_steel_ingot"
+		}]
+	}]
+}

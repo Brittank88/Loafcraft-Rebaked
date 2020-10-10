@@ -1,0 +1,12 @@
+{
+	title: "Raw Mana",
+	icon: {
+		id: "botania:specialflower",
+		tag: {
+			type: "puredaisy"
+		}
+	},
+	always_invisible: false,
+	group: 131296839,
+	default_quest_shape: ""
+}

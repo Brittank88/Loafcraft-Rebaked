@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: 1.5d,
+	dependencies: [
+		"2fd30a9b",
+		"29f81c7d"
+	],
+	tasks: [{
+		uid: "b2e1048c",
+		type: "fluid",
+		fluid: "fluoronaquadriatic_acid"
+	}]
+}

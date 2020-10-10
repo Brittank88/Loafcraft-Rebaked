@@ -1,0 +1,32 @@
+{
+	title: "Green Matter Power Flower",
+	icon: "projectex:power_flower 1 9",
+	x: 7.5d,
+	y: 5.5d,
+	dependencies: [
+		"c4b36cf7",
+		"c65acdbe"
+	],
+	tasks: [{
+		uid: "b223fbc2",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 8"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "2a83d800",
+		type: "item",
+		items: [{
+			item: "projectex:matter 1 6"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "d8f859d6",
+		type: "item",
+		item: "projectex:power_flower 1 9"
+	}]
+}

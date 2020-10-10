@@ -1,0 +1,65 @@
+{
+	title: "Mica Vein",
+	x: 1.0d,
+	y: -4.0d,
+	dependencies: [
+		"106dad55"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "e17ee9d4",
+		type: "item",
+		title: "Mica Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreMica",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "2a379382",
+		type: "item",
+		title: "Asbestos Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreAsbestos",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "b26bd137",
+		type: "item",
+		title: "Gypsum Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGypsum",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "6982f4de",
+		type: "item",
+		title: "Kaolinite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreKaolinite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

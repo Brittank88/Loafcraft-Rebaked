@@ -1,0 +1,32 @@
+{
+	title: "White Matter Power Flower",
+	icon: "projectex:power_flower 1 13",
+	x: 11.5d,
+	y: 5.5d,
+	dependencies: [
+		"a4507298",
+		"05c2552f"
+	],
+	tasks: [{
+		uid: "81f04b07",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 12"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "df57a3bf",
+		type: "item",
+		items: [{
+			item: "projectex:matter 1 10"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "bc90faef",
+		type: "item",
+		item: "projectex:power_flower 1 13"
+	}]
+}

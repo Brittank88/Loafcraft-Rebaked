@@ -1,0 +1,21 @@
+{
+	title: "Iron",
+	icon: "gregtech:meta_item_1 1 33",
+	x: -4.0d,
+	y: -2.0d,
+	dependencies: [
+		"3bab6d3a",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "84e862bb",
+		type: "checkmark"
+	},
+	{
+		uid: "4ebddecf",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 33"
+		}]
+	}]
+}

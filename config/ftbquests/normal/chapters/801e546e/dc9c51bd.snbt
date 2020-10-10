@@ -1,0 +1,37 @@
+{
+	title: "Apatite Vein",
+	x: 2.0d,
+	y: -1.0d,
+	dependencies: [
+		"9fd46a07"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "7426394a",
+		type: "item",
+		title: "Apatite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreApatite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "98314b56",
+		type: "item",
+		title: "Phosphor Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePhosphor",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

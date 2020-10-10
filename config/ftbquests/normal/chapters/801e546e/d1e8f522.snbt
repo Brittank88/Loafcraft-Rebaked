@@ -1,0 +1,57 @@
+{
+	title: "Nether Precious Metals Vein",
+	x: 1.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "06d99ab2",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_silver_0 1 6"
+		}]
+	},
+	{
+		uid: "12214df2",
+		type: "item",
+		items: [{
+			item: "gregtech:poor_ore_precious_metal_0 1 6"
+		}]
+	},
+	{
+		uid: "a93fc3dc",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_precious_metal_0 1 6"
+		}]
+	},
+	{
+		uid: "103bef4b",
+		type: "item",
+		items: [{
+			item: "gregtech:pure_ore_precious_metal_0 1 6"
+		}]
+	},
+	{
+		uid: "e9fd8010",
+		type: "item",
+		items: [{
+			item: "gregtech:rich_ore_precious_metal_0 1 6"
+		}]
+	},
+	{
+		uid: "da0f9079",
+		type: "item",
+		items: [{
+			item: "gregtech:poor_ore_gold_0 1 6"
+		}]
+	},
+	{
+		uid: "9081d8e3",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_gold_0 1 6"
+		}]
+	}]
+}

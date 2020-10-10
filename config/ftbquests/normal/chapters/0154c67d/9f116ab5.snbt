@@ -1,0 +1,30 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	shape: "hexagon",
+	description: "Mana in physical form!",
+	text: [
+		"Now that you have methods of mana production, transmission, and storage, it's about time we figure out something for you to do with it.",
+		" ",
+		"The simplest thing J.E.I. suggests is to dip some sort of dust or powder into the mana pool while it's partially filled, which should in theory get some of that mana to stick to the particles, which you can then extract from the pool.",
+		" ",
+		"It should be noted that this form of mana is rather... impure. It's full of the stuff you first put into the pool, so it's got a lot of impurities. But I'm sure there's something you can do to remedy the issue."
+	],
+	dependencies: [
+		"58dc0bf0",
+		"e930e880",
+		"1d2aca48"
+	],
+	tasks: [{
+		uid: "79be4524",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 23"
+		}]
+	}],
+	rewards: [{
+		uid: "b1e964b4",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

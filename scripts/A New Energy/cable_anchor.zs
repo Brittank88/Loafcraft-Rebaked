@@ -1,0 +1,1 @@
+recipes.addShapeless("cableAnchor", <appliedenergistics2:part:120>, [<ore:nuggetLead>]);

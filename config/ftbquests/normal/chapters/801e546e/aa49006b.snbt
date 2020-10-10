@@ -1,0 +1,51 @@
+{
+	title: "Galena Vein",
+	x: -4.0d,
+	y: -1.0d,
+	dependencies: [
+		"59dcd0f5"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "d7aac126",
+		type: "item",
+		title: "Galena Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGalena",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "d4eaafb4",
+		type: "item",
+		title: "Silver Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreSilver",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "3445c871",
+		type: "item",
+		title: "Lead Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreLead",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

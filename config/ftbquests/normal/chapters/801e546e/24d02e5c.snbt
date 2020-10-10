@@ -1,0 +1,36 @@
+{
+	title: "Nether Nickel Vein",
+	x: -5.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "f6f7c61d",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_garnierite_0 1 6"
+		}]
+	},
+	{
+		uid: "2f98891c",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_nickel_0 1 6"
+		}]
+	},
+	{
+		uid: "a8cc2880",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_cobaltite_0 1 6"
+		}]
+	},
+	{
+		uid: "6c8ad398",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_pentlandite_0 1 6"
+		}]
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "ME Processors",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"f26f0fcd",
+		"ddc5659a",
+		"5ca34b50"
+	],
+	tasks: [{
+		uid: "18113af4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 22"
+		}]
+	},
+	{
+		uid: "4e4426ea",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 23"
+		}]
+	},
+	{
+		uid: "0b9c40f4",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 24"
+		}]
+	}]
+}

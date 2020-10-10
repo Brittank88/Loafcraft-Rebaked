@@ -1,0 +1,44 @@
+{
+	title: "Basic Metals",
+	x: 0.0d,
+	y: 4.5d,
+	shape: "hexagon",
+	description: "The building blocks of basic technology!",
+	text: [
+		"Among other things, you're gonna need a whole lot of these metals. Not sure which ores will get you them?",
+		" ",
+		"I'd advise using J.E.I. to look up which ores get you which resources you're looking for and then consulting the mining tab of this guide program to figure out which veins contain those ores.",
+		" ",
+		"Then, simply find its corresponding mineral deposits aboveground and dig down! I'd advise against digging straight down, though. Doing so would void any and all equipment warranties you may have with us. Just so you know."
+	],
+	dependencies: [
+		"d79a9481",
+		"2bd5a7a6"
+	],
+	tasks: [{
+		uid: "951237b8",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10018"
+		}]
+	},
+	{
+		uid: "f002a025",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10071"
+		}]
+	},
+	{
+		uid: "2306b70a",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "54a64f33",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

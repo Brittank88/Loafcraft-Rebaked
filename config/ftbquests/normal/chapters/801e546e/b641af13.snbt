@@ -1,0 +1,36 @@
+{
+	title: "Nether Iron Vein",
+	x: -2.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "551315f0",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_brown_limonite_0 1 6"
+		}]
+	},
+	{
+		uid: "fe833310",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_yellow_limonite_0 1 6"
+		}]
+	},
+	{
+		uid: "6b43bfba",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_banded_iron_0 1 6"
+		}]
+	},
+	{
+		uid: "2d965b2c",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_malachite_0 1 6"
+		}]
+	}]
+}

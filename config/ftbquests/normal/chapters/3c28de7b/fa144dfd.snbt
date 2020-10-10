@@ -1,0 +1,36 @@
+{
+	x: -6.5d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"1799b22f",
+		"bd1cb7f3",
+		"d5a2a155"
+	],
+	tasks: [{
+		uid: "29f2323c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:blockaltar"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "96d87d7d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "astralsorcery:itemwand",
+			tag: {
+				astralsorcery: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

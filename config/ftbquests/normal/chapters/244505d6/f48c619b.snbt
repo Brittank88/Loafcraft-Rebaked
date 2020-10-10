@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"e4606361"
+	],
+	tasks: [{
+		uid: "f712194d",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame 1 64"
+		}]
+	}]
+}

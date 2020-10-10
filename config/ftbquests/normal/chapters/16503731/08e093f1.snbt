@@ -1,0 +1,16 @@
+{
+	x: -4.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"78261963",
+		"f1b76fc1"
+	],
+	tasks: [{
+		uid: "2139a6c2",
+		type: "item",
+		items: [{
+			item: "metallurgy:hepatizon_ingot"
+		}]
+	}]
+}

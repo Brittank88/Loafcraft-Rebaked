@@ -1,0 +1,65 @@
+{
+	title: "Magnetite Vein",
+	x: -1.0d,
+	y: -4.0d,
+	dependencies: [
+		"9ac87748"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "d32cfde5",
+		type: "item",
+		title: "Magnetite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreMagnetite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "4d0989f6",
+		type: "item",
+		title: "Iron Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "5e860cf1",
+		type: "item",
+		title: "Vanadium Magnetite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreVanadiumMagnetite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "b774fb2c",
+		type: "item",
+		title: "Precious Metal Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePreciousMetal",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

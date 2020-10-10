@@ -1,0 +1,19 @@
+{
+	title: "HV Circuits",
+	icon: "gregtech:machine 1 503",
+	x: 2.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"b9948faf",
+		"f85b259e",
+		"f5cd99eb",
+		"38fe6a41",
+		"1971dc3e"
+	],
+	tasks: [{
+		uid: "8c3731b3",
+		type: "checkmark",
+		title: "HV Circuit Master"
+	}]
+}

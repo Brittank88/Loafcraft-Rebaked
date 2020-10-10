@@ -1,0 +1,65 @@
+{
+	title: "Iron Vein",
+	x: -3.0d,
+	y: -1.0d,
+	dependencies: [
+		"effd711d"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "69697e9f",
+		type: "item",
+		title: "Brown Limonite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBrownLimonite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "31f5a302",
+		type: "item",
+		title: "Yellow Limonite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreYellowLimonite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "513ad92c",
+		type: "item",
+		title: "Banded Iron Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBandedIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "78d7999e",
+		type: "item",
+		title: "Malachite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreMalachite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

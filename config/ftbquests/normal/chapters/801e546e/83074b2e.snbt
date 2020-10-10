@@ -1,0 +1,43 @@
+{
+	title: "Nether Sulfur Vein",
+	x: 3.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "9fb94fa3",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_sulfur_0 1 6"
+		}]
+	},
+	{
+		uid: "808d6c2a",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_niter_0 1 6"
+		}]
+	},
+	{
+		uid: "72ea9ad2",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_pyrite_0 1 6"
+		}]
+	},
+	{
+		uid: "610bddf3",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_sphalerite_0 1 6"
+		}]
+	},
+	{
+		uid: "9c364c98",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_tennantite_0 1 6"
+		}]
+	}]
+}

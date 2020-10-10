@@ -1,0 +1,1 @@
+furnace.addRecipe(<ore:dustVinteum>.firstItem, <botania:manaresource:23>);

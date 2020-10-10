@@ -1,0 +1,23 @@
+{
+	title: "Uranium Vein",
+	x: -5.0d,
+	y: 1.0d,
+	dependencies: [
+		"0cc43018"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "fc50fdc2",
+		type: "item",
+		title: "Uranium Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreUraniumRadioactive",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

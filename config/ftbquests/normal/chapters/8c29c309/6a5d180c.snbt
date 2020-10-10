@@ -1,0 +1,16 @@
+{
+	x: 25.5d,
+	y: -9.0d,
+	shape: "hexagon",
+	dependencies: [
+		"403f3d44",
+		"1d012405",
+		"1257b14a",
+		"bb0f6198"
+	],
+	tasks: [{
+		uid: "e9ebf286",
+		type: "fluid",
+		fluid: "hydrogen_peroxide"
+	}]
+}

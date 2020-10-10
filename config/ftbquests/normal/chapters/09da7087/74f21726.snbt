@@ -1,0 +1,24 @@
+{
+	title: "Resistor",
+	icon: "gregtech:meta_item_2 1 32455",
+	x: 3.0d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"1d001253"
+	],
+	tasks: [{
+		uid: "ca97d992",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2106"
+		}]
+	},
+	{
+		uid: "990d13f7",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 32455"
+		}]
+	}]
+}

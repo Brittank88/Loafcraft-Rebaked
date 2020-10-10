@@ -1,0 +1,16 @@
+{
+	x: -9.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"87813a35",
+		"1f6f8359"
+	],
+	tasks: [{
+		uid: "3c84dfbc",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_fuel 1 1"
+		}]
+	}]
+}

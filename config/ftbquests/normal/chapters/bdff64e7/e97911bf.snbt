@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"a7b9e074"
+	],
+	tasks: [{
+		uid: "64a3199a",
+		type: "item",
+		items: [{
+			item: "techreborn:fusion_coil"
+		}]
+	}]
+}

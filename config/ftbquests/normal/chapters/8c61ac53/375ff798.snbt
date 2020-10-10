@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -1.5d,
+	dependencies: [
+		"b43942e8",
+		"a4557812"
+	],
+	tasks: [{
+		uid: "9d114148",
+		type: "item",
+		items: [{
+			item: "twilightforest:fiery_ingot"
+		}]
+	}]
+}

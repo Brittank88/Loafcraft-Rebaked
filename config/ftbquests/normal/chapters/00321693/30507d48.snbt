@@ -1,0 +1,14 @@
+{
+	x: 6.0d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"bfbde8f9",
+		"7a5664f7"
+	],
+	tasks: [{
+		uid: "4e0c719f",
+		type: "fluid",
+		fluid: "sm_gd_oxides_solution"
+	}]
+}

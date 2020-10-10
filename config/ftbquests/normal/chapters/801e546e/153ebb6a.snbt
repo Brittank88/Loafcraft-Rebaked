@@ -1,0 +1,36 @@
+{
+	title: "End Grossular Vein",
+	x: 0.0d,
+	y: -3.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "8515b5ab",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_grossular_0 1 7"
+		}]
+	},
+	{
+		uid: "9e13093d",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_spessartine_0 1 7"
+		}]
+	},
+	{
+		uid: "0b9f8344",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_pyrolusite_0 1 7"
+		}]
+	},
+	{
+		uid: "5b415ff5",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_tantalite_0 1 7"
+		}]
+	}]
+}

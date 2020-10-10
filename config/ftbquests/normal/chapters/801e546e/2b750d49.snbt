@@ -1,0 +1,29 @@
+{
+	title: "Nether Tetrahedrite Vein",
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "055d6e52",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_tetrahedrite_0 1 6"
+		}]
+	},
+	{
+		uid: "1fe4b770",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_copper_0 1 6"
+		}]
+	},
+	{
+		uid: "69be7209",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_stibnite_0 1 6"
+		}]
+	}]
+}

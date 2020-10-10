@@ -1,0 +1,51 @@
+{
+	title: "Diamond Vein",
+	x: 1.0d,
+	y: -5.0d,
+	dependencies: [
+		"411c22b4"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "6f617353",
+		type: "item",
+		title: "Graphite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGraphite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "90803904",
+		type: "item",
+		title: "Diamond Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreDiamond",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "0afafc37",
+		type: "item",
+		title: "Coal Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCoal",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

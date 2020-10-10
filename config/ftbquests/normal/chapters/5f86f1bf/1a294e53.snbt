@@ -1,0 +1,21 @@
+{
+	x: -13.5d,
+	y: 0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"faa32823"
+	],
+	tasks: [{
+		uid: "1929112a",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "5c164f3b",
+		type: "item",
+		item: "gregtech:wire_coil 1 1",
+		count: 16
+	}]
+}

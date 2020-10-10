@@ -1,0 +1,29 @@
+{
+	title: "End Molybdenum Vein",
+	x: 0.0d,
+	y: -4.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "ddfd90b3",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_wulfenite_0 1 7"
+		}]
+	},
+	{
+		uid: "002dc315",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_molybdenite_0 1 7"
+		}]
+	},
+	{
+		uid: "206422c6",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_powellite_0 1 7"
+		}]
+	}]
+}

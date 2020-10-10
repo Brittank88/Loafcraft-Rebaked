@@ -1,0 +1,29 @@
+{
+	title: "End Beryllium Vein",
+	x: 0.0d,
+	y: -1.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "5066d246",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_beryllium_0 1 7"
+		}]
+	},
+	{
+		uid: "47615b64",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_emerald_0 1 7"
+		}]
+	},
+	{
+		uid: "4160cfb7",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_thorium_0 1 7"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 22.5d,
+	y: -9.0d,
+	shape: "hexagon",
+	dependencies: [
+		"403f3d44",
+		"1abecc89"
+	],
+	tasks: [{
+		uid: "7a080321",
+		type: "fluid",
+		fluid: "ethylanthrahydroquinone"
+	}]
+}

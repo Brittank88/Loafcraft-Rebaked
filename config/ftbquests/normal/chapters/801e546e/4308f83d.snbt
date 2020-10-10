@@ -1,0 +1,21 @@
+{
+	title: "Cassiterite",
+	icon: "gregtech:meta_item_1 1 98",
+	x: -2.0d,
+	y: 3.0d,
+	dependencies: [
+		"d79a9481",
+		"cf5a5a41"
+	],
+	tasks: [{
+		uid: "ad84f942",
+		type: "checkmark"
+	},
+	{
+		uid: "da45c803",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 98"
+		}]
+	}]
+}

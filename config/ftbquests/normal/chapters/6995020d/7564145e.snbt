@@ -1,0 +1,13 @@
+{
+	x: 7.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"7d2e5d63"
+	],
+	tasks: [{
+		uid: "be501625",
+		type: "fluid",
+		fluid: "acidic_iridium_solution"
+	}]
+}

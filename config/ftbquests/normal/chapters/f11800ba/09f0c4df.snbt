@@ -1,0 +1,32 @@
+{
+	title: "Blue Matter Power Flower",
+	icon: "projectex:power_flower 1 7",
+	x: 5.5d,
+	y: 5.5d,
+	dependencies: [
+		"91310fcd",
+		"7eafd72c"
+	],
+	tasks: [{
+		uid: "e4fe35e6",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 6"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "d0c7df3f",
+		type: "item",
+		items: [{
+			item: "projectex:matter 1 4"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "b92744ad",
+		type: "item",
+		item: "projectex:power_flower 1 7"
+	}]
+}

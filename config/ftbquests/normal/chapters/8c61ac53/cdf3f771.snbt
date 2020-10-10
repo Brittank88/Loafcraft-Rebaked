@@ -1,0 +1,16 @@
+{
+	x: 30.5d,
+	y: 0.0d,
+	dependencies: [
+		"8943c5b3",
+		"744fa2ac",
+		"1ecde876"
+	],
+	tasks: [{
+		uid: "9ff17558",
+		type: "item",
+		items: [{
+			item: "metallurgy:tartarite_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "Plutonium Waste x1 [115,200]",
+	icon: "gtadditions:ga_meta_item 1 32316",
+	x: 3.0d,
+	y: 4.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "76d2f278",
+		type: "emc",
+		value: 115200L
+	}],
+	rewards: [{
+		uid: "bc9558a5",
+		type: "item",
+		item: "gtadditions:ga_meta_item 1 32316"
+	}]
+}

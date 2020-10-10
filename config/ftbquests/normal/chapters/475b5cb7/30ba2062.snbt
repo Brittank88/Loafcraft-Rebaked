@@ -1,0 +1,18 @@
+{
+	title: "Basic Lumber x64 [28,800]",
+	icon: "minecraft:log",
+	x: 1.5d,
+	y: 3.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "e7a7f82d",
+		type: "emc",
+		value: 28800L
+	}],
+	rewards: [{
+		uid: "4c39b469",
+		type: "choice",
+		icon: "minecraft:log",
+		table: 2
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "EV Circuits",
+	icon: "gregtech:machine 1 504",
+	x: 3.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"d45d4c8d",
+		"07122a19",
+		"922c9437",
+		"832038dc",
+		"c820d73d"
+	],
+	tasks: [{
+		uid: "104c7e8b",
+		type: "checkmark",
+		title: "EV Circuit Master"
+	}]
+}

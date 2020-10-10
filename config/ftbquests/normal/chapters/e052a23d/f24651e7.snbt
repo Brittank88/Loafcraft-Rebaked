@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"92f88bf4"
+	],
+	tasks: [{
+		uid: "ec6a142d",
+		type: "item",
+		items: [{
+			item: "enderio:block_slice_and_splice"
+		}]
+	}]
+}

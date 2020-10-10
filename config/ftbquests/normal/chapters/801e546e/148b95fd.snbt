@@ -1,0 +1,36 @@
+{
+	title: "Nether Magnetite Vein",
+	x: -3.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "27a184e5",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_magnetite_0 1 6"
+		}]
+	},
+	{
+		uid: "ec71946e",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_iron_0 1 6"
+		}]
+	},
+	{
+		uid: "e423eb34",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_vanadium_magnetite_0 1 6"
+		}]
+	},
+	{
+		uid: "856fccd4",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_precious_metal_0 1 6"
+		}]
+	}]
+}

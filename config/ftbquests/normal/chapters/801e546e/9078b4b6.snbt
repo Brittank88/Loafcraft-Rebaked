@@ -1,0 +1,21 @@
+{
+	title: "Dolomite",
+	icon: "gregtech:meta_item_1 1 289",
+	x: 2.0d,
+	y: 2.0d,
+	dependencies: [
+		"76a23bae",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "69a6aa7b",
+		type: "checkmark"
+	},
+	{
+		uid: "a3b353d6",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 289"
+		}]
+	}]
+}

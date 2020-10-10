@@ -1,0 +1,41 @@
+{
+	icon: "gregtech:metal_casing 1 1",
+	x: 0.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"08f6e881"
+	],
+	tasks: [{
+		uid: "65c8b47d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 32014"
+		}]
+	},
+	{
+		uid: "0f5efe27",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 32015"
+		}]
+	},
+	{
+		uid: "8f535a1c",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "889bd44d",
+		type: "item",
+		item: "gregtech:metal_casing 1 1",
+		count: 16
+	},
+	{
+		uid: "f7c85024",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

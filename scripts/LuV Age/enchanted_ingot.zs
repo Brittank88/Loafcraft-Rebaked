@@ -1,0 +1,1 @@
+mods.actuallyadditions.AtomicReconstructor.addRecipe(<extrautils2:ingredients:12>, <ore:ingotMithril>, 100000);

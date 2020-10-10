@@ -1,0 +1,21 @@
+{
+	x: -4.0d,
+	y: 0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"5bbc29c2",
+		"ee212356"
+	],
+	tasks: [{
+		uid: "a01632db",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_fuel"
+		}]
+	},
+	{
+		uid: "ac315214",
+		type: "fluid",
+		fluid: "energized_mana"
+	}]
+}

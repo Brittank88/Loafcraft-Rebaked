@@ -1,0 +1,18 @@
+{
+	x: 7.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"877cf878",
+		"eed0f0d5",
+		"ef2e50a9",
+		"77332f04"
+	],
+	tasks: [{
+		uid: "39eedc13",
+		type: "item",
+		items: [{
+			item: "enderio:item_alloy_ingot 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 5.5d,
+	y: 0.0d,
+	dependencies: [
+		"4815a749",
+		"0b2bef9d",
+		"375ff798"
+	],
+	tasks: [{
+		uid: "d5a556e2",
+		type: "item",
+		items: [{
+			item: "metallurgy:ignatius_ingot"
+		}]
+	}]
+}

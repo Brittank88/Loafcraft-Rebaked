@@ -1,0 +1,24 @@
+{
+	title: "Vacuum Extractor",
+	x: 13.5d,
+	y: -3.0d,
+	dependencies: [
+		"77a093b6"
+	],
+	tasks: [{
+		uid: "cbe8edef",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 263"
+		},
+		{
+			item: "gregtech:machine 1 2088"
+		},
+		{
+			item: "gregtech:machine 1 2089"
+		},
+		{
+			item: "gregtech:machine 1 2091"
+		}]
+	}]
+}

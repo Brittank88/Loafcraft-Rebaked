@@ -1,0 +1,16 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	dependencies: [
+		"e4e6e766",
+		"b822c893",
+		"191272d9"
+	],
+	tasks: [{
+		uid: "3c2dd918",
+		type: "item",
+		items: [{
+			item: "metallurgy:prometheum_ingot"
+		}]
+	}]
+}

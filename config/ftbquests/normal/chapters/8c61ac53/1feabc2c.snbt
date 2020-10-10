@@ -1,0 +1,16 @@
+{
+	x: 18.5d,
+	y: 0.0d,
+	dependencies: [
+		"b74b7cdd",
+		"ba7646d4",
+		"98e428c7"
+	],
+	tasks: [{
+		uid: "c0fed611",
+		type: "item",
+		items: [{
+			item: "metallurgy:vyroxeres_ingot"
+		}]
+	}]
+}

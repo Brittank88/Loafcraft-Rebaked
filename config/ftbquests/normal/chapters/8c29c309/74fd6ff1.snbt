@@ -1,0 +1,13 @@
+{
+	x: 18.0d,
+	y: -9.0d,
+	shape: "hexagon",
+	dependencies: [
+		"32aa5e27"
+	],
+	tasks: [{
+		uid: "41dffec4",
+		type: "fluid",
+		fluid: "phthalicacid"
+	}]
+}

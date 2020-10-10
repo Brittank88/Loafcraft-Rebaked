@@ -1,0 +1,15 @@
+{
+	x: 6.0d,
+	y: 8.5d,
+	shape: "hexagon",
+	dependencies: [
+		"011e087e"
+	],
+	tasks: [{
+		uid: "f39fb480",
+		type: "item",
+		items: [{
+			item: "bloodmagic:component 1 13"
+		}]
+	}]
+}

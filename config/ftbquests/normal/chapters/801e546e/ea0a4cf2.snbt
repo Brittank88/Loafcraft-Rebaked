@@ -1,0 +1,21 @@
+{
+	title: "Basaltic Mineral Sand",
+	icon: "gregtech:meta_item_1 1 266",
+	x: -5.0d,
+	y: 2.0d,
+	dependencies: [
+		"d79a9481",
+		"cf5a5a41"
+	],
+	tasks: [{
+		uid: "cc4ae864",
+		type: "checkmark"
+	},
+	{
+		uid: "4e6bd8ab",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 266"
+		}]
+	}]
+}

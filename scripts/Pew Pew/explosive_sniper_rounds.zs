@@ -1,0 +1,1 @@
+recipes.addShapeless("explosiveSniperRounds", <techguns:itemshared:144>, [<techguns:itemshared:108>, <techguns:itemshared:75>]);

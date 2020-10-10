@@ -1,0 +1,13 @@
+{
+	icon: "twilightforest:miniature_structure",
+	x: 6.0d,
+	y: -6.0d,
+	dependencies: [
+		"c48f7b90"
+	],
+	tasks: [{
+		uid: "03b1acb4",
+		type: "dimension",
+		dim: 7
+	}]
+}

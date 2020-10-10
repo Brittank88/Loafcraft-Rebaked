@@ -1,0 +1,65 @@
+{
+	title: "Bornite Vein",
+	x: -1.0d,
+	y: 1.0d,
+	dependencies: [
+		"598109fa"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "b1d5eae1",
+		type: "item",
+		title: "Bornite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBornite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "7b0809c7",
+		type: "item",
+		title: "Chalcocite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreChalcocite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "6e592d2c",
+		type: "item",
+		title: "Enargite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreEnargite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "764f0de0",
+		type: "item",
+		title: "Copper Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

@@ -1,0 +1,1 @@
+mods.thermalexpansion.Infuser.addRecipe(<thaumcraft:salis_mundus>, <gregtech:meta_item_1:2247>, 8000);

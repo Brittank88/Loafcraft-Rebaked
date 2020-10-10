@@ -1,0 +1,31 @@
+{
+	title: "Dark Matter Power Flower",
+	icon: "projectex:power_flower 1 1",
+	x: -0.5d,
+	y: 5.5d,
+	dependencies: [
+		"d7d25fa8"
+	],
+	tasks: [{
+		uid: "87497bb1",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "721eb3cf",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_matter"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "43a64943",
+		type: "item",
+		item: "projectex:power_flower 1 1"
+	}]
+}

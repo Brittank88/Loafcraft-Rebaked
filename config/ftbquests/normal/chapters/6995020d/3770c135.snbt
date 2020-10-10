@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"13c07005",
+		"dca25561"
+	],
+	tasks: [{
+		uid: "615d7e24",
+		type: "item",
+		items: [{
+			item: "metallurgy:meutoite_ingot"
+		}]
+	}]
+}

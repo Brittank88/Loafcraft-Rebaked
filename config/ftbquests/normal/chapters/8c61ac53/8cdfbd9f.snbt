@@ -1,0 +1,16 @@
+{
+	x: 12.5d,
+	y: 0.0d,
+	dependencies: [
+		"2bf77e81",
+		"bc7fd2f4",
+		"1fd84b7b"
+	],
+	tasks: [{
+		uid: "58fcc223",
+		type: "item",
+		items: [{
+			item: "metallurgy:lemurite_ingot"
+		}]
+	}]
+}

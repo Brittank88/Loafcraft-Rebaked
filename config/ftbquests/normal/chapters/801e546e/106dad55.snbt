@@ -1,0 +1,21 @@
+{
+	title: "Mica",
+	icon: "gregtech:meta_item_1 1 284",
+	x: 2.0d,
+	y: -5.0d,
+	dependencies: [
+		"f4a03155",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "45bd2335",
+		type: "checkmark"
+	},
+	{
+		uid: "9e0f5ca7",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 284"
+		}]
+	}]
+}

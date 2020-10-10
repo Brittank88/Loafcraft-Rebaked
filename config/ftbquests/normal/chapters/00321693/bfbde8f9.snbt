@@ -1,0 +1,14 @@
+{
+	x: 4.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"5be6628c",
+		"6d38d797"
+	],
+	tasks: [{
+		uid: "409b65c4",
+		type: "fluid",
+		fluid: "rare_earth_chlorides_solution"
+	}]
+}

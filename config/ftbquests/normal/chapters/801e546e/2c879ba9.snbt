@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 4.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "b80e5d33",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_raw_starmetal_0 1 7"
+		}]
+	}]
+}

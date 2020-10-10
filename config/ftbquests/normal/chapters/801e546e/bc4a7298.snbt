@@ -1,0 +1,37 @@
+{
+	title: "Topaz Vein",
+	x: 4.0d,
+	y: 1.0d,
+	dependencies: [
+		"15358266"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "2f9361d1",
+		type: "item",
+		title: "Topaz Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTopaz",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "6a134b24",
+		type: "item",
+		title: "Blue Topaz Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBlueTopaz",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

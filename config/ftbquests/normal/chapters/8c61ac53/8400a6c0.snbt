@@ -1,0 +1,16 @@
+{
+	x: 16.5d,
+	y: 0.0d,
+	dependencies: [
+		"133181a9",
+		"f6df82ea",
+		"d064fb21"
+	],
+	tasks: [{
+		uid: "76fe10f4",
+		type: "item",
+		items: [{
+			item: "metallurgy:astral_silver_ingot"
+		}]
+	}]
+}

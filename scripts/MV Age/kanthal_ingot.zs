@@ -1,0 +1,1 @@
+mods.inworldcrafting.FluidToItem.transform(<gregtech:meta_item_1:10127>, <liquid:cryotheum>, [<ore:ingotHotKanthal> * 2], false);

@@ -1,0 +1,1 @@
+mods.thermalexpansion.Infuser.addRecipe(<techguns:itemshared:29>, <techguns:itemshared:30>, 10000);

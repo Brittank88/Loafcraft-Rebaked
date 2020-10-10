@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	dependencies: [
+		"9e4f0ec7",
+		"34c0d5b5",
+		"f08bbf51"
+	],
+	tasks: [{
+		uid: "4df9dea8",
+		type: "item",
+		items: [{
+			item: "metallurgy:krik_ingot"
+		}]
+	}]
+}

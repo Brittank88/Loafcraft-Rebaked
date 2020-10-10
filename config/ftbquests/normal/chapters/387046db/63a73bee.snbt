@@ -1,0 +1,12 @@
+{
+	x: 13.5d,
+	y: -4.5d,
+	dependencies: [
+		"bfbde8f9"
+	],
+	tasks: [{
+		uid: "a5aedddb",
+		type: "fluid",
+		fluid: "tb_ho_oxides_solution"
+	}]
+}

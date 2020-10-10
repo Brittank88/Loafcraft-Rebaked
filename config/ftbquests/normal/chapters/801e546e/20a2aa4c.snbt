@@ -1,0 +1,21 @@
+{
+	title: "Tungstate",
+	icon: "gregtech:meta_item_1 1 191",
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"f4a03155",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "1616695d",
+		type: "checkmark"
+	},
+	{
+		uid: "c38151b5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 191"
+		}]
+	}]
+}

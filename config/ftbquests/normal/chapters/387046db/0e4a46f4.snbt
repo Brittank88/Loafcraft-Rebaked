@@ -1,0 +1,18 @@
+{
+	title: "Neutral and Positive Matter",
+	x: 15.0d,
+	y: 0.0d,
+	dependencies: [
+		"95403749"
+	],
+	tasks: [{
+		uid: "d18cfdc5",
+		type: "fluid",
+		fluid: "neutral_matter"
+	},
+	{
+		uid: "3111fd92",
+		type: "fluid",
+		fluid: "positive_matter"
+	}]
+}

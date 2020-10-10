@@ -1,0 +1,29 @@
+{
+	title: "End Platinum Vein",
+	x: 0.0d,
+	y: 1.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "a1e1745c",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_platinum_metallic_powder_0 1 7"
+		}]
+	},
+	{
+		uid: "b4edce45",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_palladium_metallic_powder_0 1 7"
+		}]
+	},
+	{
+		uid: "5237f71e",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_rarest_metal_residue_0 1 7"
+		}]
+	}]
+}

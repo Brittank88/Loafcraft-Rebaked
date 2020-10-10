@@ -1,0 +1,18 @@
+{
+	title: "Bacon Jerky x32 [7,200]",
+	icon: "tconstruct:edible 1 13",
+	x: 0.0d,
+	y: 1.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "ec2710ba",
+		type: "emc",
+		value: 7200L
+	}],
+	rewards: [{
+		uid: "14006ccf",
+		type: "item",
+		item: "tconstruct:edible 1 13",
+		count: 32
+	}]
+}

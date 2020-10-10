@@ -1,0 +1,18 @@
+{
+	title: "Exotic Lumber x64 [115,200]",
+	icon: "biomesoplenty:log_0 1 5",
+	x: 1.5d,
+	y: 4.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "54f384f9",
+		type: "emc",
+		value: 115200L
+	}],
+	rewards: [{
+		uid: "77f64b1b",
+		type: "choice",
+		icon: "biomesoplenty:log_0 1 5",
+		table: 3
+	}]
+}

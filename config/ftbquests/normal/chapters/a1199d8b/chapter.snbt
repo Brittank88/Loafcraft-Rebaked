@@ -1,0 +1,7 @@
+{
+	title: "Dimensions",
+	icon: "twilightforest:miniature_structure 1 3",
+	always_invisible: false,
+	group: 767695227,
+	default_quest_shape: ""
+}

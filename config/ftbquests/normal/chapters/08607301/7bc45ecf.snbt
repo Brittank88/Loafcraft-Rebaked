@@ -1,0 +1,19 @@
+{
+	title: "IV Circuits",
+	icon: "gregtech:machine 1 505",
+	x: 4.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"8a4b768b",
+		"c53e4236",
+		"c1448ed5",
+		"ba352a80",
+		"cba69070"
+	],
+	tasks: [{
+		uid: "a783c1ca",
+		type: "checkmark",
+		title: "IV Circuit Master"
+	}]
+}

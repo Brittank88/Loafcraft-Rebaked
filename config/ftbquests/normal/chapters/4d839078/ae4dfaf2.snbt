@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: 6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"4866a5b4"
+	],
+	tasks: [{
+		uid: "92a8426e",
+		type: "item",
+		items: [{
+			item: "botania:dreamwood"
+		}]
+	},
+	{
+		uid: "02d32c8d",
+		type: "item",
+		items: [{
+			item: "botania:elfglass"
+		}]
+	}]
+}

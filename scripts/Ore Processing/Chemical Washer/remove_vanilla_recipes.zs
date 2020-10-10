@@ -1,0 +1,1 @@
+mods.mekanism.chemical.washer.removeAllRecipes();

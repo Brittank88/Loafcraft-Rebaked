@@ -1,0 +1,16 @@
+{
+	x: 22.5d,
+	y: 0.0d,
+	dependencies: [
+		"54e95ac5",
+		"66a0ab80",
+		"2d46f965"
+	],
+	tasks: [{
+		uid: "cdd25a96",
+		type: "item",
+		items: [{
+			item: "metallurgy:celenegil_ingot"
+		}]
+	}]
+}

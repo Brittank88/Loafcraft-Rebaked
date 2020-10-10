@@ -1,0 +1,32 @@
+{
+	title: "Purple Matter Power Flower",
+	icon: "projectex:power_flower 1 5",
+	x: 3.5d,
+	y: 5.5d,
+	dependencies: [
+		"04d37336",
+		"12ca11a4"
+	],
+	tasks: [{
+		uid: "15f37d71",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 4"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "6c8627d8",
+		type: "item",
+		items: [{
+			item: "projectex:matter 1 2"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "5146cd77",
+		type: "item",
+		item: "projectex:power_flower 1 5"
+	}]
+}

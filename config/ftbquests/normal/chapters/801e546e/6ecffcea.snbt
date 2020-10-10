@@ -1,0 +1,36 @@
+{
+	title: "End Lapis Vein",
+	x: 0.0d,
+	y: -2.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "d18d9882",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_lazurite_0 1 7"
+		}]
+	},
+	{
+		uid: "fa283cc9",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_sodalite_0 1 7"
+		}]
+	},
+	{
+		uid: "4cfddce5",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_lapis_0 1 7"
+		}]
+	},
+	{
+		uid: "a4eafed7",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_calcite_0 1 7"
+		}]
+	}]
+}

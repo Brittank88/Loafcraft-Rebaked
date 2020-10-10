@@ -1,0 +1,17 @@
+{
+	x: 12.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"38584e4d",
+		"86e2c3c0",
+		"cacc7206"
+	],
+	tasks: [{
+		uid: "96046d36",
+		type: "item",
+		items: [{
+			item: "metallurgy:astral_silver_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -6.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"f0391eb1",
+		"f17dc043"
+	],
+	tasks: [{
+		uid: "8767fb5f",
+		type: "item",
+		items: [{
+			item: "metallurgy:deep_iron_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: -1.5d,
+	y: -6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"c5235f99"
+	],
+	tasks: [{
+		uid: "820ab256",
+		type: "fluid",
+		fluid: "potassium_disulfate"
+	}]
+}

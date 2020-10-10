@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"4bd7c545",
+		"f3753557"
+	],
+	tasks: [{
+		uid: "27630ed7",
+		type: "item",
+		items: [{
+			item: "metallurgy:orichalcum_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -1.5d,
+	y: 6.5d,
+	shape: "hexagon",
+	dependencies: [
+		"88cefb4a",
+		"84f66397",
+		"9d8206a4"
+	],
+	tasks: [{
+		uid: "7644de9e",
+		type: "item",
+		items: [{
+			item: "botania:runealtar"
+		}]
+	}]
+}

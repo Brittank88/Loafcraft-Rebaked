@@ -1,0 +1,14 @@
+{
+	x: 0.0d,
+	y: 5.0d,
+	dependencies: [
+		"7e883989"
+	],
+	tasks: [{
+		uid: "6f73a9cb",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_raw_voidmetal_0 1 7"
+		}]
+	}]
+}

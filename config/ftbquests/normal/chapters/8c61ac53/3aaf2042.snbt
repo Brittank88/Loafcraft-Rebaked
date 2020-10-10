@@ -1,0 +1,16 @@
+{
+	x: 24.5d,
+	y: 0.0d,
+	dependencies: [
+		"e98b237f",
+		"ebcce021",
+		"844f134e"
+	],
+	tasks: [{
+		uid: "716709f6",
+		type: "item",
+		items: [{
+			item: "metallurgy:etherium_ingot"
+		}]
+	}]
+}

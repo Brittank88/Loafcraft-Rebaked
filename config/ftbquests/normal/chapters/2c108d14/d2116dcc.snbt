@@ -1,0 +1,13 @@
+{
+	x: 6.0d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"c57919a7"
+	],
+	tasks: [{
+		uid: "649e754f",
+		type: "fluid",
+		fluid: "rhodium_salt_solution"
+	}]
+}

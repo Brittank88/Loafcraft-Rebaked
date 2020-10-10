@@ -1,0 +1,32 @@
+{
+	title: "Lime Matter Power Flower",
+	icon: "projectex:power_flower 1 10",
+	x: 8.5d,
+	y: 5.5d,
+	dependencies: [
+		"e7df85a6",
+		"46d7b7c4"
+	],
+	tasks: [{
+		uid: "95752095",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 9"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "b03353ba",
+		type: "item",
+		items: [{
+			item: "projectex:matter 1 7"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "11847a6d",
+		type: "item",
+		item: "projectex:power_flower 1 10"
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "The Forge",
+	icon: "metallurgy:tartarite_ingot",
+	always_invisible: false,
+	group: 767695227,
+	default_quest_shape: ""
+}

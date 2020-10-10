@@ -1,0 +1,17 @@
+{
+	title: "Tier 3",
+	x: 4.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	hide_dependency_lines: true,
+	dependencies: [
+		"2130947b"
+	],
+	tasks: [{
+		uid: "88807a5c",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 53"
+		}]
+	}]
+}

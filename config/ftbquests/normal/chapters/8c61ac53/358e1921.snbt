@@ -1,0 +1,16 @@
+{
+	x: 9.5d,
+	y: 0.0d,
+	dependencies: [
+		"09725f27",
+		"141fd822",
+		"bcf5035f"
+	],
+	tasks: [{
+		uid: "a3ddd530",
+		type: "item",
+		items: [{
+			item: "metallurgy:haderoth_ingot"
+		}]
+	}]
+}

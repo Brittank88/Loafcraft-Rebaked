@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"32fe54b7",
+		"121c057f"
+	],
+	tasks: [{
+		uid: "f4677ed5",
+		type: "item",
+		items: [{
+			item: "metallurgy:carmot_ingot"
+		}]
+	}]
+}

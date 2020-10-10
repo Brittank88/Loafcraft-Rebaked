@@ -1,0 +1,65 @@
+{
+	title: "Lapis Vein",
+	x: -1.0d,
+	y: -2.0d,
+	dependencies: [
+		"69d1b3ac"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "87dbb02d",
+		type: "item",
+		title: "Lazurite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreLazurite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "231be30c",
+		type: "item",
+		title: "Sodalite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreSodalite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "b986b54e",
+		type: "item",
+		title: "Lapis Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreLapis",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "9e4c860e",
+		type: "item",
+		title: "Calcite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCalcite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

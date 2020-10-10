@@ -1,0 +1,26 @@
+{
+	icon: "gregtech:meta_item_1 1 32519",
+	x: 4.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"0d998afc",
+		"a9ce2054"
+	],
+	optional: true,
+	tasks: [{
+		uid: "bf55790c",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 617"
+		}]
+	},
+	{
+		uid: "85a82cad",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 32519"
+		}],
+		count: 4L
+	}]
+}

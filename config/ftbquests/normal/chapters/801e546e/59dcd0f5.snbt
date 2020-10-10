@@ -1,0 +1,21 @@
+{
+	title: "Galena",
+	icon: "gregtech:meta_item_1 1 114",
+	x: -5.0d,
+	y: -2.0d,
+	dependencies: [
+		"3bab6d3a",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "6a1236fe",
+		type: "checkmark"
+	},
+	{
+		uid: "61728fda",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 114"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 12.0d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"ec0cffad"
+	],
+	tasks: [{
+		uid: "74320e82",
+		type: "item",
+		items: [{
+			item: "gtadditions:ga_meta_item 1 32217"
+		}]
+	}]
+}

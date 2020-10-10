@@ -1,0 +1,36 @@
+{
+	icon: "gregtech:machine 1 526",
+	x: -1.5d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"8f54329e"
+	],
+	tasks: [{
+		uid: "ac803854",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 526"
+		}]
+	},
+	{
+		uid: "f4a4c577",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 527"
+		}]
+	},
+	{
+		uid: "e0d9e7d4",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 8"
+		}],
+		count: 24L
+	}],
+	rewards: [{
+		uid: "f36cc5a4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

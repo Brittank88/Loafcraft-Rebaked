@@ -1,0 +1,13 @@
+{
+	x: 16.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"aab35c5a"
+	],
+	tasks: [{
+		uid: "25e6cf69",
+		type: "fluid",
+		fluid: "raw_growth_medium"
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"e00c3909",
+		"7c67080c"
+	],
+	tasks: [{
+		uid: "fe9b442e",
+		type: "fluid",
+		fluid: "polycaprolactam"
+	}]
+}

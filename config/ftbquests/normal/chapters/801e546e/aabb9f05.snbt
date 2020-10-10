@@ -1,0 +1,65 @@
+{
+	title: "Grossular Vein",
+	x: 1.0d,
+	y: 2.0d,
+	dependencies: [
+		"fe5dd757"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "be0dded2",
+		type: "item",
+		title: "Grossular Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGrossular",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "5f59b086",
+		type: "item",
+		title: "Spessartine Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreSpessartine",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "474dc195",
+		type: "item",
+		title: "Pyrolusite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePyrolusite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "3932a9f4",
+		type: "item",
+		title: "Tantalite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTantalite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 28.5d,
+	y: -6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"c05bf003",
+		"abe204a8"
+	],
+	tasks: [{
+		uid: "e19a3204",
+		type: "fluid",
+		fluid: "monomethylhydrazine"
+	}]
+}

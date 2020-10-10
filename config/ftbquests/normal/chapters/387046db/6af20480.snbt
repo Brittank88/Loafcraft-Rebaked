@@ -1,0 +1,12 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	dependencies: [
+		"86ad264b"
+	],
+	tasks: [{
+		uid: "46ec082f",
+		type: "fluid",
+		fluid: "radon_difluoride"
+	}]
+}

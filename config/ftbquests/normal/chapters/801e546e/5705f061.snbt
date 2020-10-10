@@ -1,0 +1,79 @@
+{
+	title: "Olivine Vein",
+	x: 2.0d,
+	y: 1.0d,
+	dependencies: [
+		"a5a56806"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "159fb9c2",
+		type: "item",
+		title: "Prasiolite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePrasiolite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "d095e193",
+		type: "item",
+		title: "Bentonite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBentonite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "0534579b",
+		type: "item",
+		title: "Magnesite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreMagnesite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "60ee29a8",
+		type: "item",
+		title: "Olivine Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreOlivine",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "5d0575bb",
+		type: "item",
+		title: "Glauconite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGlauconite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

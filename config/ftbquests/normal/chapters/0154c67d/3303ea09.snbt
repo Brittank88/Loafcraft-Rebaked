@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Now what can this thing do, exactly?",
+	text: [
+		"Now that you have this pure daisy, I think it's time we test it on some materials!"
+	],
+	dependencies: [
+		"19cbb492"
+	],
+	tasks: [{
+		uid: "0c9b38d2",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "puredaisy"
+			}
+		}]
+	}]
+}

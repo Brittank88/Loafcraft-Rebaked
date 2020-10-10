@@ -1,0 +1,36 @@
+{
+	title: "The Circuit Master",
+	icon: "gregtech:meta_item_2 1 32501",
+	x: 6.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"08607301"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "d4195660",
+		type: "checkmark",
+		title: "Create Every Circuit"
+	}],
+	rewards: [{
+		uid: "8913f86b",
+		type: "item",
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 255,
+				TrophyVariant: "classic",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "gregtech:meta_item_2",
+					Count: 1b,
+					Damage: 32501s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "The Circuit Master",
+				TrophyColorRed: 255
+			}
+		}
+	}]
+}

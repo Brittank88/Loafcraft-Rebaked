@@ -1,0 +1,21 @@
+{
+	title: "Vermiculite",
+	icon: "gregtech:meta_item_1 1 277",
+	x: 2.0d,
+	y: 4.0d,
+	dependencies: [
+		"76a23bae",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "6dff7bf3",
+		type: "checkmark"
+	},
+	{
+		uid: "98c31fda",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 277"
+		}]
+	}]
+}

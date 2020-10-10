@@ -1,0 +1,36 @@
+{
+	title: "Doing Things the Medieval Way",
+	x: -1.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "Sometimes the best defense is a good offense.",
+	text: [
+		"In your case, that means whacking things with a sharp object. You'll have to settle for this method for now, but hopefully not for much longer!"
+	],
+	dependencies: [
+		"c48f7b90"
+	],
+	tasks: [{
+		uid: "cc683cf3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:wooden_sword"
+		},
+		{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "minecraft:stone_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f9232003",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

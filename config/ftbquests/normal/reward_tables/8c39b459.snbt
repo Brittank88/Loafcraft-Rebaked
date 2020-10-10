@@ -1,0 +1,21 @@
+{
+	title: "Spare Industrial Building Material",
+	icon: "gregtech:frame_iron",
+	loot_size: 1,
+	rewards: [{
+		item: "chisel:factory",
+		count: 64
+	},
+	{
+		item: "chisel:laboratory",
+		count: 64
+	},
+	{
+		item: "chisel:futura",
+		count: 64
+	},
+	{
+		item: "chisel:tyrian",
+		count: 64
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"8b3e282f"
+	],
+	tasks: [{
+		uid: "8485864a",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:fluxplug"
+		}]
+	}]
+}

@@ -1,0 +1,59 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"e42017a0",
+		"c711b9d4",
+		"276292a7",
+		"7a45f943",
+		"34228a6a",
+		"67ba8633",
+		"747a20f0",
+		"28aac4a6",
+		"88e1f9af",
+		"6f995108",
+		"bc4a7298",
+		"5c7e8c65",
+		"d8bf5364",
+		"1ac1619c",
+		"6c1b55c5",
+		"4cd66108",
+		"c4ad79f2",
+		"4b71ffae",
+		"88993a86",
+		"dc9c51bd",
+		"041f823e",
+		"aa49006b",
+		"5705f061",
+		"682a274d",
+		"40b5649f",
+		"bab31899",
+		"ccc9dce7",
+		"c8c749b7",
+		"f4651715",
+		"3a3bf7c9",
+		"a00334f7",
+		"fec625f0",
+		"653b4943",
+		"3f5ddb64",
+		"f46985d4",
+		"aabb9f05"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "a27347bc",
+		type: "checkmark",
+		title: "That's a lot of ores!"
+	}],
+	rewards: [{
+		uid: "0d013b09",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "projecte:item.pe_alchemical_bag"
+		}
+	}]
+}

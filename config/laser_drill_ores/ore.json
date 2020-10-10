@@ -1,0 +1,95 @@
+[
+	{
+		"item": "oreSulfur",
+		"color": 4,
+		"rarity": [
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 255,
+				"weight": 5
+			},
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 15,
+				"weight": 20
+			}
+		]
+	},
+	{
+		"item": "orePhosphorite",
+		"color": 12,
+		"rarity": [
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 255,
+				"weight": 5
+			},
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 60,
+				"weight": 15
+			}
+		]
+	},
+	{
+		"item": "oreManganese",
+		"color": 6,
+		"rarity": [
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 255,
+				"weight": 10
+			},
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 100,
+				"weight": 20
+			}
+		]
+	},
+	{
+		"item": "oreZinc",
+		"color": 4,
+		"rarity": [
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 255,
+				"weight": 7
+			},
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 125,
+				"weight": 14
+			}
+		]
+	},
+	{
+		"item": "oreOsmium",
+		"color": 11,
+		"rarity": [
+			{
+				"whitelist": "",
+				"blacklist": "minecraft:hell, minecraft:sky",
+				"depth_min": 0,
+				"depth_max": 125,
+				"weight": 12
+			}
+		]
+	}
+]

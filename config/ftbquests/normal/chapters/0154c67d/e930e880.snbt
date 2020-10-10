@@ -1,0 +1,32 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	description: "I guess you're a wizard now. Not how I was expecting today to go, but here we are.",
+	text: [
+		"Using this handheld apparatus made from livingwood sticks and mystical petals, you should be able to link certain constructs to each other. Could come in handy pretty soon, I'd imagine."
+	],
+	dependencies: [
+		"691c93af"
+	],
+	tasks: [{
+		uid: "29655408",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:twigwand",
+			tag: {
+				color1: 0,
+				color2: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "44130f8b",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

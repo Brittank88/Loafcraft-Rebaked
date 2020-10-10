@@ -1,0 +1,16 @@
+{
+	x: 3.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"e30c2bc7",
+		"6531e77a"
+	],
+	tasks: [{
+		uid: "818ff8f6",
+		type: "item",
+		items: [{
+			item: "metallurgy:inolashite_ingot"
+		}]
+	}]
+}

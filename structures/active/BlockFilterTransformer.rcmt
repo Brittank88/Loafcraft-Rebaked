@@ -1,0 +1,118 @@
+{
+  "data": {
+    "environmentMatcher": "",
+    "transformers": [
+      {
+        "type": "replaceAll",
+        "transformer": {
+          "uniform": true,
+          "id": "replaceAll_68f1d919",
+          "sourceExpression": "minecraft:coal_ore",
+          "destination": [
+            {
+              "block": "gregtech:ore_coal_0",
+              "metadata": 0,
+              "tileEntity": "null"
+            }
+          ]
+        }
+      },
+      {
+        "type": "replaceAll",
+        "transformer": {
+          "uniform": true,
+          "id": "replaceAll_90879249",
+          "sourceExpression": "minecraft:iron_ore",
+          "destination": [
+            {
+              "block": "gregtech:ore_iron_0",
+              "metadata": 0,
+              "tileEntity": "null"
+            }
+          ]
+        }
+      },
+      {
+        "type": "replaceAll",
+        "transformer": {
+          "uniform": true,
+          "id": "replaceAll_f5acc21a",
+          "sourceExpression": "minecraft:gold_ore",
+          "destination": [
+            {
+              "block": "gregtech:ore_gold_0",
+              "metadata": 0,
+              "tileEntity": "null"
+            }
+          ]
+        }
+      },
+      {
+        "type": "replaceAll",
+        "transformer": {
+          "uniform": true,
+          "id": "replaceAll_8a293dbd",
+          "sourceExpression": "minecraft:lapis_ore",
+          "destination": [
+            {
+              "block": "gregtech:ore_lapis_0",
+              "metadata": 0,
+              "tileEntity": "null"
+            }
+          ]
+        }
+      },
+      {
+        "type": "replaceAll",
+        "transformer": {
+          "uniform": true,
+          "id": "replaceAll_91e60b00",
+          "sourceExpression": "minecraft:redstone_ore",
+          "destination": [
+            {
+              "block": "gregtech:ore_redstone_0",
+              "metadata": 0,
+              "tileEntity": "null"
+            }
+          ]
+        }
+      },
+      {
+        "type": "replaceAll",
+        "transformer": {
+          "uniform": true,
+          "id": "replaceAll_14b73b96",
+          "sourceExpression": "minecraft:diamond_ore",
+          "destination": [
+            {
+              "block": "gregtech:ore_diamond_0",
+              "metadata": 0,
+              "tileEntity": "null"
+            }
+          ]
+        }
+      },
+      {
+        "type": "replaceAll",
+        "transformer": {
+          "uniform": true,
+          "id": "replaceAll_46c156c1",
+          "sourceExpression": "minecraft:emerald_ore",
+          "destination": [
+            {
+              "block": "gregtech:ore_emerald_0",
+              "metadata": 0,
+              "tileEntity": "null"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "title": "BlockFilterTransformer",
+    "description": [
+      "Transformer to filter out block types we don\u0027t want from structures."
+    ]
+  }
+}

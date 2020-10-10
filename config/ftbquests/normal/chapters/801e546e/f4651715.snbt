@@ -1,0 +1,37 @@
+{
+	title: "Coal Vein",
+	x: -5.0d,
+	y: -1.0d,
+	dependencies: [
+		"1de58781"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "93ed1ce4",
+		type: "item",
+		title: "Lignite Coal Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreLignite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "44128ce6",
+		type: "item",
+		title: "Coal Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCoal",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

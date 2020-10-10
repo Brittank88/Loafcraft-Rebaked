@@ -1,0 +1,12 @@
+{
+	x: 9.0d,
+	y: 6.0d,
+	dependencies: [
+		"16a752c7"
+	],
+	tasks: [{
+		uid: "576e1311",
+		type: "fluid",
+		fluid: "hexachloride.americium"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Tin",
+	icon: "gregtech:meta_item_1 1 71",
+	x: -2.0d,
+	y: -6.0d,
+	dependencies: [
+		"3bab6d3a",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "b46577a9",
+		type: "checkmark"
+	},
+	{
+		uid: "4e036116",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 71"
+		}]
+	}]
+}

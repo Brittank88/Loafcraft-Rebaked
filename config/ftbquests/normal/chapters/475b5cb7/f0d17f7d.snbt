@@ -1,0 +1,18 @@
+{
+	title: "Stone Blocks x64 [1,800]",
+	icon: "minecraft:stone 1 6",
+	x: 1.5d,
+	y: 0.0d,
+	can_repeat: true,
+	tasks: [{
+		uid: "4426ec07",
+		type: "emc",
+		value: 1800L
+	}],
+	rewards: [{
+		uid: "652974c1",
+		type: "choice",
+		icon: "minecraft:stone 1 6",
+		table: 1
+	}]
+}

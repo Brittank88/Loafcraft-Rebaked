@@ -1,0 +1,16 @@
+{
+	x: 25.5d,
+	y: 0.0d,
+	dependencies: [
+		"4190d5c8",
+		"3aaf2042",
+		"453d283f"
+	],
+	tasks: [{
+		uid: "b52f0dfb",
+		type: "item",
+		items: [{
+			item: "metallurgy:desichalkos_ingot"
+		}]
+	}]
+}

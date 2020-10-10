@@ -1,0 +1,14 @@
+{
+	x: 16.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"b233171e"
+	],
+	tasks: [{
+		uid: "997af989",
+		type: "fluid",
+		fluid: "rutherfordium",
+		amount: 144
+	}]
+}

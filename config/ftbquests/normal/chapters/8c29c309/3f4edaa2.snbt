@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"103fae14"
+	],
+	tasks: [{
+		uid: "f8719597",
+		type: "item",
+		items: [{
+			item: "gtadditions:ga_multiblock_casing 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "ac79c066",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 503"
+		}]
+	}]
+}

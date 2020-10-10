@@ -1,0 +1,18 @@
+{
+	title: "Gourmet Venison Burger x32 [115,200]",
+	icon: "harvestcraft:gourmetvenisonburgeritem",
+	x: 0.0d,
+	y: 4.5d,
+	can_repeat: true,
+	tasks: [{
+		uid: "4f1bc72d",
+		type: "emc",
+		value: 115200L
+	}],
+	rewards: [{
+		uid: "638220cd",
+		type: "item",
+		item: "harvestcraft:gourmetvenisonburgeritem",
+		count: 32
+	}]
+}

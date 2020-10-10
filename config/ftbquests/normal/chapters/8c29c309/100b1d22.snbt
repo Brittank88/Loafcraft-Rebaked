@@ -1,0 +1,15 @@
+{
+	x: 30.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"9a518275"
+	],
+	tasks: [{
+		uid: "72cd3a57",
+		type: "item",
+		items: [{
+			item: "metallurgy:midasium_ingot"
+		}]
+	}]
+}

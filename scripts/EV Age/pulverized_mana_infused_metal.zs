@@ -1,0 +1,1 @@
+recipes.addShapeless("pulverizedManaInfusedMetal", <thermalfoundation:material:72> * 4, [<ore:dustRubracium> * 3, <ore:dustMana> * 1]);

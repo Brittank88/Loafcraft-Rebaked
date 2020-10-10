@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"8b3e282f"
+	],
+	tasks: [{
+		uid: "5ca5b6b7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 2"
+		}]
+	}]
+}

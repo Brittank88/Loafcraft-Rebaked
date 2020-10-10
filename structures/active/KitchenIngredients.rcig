@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "KitchenIngredients",
+  "items": [
+    {
+      "weight": 0.4400899410247803,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "minecraft:sugar",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5354365706443787,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "harvestcraft:flouritem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.8473554849624634,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "harvestcraft:doughitem",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.25986868143081665,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "biomesoplenty:ricebowl",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.4858947992324829,
+      "min": 1,
+      "max": 64,
+      "item": {
+        "id": "gregtech:meta_item_1",
+        "damage": 345,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.5889394283294678,
+      "min": 1,
+      "max": 32,
+      "item": {
+        "id": "gregtech:meta_item_1",
+        "damage": 1345,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.7087690830230713,
+      "min": 1,
+      "max": 16,
+      "item": {
+        "id": "gregtech:meta_item_1",
+        "damage": 2345,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.3978064954280853,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "harvestcraft:royaljellyitem",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": "$gregtech \u0026 $harvestcraft \u0026 $biomesoplenty"
+}

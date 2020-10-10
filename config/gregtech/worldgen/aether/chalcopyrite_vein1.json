@@ -1,0 +1,36 @@
+{
+  "weight": 80,
+  "density": 0.4,
+  "min_height": 1,
+  "surface_stone_material": "vermiculite",
+  "generation_predicate": ["stone_type:diorite", "block:aether_legacy:holystone"],
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [13, 15]
+  },
+  "dimension_filter": ["name:AetherI"],
+  "filler": {
+    "type": "simple",
+    "value": {
+      "type": "weight_random",
+      "values": [
+        {
+          "weight": 30,
+          "value": "ore:chalcopyrite"
+        },
+        {
+          "weight": 30,
+          "value": "ore:vermiculite"
+        },
+        {
+          "weight": 30,
+          "value": "ore:cassiterite"
+        },
+        {
+          "weight": 10,
+          "value": "ore:alunite"
+        }
+      ]
+    }
+  }
+}

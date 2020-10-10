@@ -1,0 +1,13 @@
+{
+	icon: "extrautils2:teleporter 1 1",
+	x: -6.0d,
+	y: 6.0d,
+	dependencies: [
+		"c48f7b90"
+	],
+	tasks: [{
+		uid: "377da8c8",
+		type: "dimension",
+		dim: -11325
+	}]
+}

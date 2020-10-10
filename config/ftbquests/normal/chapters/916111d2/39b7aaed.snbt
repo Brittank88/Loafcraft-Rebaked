@@ -1,0 +1,36 @@
+{
+	title: "The Forge Master",
+	icon: "metallurgy:tartarite_ingot",
+	x: -6.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"8c61ac53"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "4bc3ff43",
+		type: "checkmark",
+		title: "Forge Every Alloy"
+	}],
+	rewards: [{
+		uid: "61d67e2d",
+		type: "item",
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 255,
+				TrophyVariant: "classic",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "metallurgy:tartarite_ingot",
+					Count: 1b,
+					Damage: 0s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "The Forge Master",
+				TrophyColorRed: 255
+			}
+		}
+	}]
+}

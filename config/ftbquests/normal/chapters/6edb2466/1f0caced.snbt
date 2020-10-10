@@ -1,0 +1,60 @@
+{
+	title: "Foraging",
+	x: 3.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	description: "Shift-click to pick up the garden instead of breaking it!",
+	text: [
+		"Aside from being able to just forage for simple foods with these gardens, they will also be your source of most of the different crop types in this world."
+	],
+	dependencies: [
+		"c00cf871"
+	],
+	tasks: [{
+		uid: "48c08d9f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:aridgarden"
+		}]
+	},
+	{
+		uid: "46347f31",
+		type: "item",
+		items: [{
+			item: "harvestcraft:frostgarden"
+		}]
+	},
+	{
+		uid: "c59c11a3",
+		type: "item",
+		items: [{
+			item: "harvestcraft:shadedgarden"
+		}]
+	},
+	{
+		uid: "d59e773e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:soggygarden"
+		}]
+	},
+	{
+		uid: "eb4d6a7e",
+		type: "item",
+		items: [{
+			item: "harvestcraft:tropicalgarden"
+		}]
+	},
+	{
+		uid: "548c7ffa",
+		type: "item",
+		items: [{
+			item: "harvestcraft:windygarden"
+		}]
+	}],
+	rewards: [{
+		uid: "c79cf792",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

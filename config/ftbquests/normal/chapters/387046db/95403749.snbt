@@ -1,0 +1,18 @@
+{
+	title: "Mass Fabricator",
+	x: 13.5d,
+	y: -1.5d,
+	dependencies: [
+		"d26d9bbc"
+	],
+	tasks: [{
+		uid: "5559cdbd",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2181"
+		},
+		{
+			item: "gregtech:machine 1 2182"
+		}]
+	}]
+}

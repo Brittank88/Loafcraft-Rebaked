@@ -1,0 +1,21 @@
+{
+	title: "Kaolinite",
+	icon: "gregtech:meta_item_1 1 293",
+	x: 4.0d,
+	y: -2.0d,
+	dependencies: [
+		"f4a03155",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "f89af655",
+		type: "checkmark"
+	},
+	{
+		uid: "340299a6",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 293"
+		}]
+	}]
+}

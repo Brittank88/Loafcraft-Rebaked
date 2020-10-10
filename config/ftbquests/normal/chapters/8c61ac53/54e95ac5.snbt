@@ -1,0 +1,16 @@
+{
+	x: 21.5d,
+	y: 0.0d,
+	dependencies: [
+		"1d3e471a",
+		"4b86771e",
+		"1edb73c7"
+	],
+	tasks: [{
+		uid: "b2e0d0ee",
+		type: "item",
+		items: [{
+			item: "metallurgy:orichalcum_ingot"
+		}]
+	}]
+}

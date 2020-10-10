@@ -1,0 +1,16 @@
+{
+	title: "MAX Circuits",
+	icon: "gregtech:machine 1 509",
+	x: 8.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"f9a25766",
+		"ef97694d"
+	],
+	tasks: [{
+		uid: "b721b21c",
+		type: "checkmark",
+		title: "MAX Circuit Master"
+	}]
+}

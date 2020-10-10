@@ -1,0 +1,49 @@
+{
+	title: "My first alloy!",
+	icon: "gregtech:meta_item_1 1 10095",
+	x: 1.5d,
+	y: 6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"6221e12a"
+	],
+	tasks: [{
+		uid: "cc32e53e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2018"
+		}]
+	},
+	{
+		uid: "3b2a2868",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2071"
+		}]
+	},
+	{
+		uid: "59e37713",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2095"
+		}]
+	},
+	{
+		uid: "4ca300d6",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10095"
+		}]
+	}],
+	rewards: [{
+		uid: "f9da4f6d",
+		type: "item",
+		item: "gregtech:meta_item_1 1 10095",
+		count: 16
+	},
+	{
+		uid: "ad688f3d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

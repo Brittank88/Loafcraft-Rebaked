@@ -1,0 +1,36 @@
+{
+	title: "Nether Redstone Vein",
+	x: 2.0d,
+	y: 0.0d,
+	dependencies: [
+		"bf44b8af"
+	],
+	tasks: [{
+		uid: "6cc44234",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_redstone_0 1 6"
+		}]
+	},
+	{
+		uid: "ecbcb3d6",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_ruby_0 1 6"
+		}]
+	},
+	{
+		uid: "eede3243",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_cinnabar_0 1 6"
+		}]
+	},
+	{
+		uid: "f188bae9",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_chromite_0 1 6"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	title: "UV Circuits",
+	icon: "gregtech:machine 1 508",
+	x: 7.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3ac54db1",
+		"53ebcf3d",
+		"a32eb5b8"
+	],
+	tasks: [{
+		uid: "db7561a5",
+		type: "checkmark",
+		title: "UV Circuit Master"
+	}]
+}

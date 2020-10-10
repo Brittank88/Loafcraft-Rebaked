@@ -1,0 +1,7 @@
+{
+	title: "MV Age",
+	icon: "gregtech:machine 1 502",
+	always_invisible: false,
+	group: 154673656,
+	default_quest_shape: ""
+}

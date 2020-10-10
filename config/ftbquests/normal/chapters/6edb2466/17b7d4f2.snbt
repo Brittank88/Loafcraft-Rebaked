@@ -1,0 +1,28 @@
+{
+	title: "The End of the Beginning",
+	x: 1.5d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"08dbb6c7",
+		"e8857e52"
+	],
+	tasks: [{
+		uid: "a793ea16",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "2fae0db5",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12095",
+		count: 16
+	},
+	{
+		uid: "109e1312",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

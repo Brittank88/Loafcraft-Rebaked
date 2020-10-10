@@ -1,0 +1,16 @@
+{
+	x: -7.5d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"56e82ab2",
+		"1bad8c1e"
+	],
+	tasks: [{
+		uid: "a8916d90",
+		type: "item",
+		items: [{
+			item: "botania:spreader 1 3"
+		}]
+	}]
+}

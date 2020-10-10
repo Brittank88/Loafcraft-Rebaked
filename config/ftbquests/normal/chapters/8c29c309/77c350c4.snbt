@@ -1,0 +1,15 @@
+{
+	x: 27.0d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"969b5e1e"
+	],
+	tasks: [{
+		uid: "7bd3d73b",
+		type: "item",
+		items: [{
+			item: "metallurgy:lemurite_ingot"
+		}]
+	}]
+}

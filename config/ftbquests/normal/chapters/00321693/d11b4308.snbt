@@ -1,0 +1,24 @@
+{
+	x: 27.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"823adc13",
+		"1891ed2f",
+		"f4ba4105"
+	],
+	tasks: [{
+		uid: "1695fe97",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 508"
+		}]
+	},
+	{
+		uid: "e143f0b4",
+		type: "item",
+		items: [{
+			item: "gtadditions:ga_meta_item 1 32215"
+		}]
+	}]
+}

@@ -1,0 +1,7 @@
+{
+	title: "Steam Age",
+	icon: "gregtech:machine_casing 1 11",
+	always_invisible: false,
+	group: 154673656,
+	default_quest_shape: ""
+}

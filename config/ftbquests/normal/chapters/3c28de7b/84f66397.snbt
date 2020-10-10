@@ -1,0 +1,38 @@
+{
+	title: "Basic Runes",
+	x: -4.0d,
+	y: 0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"325cca8c",
+		"b603bc05"
+	],
+	tasks: [{
+		uid: "db642b3a",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 2"
+		}]
+	},
+	{
+		uid: "e9509f27",
+		type: "item",
+		items: [{
+			item: "botania:rune"
+		}]
+	},
+	{
+		uid: "083c6117",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 3"
+		}]
+	},
+	{
+		uid: "c5fd9ab3",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"80f44a00"
+	],
+	tasks: [{
+		uid: "bfdc88d5",
+		type: "fluid",
+		fluid: "acidic_osmium_solution"
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 0.5d,
+	y: 0.0d,
+	dependencies: [
+		"0a0fd21f",
+		"8824207e",
+		"c7d8fdfd",
+		"f1b76fc1"
+	],
+	tasks: [{
+		uid: "ef3df3b2",
+		type: "item",
+		items: [{
+			item: "metallurgy:hepatizon_ingot"
+		}]
+	}]
+}

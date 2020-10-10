@@ -1,0 +1,32 @@
+{
+	x: 1.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	description: "This is why we can't have nice things.",
+	text: [
+		"Apparently, it should be possible to use to petals from these strange flowers to create dyes. I wonder if they'd have any other uses..?",
+		" ",
+		"Well, only one way to find out. Start crushing up the pretty flowers! For science, of course."
+	],
+	dependencies: [
+		"6db19e38"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "38070bd6",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:pestleandmortar"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1bf244f9",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

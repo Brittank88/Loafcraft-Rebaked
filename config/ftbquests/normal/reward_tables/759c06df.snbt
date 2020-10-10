@@ -1,0 +1,28 @@
+{
+	title: "Basic Lumber",
+	loot_size: 1,
+	rewards: [{
+		item: "minecraft:log",
+		count: 64
+	},
+	{
+		item: "minecraft:log 1 1",
+		count: 64
+	},
+	{
+		item: "minecraft:log 1 2",
+		count: 64
+	},
+	{
+		item: "minecraft:log 1 3",
+		count: 64
+	},
+	{
+		item: "minecraft:log2",
+		count: 64
+	},
+	{
+		item: "minecraft:log2 1 1",
+		count: 64
+	}]
+}

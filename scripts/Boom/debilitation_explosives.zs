@@ -1,0 +1,10 @@
+recipes.remove(<icbmclassic:explosives:3>);
+
+val fluid_canner = mods.gregtech.recipe.RecipeMap.getByName("fluid_canner");
+fluid_canner.recipeBuilder()
+    .inputs(<icbmclassic:explosives> * 1)
+    .fluidInputs([<liquid:carbon_monoxide> * 1000])
+    .outputs(<icbmclassic:explosives:3> * 1)
+    .duration(40)
+    .EUt(30)
+    .buildAndRegister();

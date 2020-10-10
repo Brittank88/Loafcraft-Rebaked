@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"49218b7f",
+		"f26f0fcd"
+	],
+	tasks: [{
+		uid: "bde07bc0",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:controller"
+		}]
+	}]
+}

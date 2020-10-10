@@ -1,0 +1,24 @@
+{
+	x: 3.0d,
+	y: 4.5d,
+	shape: "hexagon",
+	description: "Overcooked, perhaps?",
+	text: [
+		"Leaving the iron on the fire for a bit longer should result in a much more readily usable form of iron that grants tools made with it increased durability."
+	],
+	dependencies: [
+		"c6eab790"
+	],
+	tasks: [{
+		uid: "6513c76d",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10197"
+		}]
+	}],
+	rewards: [{
+		uid: "ab397f2b",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

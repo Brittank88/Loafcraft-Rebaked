@@ -1,0 +1,16 @@
+{
+	x: 12.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"906815cd",
+		"01577994"
+	],
+	tasks: [{
+		uid: "fb108186",
+		type: "item",
+		items: [{
+			item: "metallurgy:vulcanite_ingot"
+		}]
+	}]
+}

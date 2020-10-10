@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 11.5d,
+	shape: "hexagon",
+	dependencies: [
+		"3389e506"
+	],
+	tasks: [{
+		uid: "39a9f4f5",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:teleposition_focus",
+			Damage: 2s
+		}],
+		ignore_nbt: 1b
+	}]
+}

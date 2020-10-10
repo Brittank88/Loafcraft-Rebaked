@@ -1,0 +1,13 @@
+{
+	x: 19.5d,
+	y: 3.0d,
+	dependencies: [
+		"c7e4b668"
+	],
+	tasks: [{
+		uid: "293de339",
+		type: "fluid",
+		fluid: "dubnium",
+		amount: 144
+	}]
+}

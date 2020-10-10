@@ -1,0 +1,52 @@
+{
+	x: 3.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3f273f0f"
+	],
+	tasks: [{
+		uid: "b6efbec4",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2537"
+		}]
+	},
+	{
+		uid: "fc66078e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 744"
+		}]
+	},
+	{
+		uid: "59af0221",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 741"
+		}]
+	},
+	{
+		uid: "6a17d016",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 742"
+		}]
+	},
+	{
+		uid: "29dcd350",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 743"
+		}],
+		count: 12L
+	},
+	{
+		uid: "44ada852",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing_stainless_steel"
+		}],
+		count: 34L
+	}]
+}

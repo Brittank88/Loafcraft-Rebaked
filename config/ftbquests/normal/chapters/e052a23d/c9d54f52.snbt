@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"b429fe52"
+	],
+	tasks: [{
+		uid: "2a11e5a5",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:part 1 220"
+		}]
+	}]
+}

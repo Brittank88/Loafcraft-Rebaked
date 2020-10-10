@@ -1,0 +1,66 @@
+{
+	title: "Finally, Clothes",
+	x: -3.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "... But sometimes the best defense is a good defense.",
+	text: [
+		"If you like having decent protection and greater mobility, you're going to want these."
+	],
+	dependencies: [
+		"4bf3cb56"
+	],
+	tasks: [{
+		uid: "6959ba89",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "techguns:t1_scout_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2a250ea8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "techguns:t1_scout_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2eb029fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "techguns:t1_scout_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "949a7d3a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "techguns:t1_scout_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d32033de",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

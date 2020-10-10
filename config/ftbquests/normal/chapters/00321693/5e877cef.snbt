@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"87813a35",
+		"6f73a9cb"
+	],
+	tasks: [{
+		uid: "cdd43c99",
+		type: "item",
+		items: [{
+			item: "thaumcraft:ingot 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Grossular",
+	icon: "gregtech:meta_item_1 1 118",
+	x: 2.0d,
+	y: 3.0d,
+	dependencies: [
+		"76a23bae",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "5e989ac1",
+		type: "checkmark"
+	},
+	{
+		uid: "e7b42bfa",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 118"
+		}]
+	}]
+}

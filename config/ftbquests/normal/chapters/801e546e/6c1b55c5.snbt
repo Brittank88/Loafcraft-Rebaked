@@ -1,0 +1,65 @@
+{
+	title: "Bauxite Vein",
+	x: -3.0d,
+	y: 1.0d,
+	dependencies: [
+		"a78d45d3"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "96571cb0",
+		type: "item",
+		title: "Bauxite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBauxite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "2492dd25",
+		type: "item",
+		title: "Aluminium Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreAluminium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "839eb0ac",
+		type: "item",
+		title: "Ilmenite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreIlmenite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "44a91e7e",
+		type: "item",
+		title: "Rutile Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreRutile",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

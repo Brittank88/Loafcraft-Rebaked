@@ -1,0 +1,13 @@
+{
+	x: 15.0d,
+	y: -9.0d,
+	shape: "hexagon",
+	dependencies: [
+		"cf5ca383"
+	],
+	tasks: [{
+		uid: "b42d4fab",
+		type: "fluid",
+		fluid: "sulfuric_coal_tar_oil"
+	}]
+}

@@ -1,0 +1,65 @@
+{
+	title: "Cassiterite Vein",
+	x: -1.0d,
+	y: 2.0d,
+	dependencies: [
+		"4308f83d"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "69b97ca4",
+		type: "item",
+		title: "Cassiterite Sand Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCassiteriteSand",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "fcb89d2c",
+		type: "item",
+		title: "Garnet Sand Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGarnetSand",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "671d1313",
+		type: "item",
+		title: "Asbestos Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreAsbestos",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "d2b30c6b",
+		type: "item",
+		title: "Diatomite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreDiatomite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

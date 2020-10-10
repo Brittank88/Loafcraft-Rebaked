@@ -1,0 +1,13 @@
+{
+	x: 12.0d,
+	y: -7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"ee212356"
+	],
+	tasks: [{
+		uid: "f5e0db16",
+		type: "fluid",
+		fluid: "coal_tar"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 17.5d,
+	y: 0.0d,
+	dependencies: [
+		"8400a6c0",
+		"a72f6cea",
+		"f5504356"
+	],
+	tasks: [{
+		uid: "0223ddc4",
+		type: "item",
+		items: [{
+			item: "metallurgy:kalendrite_ingot"
+		}]
+	}]
+}

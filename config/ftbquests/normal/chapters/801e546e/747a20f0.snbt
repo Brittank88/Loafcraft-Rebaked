@@ -1,0 +1,51 @@
+{
+	title: "Tenorite Vein",
+	x: 4.0d,
+	y: -1.0d,
+	dependencies: [
+		"37306cba"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "e9bda1f3",
+		type: "item",
+		title: "Tenorite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTenorite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "a8aea279",
+		type: "item",
+		title: "Copper Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "3fea1974",
+		type: "item",
+		title: "Cuprite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCuprite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

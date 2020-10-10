@@ -1,0 +1,39 @@
+{
+	x: -6.0d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"0e46068a"
+	],
+	tasks: [{
+		uid: "a51bcefc",
+		type: "item",
+		items: [{
+			item: "botania:alfheimportal"
+		}]
+	},
+	{
+		uid: "dc5f74a5",
+		type: "item",
+		items: [{
+			item: "botania:pylon 1 1"
+		}],
+		count: 2L
+	},
+	{
+		uid: "3a7452d8",
+		type: "item",
+		items: [{
+			item: "botania:livingwood 1 5"
+		}],
+		count: 3L
+	},
+	{
+		uid: "799205bb",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}],
+		count: 8L
+	}]
+}

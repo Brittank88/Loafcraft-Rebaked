@@ -1,0 +1,65 @@
+{
+	title: "Redstone Vein",
+	x: -1.0d,
+	y: -1.0d,
+	dependencies: [
+		"79265ee8"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "53021456",
+		type: "item",
+		title: "Redstone Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreRedstone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "badb44f9",
+		type: "item",
+		title: "Ruby Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreRuby",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "408e03d1",
+		type: "item",
+		title: "Cinnabar Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCinnabar",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "9e092b51",
+		type: "item",
+		title: "Chromite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreChromite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

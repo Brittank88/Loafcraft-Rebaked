@@ -1,0 +1,21 @@
+{
+	title: "Olivine",
+	icon: "gregtech:meta_item_1 1 212",
+	x: 3.0d,
+	y: 2.0d,
+	dependencies: [
+		"76a23bae",
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "c894b7b0",
+		type: "checkmark"
+	},
+	{
+		uid: "353bae7f",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 212"
+		}]
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "Fading Matter Power Flower",
+	icon: "projectex:power_flower 1 14",
+	x: 12.5d,
+	y: 5.5d,
+	dependencies: [
+		"00ca18c7",
+		"ef3c044e"
+	],
+	tasks: [{
+		uid: "1fc05279",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 13"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "44c7effa",
+		type: "item",
+		items: [{
+			item: "projectex:matter 1 11"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "ae77e52a",
+		type: "item",
+		item: "projectex:power_flower 1 14"
+	}]
+}

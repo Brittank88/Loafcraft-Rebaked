@@ -1,0 +1,65 @@
+{
+	title: "Kaolinite Vein",
+	x: 3.0d,
+	y: -1.0d,
+	dependencies: [
+		"3a7e5a2a"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "2802b578",
+		type: "item",
+		title: "Kaolinite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreKaolinite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "adea7d6b",
+		type: "item",
+		title: "Zeolite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreZeolite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "6718b290",
+		type: "item",
+		title: "Fullers Earth Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreFullersEarth",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "a2ace297",
+		type: "item",
+		title: "Glauconite Sand Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGlauconiteSand",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

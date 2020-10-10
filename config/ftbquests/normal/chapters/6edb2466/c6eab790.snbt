@@ -1,0 +1,25 @@
+{
+	title: "Burnt Iron?",
+	x: 1.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	description: "Don't lose your temper!",
+	text: [
+		"Now normally I'd advise against throwing things into open flames, but in thise case doing so with iron for a couple seconds should get you a slightly more workable version of the iron that should prove useful in alloying."
+	],
+	dependencies: [
+		"7186fc0c"
+	],
+	tasks: [{
+		uid: "63aa5ba4",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material"
+		}]
+	}],
+	rewards: [{
+		uid: "a6120bdc",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

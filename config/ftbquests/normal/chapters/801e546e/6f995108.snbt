@@ -1,0 +1,51 @@
+{
+	title: "Monazite Vein",
+	x: -1.0d,
+	y: 5.0d,
+	dependencies: [
+		"9bd8a408"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "49693377",
+		type: "item",
+		title: "Bastnasite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBastnasite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "e68d6f45",
+		type: "item",
+		title: "Monazite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreMonazite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "d0e32377",
+		type: "item",
+		title: "Neodymium Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreNeodymium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

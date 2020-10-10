@@ -1,0 +1,13 @@
+{
+	x: -10.0d,
+	y: 0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"de064cf6"
+	],
+	tasks: [{
+		uid: "9392af68",
+		type: "fluid",
+		fluid: "astralsorcery.liquidstarlight"
+	}]
+}

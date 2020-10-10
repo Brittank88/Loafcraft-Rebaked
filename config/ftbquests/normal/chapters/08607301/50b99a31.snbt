@@ -1,0 +1,19 @@
+{
+	title: "MV Circuits",
+	icon: "gregtech:machine 1 502",
+	x: 1.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"4412f4d3",
+		"56ccfaff",
+		"00ae30b2",
+		"4e6ac536",
+		"34139554"
+	],
+	tasks: [{
+		uid: "21748c26",
+		type: "checkmark",
+		title: "MV Circuit Master"
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -6.5d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"87813a35",
+		"c2279625"
+	],
+	tasks: [{
+		uid: "89aa6af5",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_covalence_dust"
+		}]
+	}]
+}

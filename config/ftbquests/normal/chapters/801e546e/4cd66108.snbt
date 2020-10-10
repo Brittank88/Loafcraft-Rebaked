@@ -1,0 +1,51 @@
+{
+	title: "Beryllium Vein",
+	x: -2.0d,
+	y: 1.0d,
+	dependencies: [
+		"386f966d"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "c422b68c",
+		type: "item",
+		title: "Beryllium Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreBeryllium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "fe2f120c",
+		type: "item",
+		title: "Emerald Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreEmerald",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "484a3003",
+		type: "item",
+		title: "Thorium Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreThorium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

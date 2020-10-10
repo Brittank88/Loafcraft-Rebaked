@@ -1,0 +1,31 @@
+{
+	title: "A Really Big Furnace",
+	icon: "gregtech:machine 1 510",
+	x: -3.0d,
+	y: 1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"c0d69b2a",
+		"0b2b28eb"
+	],
+	tasks: [{
+		uid: "a8b05187",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 1"
+		}],
+		count: 32L
+	},
+	{
+		uid: "937570b4",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 510"
+		}]
+	}],
+	rewards: [{
+		uid: "9c72356e",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

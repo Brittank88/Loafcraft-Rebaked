@@ -1,0 +1,89 @@
+{
+	icon: "gregtech:machine 1 2502",
+	x: 12.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"f52d2aa7"
+	],
+	tasks: [{
+		uid: "f29476c6",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2502"
+		}]
+	},
+	{
+		uid: "5f8fe8f4",
+		type: "item",
+		title: "Energy Input Hatch",
+		items: [{
+			item: "gregtech:machine 1 764"
+		},
+		{
+			item: "gregtech:machine 1 754"
+		}]
+	},
+	{
+		uid: "5ec69706",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing_steel"
+		}],
+		count: 28L
+	},
+	{
+		uid: "6281afeb",
+		type: "item",
+		items: [{
+			item: "gtadditions:ga_multiblock_casing"
+		}],
+		count: 10L
+	},
+	{
+		uid: "9382bde8",
+		type: "item",
+		items: [{
+			item: "gtadditions:ga_transparent_casing"
+		}],
+		count: 20L
+	},
+	{
+		uid: "059074f4",
+		type: "item",
+		items: [{
+			item: "gregtech:multiblock_casing 1 1"
+		}],
+		count: 20L
+	},
+	{
+		uid: "6cc343e7",
+		type: "item",
+		items: [{
+			item: "gregtech:multiblock_casing 1 2"
+		}],
+		count: 9L
+	},
+	{
+		uid: "bbe656e0",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 700"
+		}],
+		count: 9L
+	},
+	{
+		uid: "7bdeef0b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 741"
+		}]
+	},
+	{
+		uid: "7d200fec",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 742"
+		}]
+	}]
+}

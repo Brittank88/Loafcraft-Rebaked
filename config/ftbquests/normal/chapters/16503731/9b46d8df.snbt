@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"a5180566"
+	],
+	tasks: [{
+		uid: "2568121e",
+		type: "item",
+		items: [{
+			item: "metallurgy:infuscolium_ingot"
+		}]
+	}]
+}

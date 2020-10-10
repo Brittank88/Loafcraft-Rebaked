@@ -1,0 +1,7 @@
+{
+	title: "A New Energy",
+	icon: "thermalexpansion:frame 1 148",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

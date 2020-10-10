@@ -1,0 +1,12 @@
+{
+	x: 13.5d,
+	y: 0.0d,
+	dependencies: [
+		"1427aee1"
+	],
+	tasks: [{
+		uid: "3d1864d5",
+		type: "fluid",
+		fluid: "nitrosyl_fluoride"
+	}]
+}

@@ -1,0 +1,37 @@
+{
+	title: "Seasonal Runes",
+	x: -1.5d,
+	y: 9.5d,
+	shape: "hexagon",
+	dependencies: [
+		"b122dd4d"
+	],
+	tasks: [{
+		uid: "77c24d92",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 4"
+		}]
+	},
+	{
+		uid: "a6f96559",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 5"
+		}]
+	},
+	{
+		uid: "a2b479af",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 6"
+		}]
+	},
+	{
+		uid: "196cc9bd",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 7"
+		}]
+	}]
+}

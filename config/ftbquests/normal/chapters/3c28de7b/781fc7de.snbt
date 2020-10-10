@@ -1,0 +1,26 @@
+{
+	title: "Demonic Will",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "bloodmagic:monster_soul"
+	},
+	x: 2.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"162d3690"
+	],
+	tasks: [{
+		uid: "06a78b70",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bloodmagic:monster_soul"
+		}],
+		ignore_nbt: 1b
+	}]
+}

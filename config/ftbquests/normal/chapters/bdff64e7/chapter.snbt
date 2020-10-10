@@ -1,0 +1,7 @@
+{
+	title: "Flux Mastery",
+	icon: "techreborn:machine_frame 1 2",
+	always_invisible: false,
+	group: -567666654,
+	default_quest_shape: ""
+}

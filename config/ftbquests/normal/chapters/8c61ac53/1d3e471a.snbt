@@ -1,0 +1,16 @@
+{
+	x: 20.5d,
+	y: 0.0d,
+	dependencies: [
+		"5ae92e69",
+		"639013e9",
+		"4949ec6e"
+	],
+	tasks: [{
+		uid: "de0df126",
+		type: "item",
+		items: [{
+			item: "metallurgy:meutoite_ingot"
+		}]
+	}]
+}

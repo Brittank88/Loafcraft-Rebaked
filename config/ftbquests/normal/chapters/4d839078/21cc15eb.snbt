@@ -1,0 +1,59 @@
+{
+	title: "Sinful Runes",
+	x: -2.0d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"8fe7dfa9",
+		"84048856"
+	],
+	tasks: [{
+		uid: "6ad16bf8",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 9"
+		}]
+	},
+	{
+		uid: "eeb386b4",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 10"
+		}]
+	},
+	{
+		uid: "ade117b6",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 11"
+		}]
+	},
+	{
+		uid: "445e7352",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 12"
+		}]
+	},
+	{
+		uid: "614d7d7a",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 13"
+		}]
+	},
+	{
+		uid: "59fcf9c9",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 14"
+		}]
+	},
+	{
+		uid: "37330c37",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 15"
+		}]
+	}]
+}

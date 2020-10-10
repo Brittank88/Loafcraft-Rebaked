@@ -1,0 +1,32 @@
+{
+	title: "Stone Materials",
+	loot_size: 1,
+	rewards: [{
+		item: "chisel:marble2 1 7",
+		count: 64
+	},
+	{
+		item: "chisel:basalt2 1 7",
+		count: 64
+	},
+	{
+		item: "chisel:limestone2 1 7",
+		count: 64
+	},
+	{
+		item: "minecraft:stone",
+		count: 64
+	},
+	{
+		item: "minecraft:stone 1 1",
+		count: 64
+	},
+	{
+		item: "minecraft:stone 1 3",
+		count: 64
+	},
+	{
+		item: "minecraft:stone 1 5",
+		count: 64
+	}]
+}

@@ -1,0 +1,51 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "botania:lexicon",
+		tag: {}
+	},
+	x: 0.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	description: "Some weird magic book?",
+	text: [
+		"According to J.E.I.'s analysis of nearby materials, it should be possible to synthesize a special book out of natural materials that somehow magically contains information about what to do with those flowers you've found.",
+		" ",
+		"This is way outside our field of expertise, but J.E.I. hasn't let us down before!"
+	],
+	dependencies: [
+		"6db19e38"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "10b5e892",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:lexicon",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c6e98fd4",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				Parent: [],
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "botania:flowerbag"
+		}
+	},
+	{
+		uid: "f6be010d",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 13.5d,
+	y: 0.0d,
+	dependencies: [
+		"8cdfbd9f",
+		"6bb32e49",
+		"8cfe078c"
+	],
+	tasks: [{
+		uid: "6565298e",
+		type: "item",
+		items: [{
+			item: "metallurgy:midasium_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,36 @@
+{
+	x: 3.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"7f06245c",
+		"0719e4ba",
+		"243a7159",
+		"74f21726"
+	],
+	tasks: [{
+		uid: "aa7ff4cf",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 501"
+		}]
+	},
+	{
+		uid: "1c5c5db3",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 32487"
+		}]
+	}],
+	rewards: [{
+		uid: "a62a1609",
+		type: "item",
+		item: "gregtech:meta_item_1 1 12184",
+		count: 16
+	},
+	{
+		uid: "305bf074",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

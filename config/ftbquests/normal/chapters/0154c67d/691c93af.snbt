@@ -1,0 +1,24 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	shape: "hexagon",
+	description: "Are we resurrecting lumber?",
+	text: [
+		"Placing wood logs around a pure daisy should, in theory, get you a kind of mystical wood which could prove useful in focusing the natural energy of these flora."
+	],
+	dependencies: [
+		"3303ea09"
+	],
+	tasks: [{
+		uid: "e20200c1",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}]
+	}],
+	rewards: [{
+		uid: "f89de8b7",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

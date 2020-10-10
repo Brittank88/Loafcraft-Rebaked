@@ -1,0 +1,12 @@
+{
+	x: 10.5d,
+	y: 4.5d,
+	dependencies: [
+		"93e0b1b4"
+	],
+	tasks: [{
+		uid: "9d9f0f25",
+		type: "fluid",
+		fluid: "cesium_fluoride"
+	}]
+}

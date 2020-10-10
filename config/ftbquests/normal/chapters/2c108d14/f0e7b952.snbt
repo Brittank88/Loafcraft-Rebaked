@@ -1,0 +1,13 @@
+{
+	x: 10.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"3b00838b"
+	],
+	tasks: [{
+		uid: "7f52adf1",
+		type: "fluid",
+		fluid: "rhodium_filter_cake_solution"
+	}]
+}

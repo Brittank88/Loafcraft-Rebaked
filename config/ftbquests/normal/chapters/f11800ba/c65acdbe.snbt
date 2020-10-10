@@ -1,0 +1,32 @@
+{
+	title: "Cyan Matter Power Flower",
+	icon: "projectex:power_flower 1 8",
+	x: 6.5d,
+	y: 5.5d,
+	dependencies: [
+		"db48834b",
+		"09f0c4df"
+	],
+	tasks: [{
+		uid: "ee5072b1",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 7"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "7213c945",
+		type: "item",
+		items: [{
+			item: "projectex:matter 1 5"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "be8fada4",
+		type: "item",
+		item: "projectex:power_flower 1 8"
+	}]
+}

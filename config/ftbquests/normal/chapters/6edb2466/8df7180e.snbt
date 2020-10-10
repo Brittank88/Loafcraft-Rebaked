@@ -1,0 +1,27 @@
+{
+	title: "First Harvest",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	description: "You reap what you sow.",
+	text: [
+		"Well, I suppose you reap wheat and sow seeds, so maybe that idiom isn't so apt.",
+		" ",
+		"But I'm just a near omniscient intelligence housed in a database of nearly all of humanity's scientific, historial, and philosophical discoveries and musings, so what do I know?"
+	],
+	dependencies: [
+		"c00cf871"
+	],
+	tasks: [{
+		uid: "7ab654ee",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}]
+	}],
+	rewards: [{
+		uid: "79244b69",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

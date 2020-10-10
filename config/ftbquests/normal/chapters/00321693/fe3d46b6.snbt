@@ -1,0 +1,15 @@
+{
+	x: 16.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"4bd7c545"
+	],
+	tasks: [{
+		uid: "3e7abe53",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:material 1 48"
+		}]
+	}]
+}

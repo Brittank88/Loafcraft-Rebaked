@@ -1,0 +1,13 @@
+{
+	x: 13.5d,
+	y: 1.5d,
+	dependencies: [
+		"73c1ab1c",
+		"a87cae7e"
+	],
+	tasks: [{
+		uid: "c000df5e",
+		type: "fluid",
+		fluid: "naquadria_cesium_xenon_nonfluoride"
+	}]
+}

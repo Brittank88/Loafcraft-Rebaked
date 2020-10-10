@@ -1,0 +1,37 @@
+{
+	title: "Manasteel Ingot",
+	icon: "botania:manaresource",
+	x: -4.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"f1b76fc1",
+		"c2279625"
+	],
+	tasks: [{
+		uid: "bcb7ecd5",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2247"
+		}]
+	},
+	{
+		uid: "2c26973a",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 10184"
+		}]
+	},
+	{
+		uid: "0d8bc9a9",
+		type: "item",
+		items: [{
+			item: "botania:manaresource"
+		}]
+	}],
+	rewards: [{
+		uid: "e45843c4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

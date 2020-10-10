@@ -1,0 +1,21 @@
+{
+	title: "Monazite",
+	icon: "gregtech:meta_item_1 1 281",
+	x: -2.0d,
+	y: 6.0d,
+	dependencies: [
+		"d79a9481",
+		"cf5a5a41"
+	],
+	tasks: [{
+		uid: "27691e87",
+		type: "checkmark"
+	},
+	{
+		uid: "fee40741",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 281"
+		}]
+	}]
+}

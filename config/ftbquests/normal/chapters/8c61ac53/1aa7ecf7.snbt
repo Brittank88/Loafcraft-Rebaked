@@ -1,0 +1,16 @@
+{
+	x: 7.5d,
+	y: 0.0d,
+	dependencies: [
+		"558b3eb6",
+		"3625f4ac",
+		"0a52a854"
+	],
+	tasks: [{
+		uid: "f29ff188",
+		type: "item",
+		items: [{
+			item: "metallurgy:oureclase_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"46ae0e97",
+		"5558728e"
+	],
+	tasks: [{
+		uid: "874b5bf6",
+		type: "item",
+		items: [{
+			item: "metallurgy:angmallen_ingot"
+		}]
+	}]
+}

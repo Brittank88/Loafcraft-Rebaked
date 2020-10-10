@@ -1,0 +1,17 @@
+{
+	x: -11.5d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"b43942e8",
+		"a4557812",
+		"3696ab59"
+	],
+	tasks: [{
+		uid: "200aaf0b",
+		type: "item",
+		items: [{
+			item: "twilightforest:fiery_ingot"
+		}]
+	}]
+}

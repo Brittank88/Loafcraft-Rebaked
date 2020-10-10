@@ -1,0 +1,16 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	dependencies: [
+		"2bfb54fa",
+		"d687be3e",
+		"358e1921"
+	],
+	tasks: [{
+		uid: "8990d995",
+		type: "item",
+		items: [{
+			item: "metallurgy:rubracium_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,61 @@
+{
+	x: 4.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3f4edaa2",
+		"7a015702"
+	],
+	tasks: [{
+		uid: "836847a0",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2530"
+		}]
+	},
+	{
+		uid: "d27ec098",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 744"
+		}]
+	},
+	{
+		uid: "c2c61401",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 742"
+		}],
+		count: 5L
+	},
+	{
+		uid: "ad5f4f0e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 743"
+		}],
+		count: 3L
+	},
+	{
+		uid: "f70f78af",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 740"
+		}]
+	},
+	{
+		uid: "eebc330b",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 741"
+		}]
+	},
+	{
+		uid: "e3c183f7",
+		type: "item",
+		items: [{
+			item: "gtadditions:ga_multiblock_casing 1 1"
+		}],
+		count: 14L
+	}]
+}

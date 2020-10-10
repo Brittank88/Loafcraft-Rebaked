@@ -1,0 +1,65 @@
+{
+	title: "Kyanite Vein",
+	x: 1.0d,
+	y: 4.0d,
+	dependencies: [
+		"0e4d7a2d"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "b5c60f8e",
+		type: "item",
+		title: "Kyanite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreKyanite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "37226ece",
+		type: "item",
+		title: "Mica Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreMica",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "ed141ffc",
+		type: "item",
+		title: "Cassiterite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCassiterite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "5c1848a1",
+		type: "item",
+		title: "Pollucite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePollucite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

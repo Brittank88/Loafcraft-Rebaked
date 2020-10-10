@@ -1,0 +1,35 @@
+{
+	title: "The Machine Master",
+	icon: "gregtech:meta_item_1 1 32303",
+	x: -6.0d,
+	y: -4.0d,
+	dependencies: [
+		"093821f8"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "7b989833",
+		type: "checkmark",
+		title: "Advance Through Every Machine Age"
+	}],
+	rewards: [{
+		uid: "881e4bb2",
+		type: "item",
+		item: {
+			id: "simple_trophies:trophy",
+			tag: {
+				TrophyColorGreen: 255,
+				TrophyVariant: "classic",
+				TrophyShowsTooltip: 1b,
+				TrophyItem: {
+					id: "gregtech:meta_item_1",
+					Count: 1b,
+					Damage: 32303s
+				},
+				TrophyColorBlue: 255,
+				TrophyName: "The Machine Master",
+				TrophyColorRed: 255
+			}
+		}
+	}]
+}

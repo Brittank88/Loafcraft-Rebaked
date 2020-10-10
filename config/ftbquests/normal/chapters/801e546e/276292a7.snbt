@@ -1,0 +1,51 @@
+{
+	title: "Tungstate Vein",
+	x: 1.0d,
+	y: -2.0d,
+	dependencies: [
+		"20a2aa4c"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "e64f9ee1",
+		type: "item",
+		title: "Scheelite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreScheelite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "0d6e2d3f",
+		type: "item",
+		title: "Tungstate Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreTungstate",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "c6e59668",
+		type: "item",
+		title: "Lithium Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreLithium",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

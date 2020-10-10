@@ -1,0 +1,1 @@
+furnace.remove(<gregtech:meta_item_1:10001>);

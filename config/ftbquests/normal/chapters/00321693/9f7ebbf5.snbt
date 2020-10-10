@@ -1,0 +1,13 @@
+{
+	x: 22.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"54d7d2d7"
+	],
+	tasks: [{
+		uid: "baa0a57b",
+		type: "checkmark",
+		title: "(some other intermediate step)"
+	}]
+}

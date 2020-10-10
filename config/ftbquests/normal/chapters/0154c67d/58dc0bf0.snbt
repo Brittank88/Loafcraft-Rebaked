@@ -1,0 +1,27 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	shape: "hexagon",
+	description: "Directing the flow of magic... stuff",
+	text: [
+		"It just so happens that livingwood, when structured properly with a little bit of gold and a flower petal for a focus, makes for an excellent conductor of mystical energy, which we'll just call \"mana\" from here on out.",
+		" ",
+		"So now we have a way to produce mana and a way to transmit it. Now we just need a way to direct the flow with greater accuracy and a place to store it!"
+	],
+	dependencies: [
+		"691c93af",
+		"e29ab129"
+	],
+	tasks: [{
+		uid: "40bf8da9",
+		type: "item",
+		items: [{
+			item: "botania:spreader"
+		}]
+	}],
+	rewards: [{
+		uid: "99956086",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

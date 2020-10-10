@@ -1,0 +1,64 @@
+{
+	title: "Exotic Lumber",
+	loot_size: 1,
+	rewards: [{
+		item: "biomesoplenty:log_0 1 5",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_0 1 6",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_0 1 7",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_1 1 4",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_1 1 5",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_1 1 6",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_1 1 7",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_2 1 4",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_2 1 5",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_2 1 6",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_2 1 7",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_3 1 4",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_3 1 5",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_3 1 6",
+		count: 64
+	},
+	{
+		item: "biomesoplenty:log_3 1 7",
+		count: 64
+	}]
+}

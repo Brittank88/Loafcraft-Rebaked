@@ -1,0 +1,13 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	shape: "hexagon",
+	dependencies: [
+		"f1cce24a"
+	],
+	tasks: [{
+		uid: "d3ce6f4c",
+		type: "fluid",
+		fluid: "fluoroantimonic_acid"
+	}]
+}

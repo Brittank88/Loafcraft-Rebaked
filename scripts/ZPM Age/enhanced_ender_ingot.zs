@@ -1,0 +1,1 @@
+mods.bloodmagic.AlchemyArray.addRecipe(<extendedcrafting:material:48>, <enderio:item_alloy_ingot:8>, <minecraft:dragon_egg>, "bloodmagic:textures/models/AlchemyArrays/LightSigil.png");

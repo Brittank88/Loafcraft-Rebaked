@@ -1,0 +1,19 @@
+{
+	title: "LuV Circuits",
+	icon: "gregtech:machine 1 506",
+	x: 5.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"6586fc0e",
+		"eb481241",
+		"7d1b4127",
+		"5ab9ba6c",
+		"c76a06f4"
+	],
+	tasks: [{
+		uid: "6c7e7faa",
+		type: "checkmark",
+		title: "LuV Circuit Master"
+	}]
+}

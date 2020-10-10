@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: 0.0d,
+	dependencies: [
+		"92e51154",
+		"9fa9726f",
+		"e9d2eb15"
+	],
+	tasks: [{
+		uid: "66ad7706",
+		type: "item",
+		items: [{
+			item: "metallurgy:infuscolium_ingot"
+		}]
+	}]
+}

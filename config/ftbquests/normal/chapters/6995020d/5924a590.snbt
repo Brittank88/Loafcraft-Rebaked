@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: -3.0d,
+	shape: "hexagon",
+	hide_dependency_lines: true,
+	dependencies: [
+		"83d04a90",
+		"78fc6e58"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "1f288760",
+		type: "fluid",
+		fluid: "benzene"
+	}]
+}

@@ -1,0 +1,65 @@
+{
+	title: "Nickel Vein",
+	x: 1.0d,
+	y: -1.0d,
+	dependencies: [
+		"7548d8a9"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "cd14e740",
+		type: "item",
+		title: "Garnierite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreGarnierite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "ad3660b2",
+		type: "item",
+		title: "Nickel Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreNickel",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "7a09e043",
+		type: "item",
+		title: "Cobaltite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCobaltite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "a60c2dc4",
+		type: "item",
+		title: "Pentlandite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePentlandite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

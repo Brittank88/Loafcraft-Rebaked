@@ -1,0 +1,32 @@
+{
+	title: "Magenta Matter Power Flower",
+	icon: "projectex:power_flower 1 3",
+	x: 1.5d,
+	y: 5.5d,
+	dependencies: [
+		"0d701b60",
+		"c685fa8f"
+	],
+	tasks: [{
+		uid: "653b64d3",
+		type: "item",
+		items: [{
+			item: "projectex:power_flower 1 2"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "194f67aa",
+		type: "item",
+		items: [{
+			item: "projectex:matter"
+		}],
+		count: 64L,
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "6761738e",
+		type: "item",
+		item: "projectex:power_flower 1 3"
+	}]
+}

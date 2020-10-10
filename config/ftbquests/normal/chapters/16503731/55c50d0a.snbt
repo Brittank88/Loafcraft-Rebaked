@@ -1,0 +1,26 @@
+{
+	title: "Silicon",
+	icon: "appliedenergistics2:material 1 5",
+	x: 1.5d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"c82be2cb",
+		"0d998afc",
+		"509e52f0"
+	],
+	tasks: [{
+		uid: "cf98b3a6",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 2061"
+		}]
+	},
+	{
+		uid: "a1b64237",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 5"
+		}]
+	}]
+}

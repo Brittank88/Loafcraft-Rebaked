@@ -1,0 +1,29 @@
+{
+	icon: "enderio:block_alloy_smelter",
+	x: -4.5d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"dbb8e8aa",
+		"9f5ba610"
+	],
+	tasks: [{
+		uid: "b56a7c06",
+		type: "item",
+		items: [{
+			item: "enderio:block_alloy_smelter"
+		}]
+	},
+	{
+		uid: "0dc4c0b0",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor"
+		}]
+	}],
+	rewards: [{
+		uid: "100e8533",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	}]
+}

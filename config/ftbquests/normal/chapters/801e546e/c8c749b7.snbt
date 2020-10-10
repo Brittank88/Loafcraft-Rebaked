@@ -1,0 +1,65 @@
+{
+	title: "Chalcopyrite Vein",
+	x: -1.0d,
+	y: 3.0d,
+	dependencies: [
+		"4f5c1df2"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "f365cf10",
+		type: "item",
+		title: "Chalcopyrite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreChalcopyrite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "c79e7def",
+		type: "item",
+		title: "Iron Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "da5d91bd",
+		type: "item",
+		title: "Pyrite Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "orePyrite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	},
+	{
+		uid: "636295b9",
+		type: "item",
+		title: "Copper Ore",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "oreCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter"
+		}]
+	}]
+}

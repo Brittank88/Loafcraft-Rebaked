@@ -1,0 +1,16 @@
+{
+	x: 11.5d,
+	y: 0.0d,
+	dependencies: [
+		"cebd31f8",
+		"790c2795",
+		"728c643d"
+	],
+	tasks: [{
+		uid: "d6237a49",
+		type: "item",
+		items: [{
+			item: "metallurgy:alduorite_ingot"
+		}]
+	}]
+}
