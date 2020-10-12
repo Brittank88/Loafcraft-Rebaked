@@ -1,0 +1,14 @@
+{
+	x: 25.5d,
+	y: -3.0d,
+	dependencies: [
+		"59558006"
+	],
+	tasks: [{
+		uid: "e9eba582",
+		type: "item",
+		items: [{
+			item: "metallurgy:eximite_ingot"
+		}]
+	}]
+}

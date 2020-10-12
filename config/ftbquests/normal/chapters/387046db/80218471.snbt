@@ -1,0 +1,736 @@
+{
+	title: "Compressed Crystal Blocks",
+	x: 24.0d,
+	y: -1.5d,
+	dependencies: [
+		"8cfd0d4e"
+	],
+	tasks: [{
+		uid: "0ec2cacf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:thorium_crystal_block"
+		}]
+	},
+	{
+		uid: "6486e15b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:nickel_crystal_block"
+		}]
+	},
+	{
+		uid: "f17c0f29",
+		type: "item",
+		items: [{
+			item: "contenttweaker:silver_crystal_block"
+		}]
+	},
+	{
+		uid: "e2b52264",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lead_crystal_block"
+		}]
+	},
+	{
+		uid: "95c3484d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:almandine_crystal_block"
+		}]
+	},
+	{
+		uid: "6e95ea20",
+		type: "item",
+		items: [{
+			item: "contenttweaker:iron_crystal_block"
+		}]
+	},
+	{
+		uid: "8c331e4f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:andradite_crystal_block"
+		}]
+	},
+	{
+		uid: "699b24bb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:tin_crystal_block"
+		}]
+	},
+	{
+		uid: "868efc2e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:asbestos_crystal_block"
+		}]
+	},
+	{
+		uid: "ad2a59fc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:copper_crystal_block"
+		}]
+	},
+	{
+		uid: "b44ed6ac",
+		type: "item",
+		items: [{
+			item: "contenttweaker:banded_iron_crystal_block"
+		}]
+	},
+	{
+		uid: "1b516a96",
+		type: "item",
+		items: [{
+			item: "contenttweaker:redstone_crystal_block"
+		}]
+	},
+	{
+		uid: "ef846ab0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:blue_topaz_crystal_block"
+		}]
+	},
+	{
+		uid: "d4297bb9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lazurite_crystal_block"
+		}]
+	},
+	{
+		uid: "8ffd5fe2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:brown_limonite_crystal_block"
+		}]
+	},
+	{
+		uid: "2dd911fc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:sodalite_crystal_block"
+		}]
+	},
+	{
+		uid: "ec29bd9b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:calcite_crystal_block"
+		}]
+	},
+	{
+		uid: "b01a6514",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lapis_crystal_block"
+		}]
+	},
+	{
+		uid: "cb9f2362",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cassiterite_crystal_block"
+		}]
+	},
+	{
+		uid: "4a94d7fe",
+		type: "item",
+		items: [{
+			item: "contenttweaker:aluminium_crystal_block"
+		}]
+	},
+	{
+		uid: "2e6c0b92",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cassiterite_sand_crystal_block"
+		}]
+	},
+	{
+		uid: "099ccd7d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:beryllium_crystal_block"
+		}]
+	},
+	{
+		uid: "2d0455d9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:chalcopyrite_crystal_block"
+		}]
+	},
+	{
+		uid: "d7ead71c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lithium_crystal_block"
+		}]
+	},
+	{
+		uid: "e5bb40ab",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cinnabar_crystal_block"
+		}]
+	},
+	{
+		uid: "dfb00d1a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:magnetite_crystal_block"
+		}]
+	},
+	{
+		uid: "bc7523e9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:coal_crystal_block"
+		}]
+	},
+	{
+		uid: "17d947e6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:molybdenite_crystal_block"
+		}]
+	},
+	{
+		uid: "38a37c42",
+		type: "item",
+		items: [{
+			item: "contenttweaker:powellite_crystal_block"
+		}]
+	},
+	{
+		uid: "4fbc8811",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cobaltite_crystal_block"
+		}]
+	},
+	{
+		uid: "e1c3761c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pyrite_crystal_block"
+		}]
+	},
+	{
+		uid: "bb8427e6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:diamond_crystal_block"
+		}]
+	},
+	{
+		uid: "ee3df80a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pyrolusite_crystal_block"
+		}]
+	},
+	{
+		uid: "88b20a06",
+		type: "item",
+		items: [{
+			item: "contenttweaker:emerald_crystal_block"
+		}]
+	},
+	{
+		uid: "04208015",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pyrope_crystal_block"
+		}]
+	},
+	{
+		uid: "ebbbeabd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:galena_crystal_block"
+		}]
+	},
+	{
+		uid: "97e0cc64",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rock_salt_crystal_block"
+		}]
+	},
+	{
+		uid: "4ab1d5e2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:garnierite_crystal_block"
+		}]
+	},
+	{
+		uid: "305f8f08",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ruby_crystal_block"
+		}]
+	},
+	{
+		uid: "03db998b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:green_sapphire_crystal_block"
+		}]
+	},
+	{
+		uid: "5a1625f3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:salt_crystal_block"
+		}]
+	},
+	{
+		uid: "4ee36dd6",
+		type: "item",
+		items: [{
+			item: "contenttweaker:grossular_crystal_block"
+		}]
+	},
+	{
+		uid: "55f2cb6b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:sapphire_crystal_block"
+		}]
+	},
+	{
+		uid: "495f0494",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ilmenite_crystal_block"
+		}]
+	},
+	{
+		uid: "0358c06f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:scheelite_crystal_block"
+		}]
+	},
+	{
+		uid: "5f7f579f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rutile_crystal_block"
+		}]
+	},
+	{
+		uid: "1685e1ed",
+		type: "item",
+		items: [{
+			item: "contenttweaker:spessartine_crystal_block"
+		}]
+	},
+	{
+		uid: "9d77eb1f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:bauxite_crystal_block"
+		}]
+	},
+	{
+		uid: "289cbaba",
+		type: "item",
+		items: [{
+			item: "contenttweaker:neodymium_crystal_block"
+		}]
+	},
+	{
+		uid: "470b610b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:chromite_crystal_block"
+		}]
+	},
+	{
+		uid: "69e5c7a7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:stibnite_crystal_block"
+		}]
+	},
+	{
+		uid: "78f33da1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:magnesite_crystal_block"
+		}]
+	},
+	{
+		uid: "90891830",
+		type: "item",
+		items: [{
+			item: "contenttweaker:phosphor_crystal_block"
+		}]
+	},
+	{
+		uid: "337828bb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:tetrahedrite_crystal_block"
+		}]
+	},
+	{
+		uid: "67240d91",
+		type: "item",
+		items: [{
+			item: "contenttweaker:vanadium_magnetite_crystal_block"
+		}]
+	},
+	{
+		uid: "d42dde1b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:topaz_crystal_block"
+		}]
+	},
+	{
+		uid: "efb78342",
+		type: "item",
+		items: [{
+			item: "contenttweaker:garnet_sand_crystal_block"
+		}]
+	},
+	{
+		uid: "de87ef29",
+		type: "item",
+		items: [{
+			item: "contenttweaker:tungstate_crystal_block"
+		}]
+	},
+	{
+		uid: "ffd77736",
+		type: "item",
+		items: [{
+			item: "contenttweaker:bastnasite_crystal_block"
+		}]
+	},
+	{
+		uid: "eeea82bf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:wulfenite_crystal_block"
+		}]
+	},
+	{
+		uid: "4f952546",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pentlandite_crystal_block"
+		}]
+	},
+	{
+		uid: "2ce2f3ec",
+		type: "item",
+		items: [{
+			item: "contenttweaker:yellow_limonite_crystal_block"
+		}]
+	},
+	{
+		uid: "fa42c8ab",
+		type: "item",
+		items: [{
+			item: "contenttweaker:spodumene_crystal_block"
+		}]
+	},
+	{
+		uid: "24d09ed9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:certus_quartz_crystal_block"
+		}]
+	},
+	{
+		uid: "f7d8a787",
+		type: "item",
+		items: [{
+			item: "contenttweaker:pollucite_crystal_block"
+		}]
+	},
+	{
+		uid: "f0bde33b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:quartzite_crystal_block"
+		}]
+	},
+	{
+		uid: "c645ffbd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lepidolite_crystal_block"
+		}]
+	},
+	{
+		uid: "257675ed",
+		type: "item",
+		items: [{
+			item: "contenttweaker:graphite_crystal_block"
+		}]
+	},
+	{
+		uid: "352eb1a3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:glauconite_crystal_block"
+		}]
+	},
+	{
+		uid: "c83b17af",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lignite_coal_crystal_block"
+		}]
+	},
+	{
+		uid: "268d6c69",
+		type: "item",
+		items: [{
+			item: "contenttweaker:glauconite_sand_crystal_block"
+		}]
+	},
+	{
+		uid: "7056bd1b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:olivine_crystal_block"
+		}]
+	},
+	{
+		uid: "4fff7916",
+		type: "item",
+		items: [{
+			item: "contenttweaker:vermiculite_crystal_block"
+		}]
+	},
+	{
+		uid: "62f7b44c",
+		type: "item",
+		items: [{
+			item: "contenttweaker:diatomite_crystal_block"
+		}]
+	},
+	{
+		uid: "06b55c90",
+		type: "item",
+		items: [{
+			item: "contenttweaker:bentonite_crystal_block"
+		}]
+	},
+	{
+		uid: "f0346ecb",
+		type: "item",
+		items: [{
+			item: "contenttweaker:tantalite_crystal_block"
+		}]
+	},
+	{
+		uid: "b9453611",
+		type: "item",
+		items: [{
+			item: "contenttweaker:soapstone_crystal_block"
+		}]
+	},
+	{
+		uid: "d1c1dac1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:malachite_crystal_block"
+		}]
+	},
+	{
+		uid: "1f504eea",
+		type: "item",
+		items: [{
+			item: "contenttweaker:monazite_crystal_block"
+		}]
+	},
+	{
+		uid: "f475b485",
+		type: "item",
+		items: [{
+			item: "contenttweaker:tenorite_crystal_block"
+		}]
+	},
+	{
+		uid: "3a949190",
+		type: "item",
+		items: [{
+			item: "contenttweaker:cuprite_crystal_block"
+		}]
+	},
+	{
+		uid: "5f8581ee",
+		type: "item",
+		items: [{
+			item: "contenttweaker:trona_crystal_block"
+		}]
+	},
+	{
+		uid: "5528e13b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:bornite_crystal_block"
+		}]
+	},
+	{
+		uid: "ac290b20",
+		type: "item",
+		items: [{
+			item: "contenttweaker:mica_crystal_block"
+		}]
+	},
+	{
+		uid: "7ef560ab",
+		type: "item",
+		items: [{
+			item: "contenttweaker:chalcocite_crystal_block"
+		}]
+	},
+	{
+		uid: "1751b0a7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:barite_crystal_block"
+		}]
+	},
+	{
+		uid: "a0f7edc5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:enargite_crystal_block"
+		}]
+	},
+	{
+		uid: "2bf6051e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:gypsum_crystal_block"
+		}]
+	},
+	{
+		uid: "d53b412b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:tennantite_crystal_block"
+		}]
+	},
+	{
+		uid: "d13020b7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:alunite_crystal_block"
+		}]
+	},
+	{
+		uid: "035a8bfd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:uranium_crystal_block"
+		}]
+	},
+	{
+		uid: "106d4f56",
+		type: "item",
+		items: [{
+			item: "contenttweaker:dolomite_crystal_block"
+		}]
+	},
+	{
+		uid: "af72eb5f",
+		type: "item",
+		items: [{
+			item: "contenttweaker:precious_metal_crystal_block"
+		}]
+	},
+	{
+		uid: "f2a58e27",
+		type: "item",
+		items: [{
+			item: "contenttweaker:wollastonite_crystal_block"
+		}]
+	},
+	{
+		uid: "cd5ae881",
+		type: "item",
+		items: [{
+			item: "contenttweaker:rarest_metal_residue_crystal_block"
+		}]
+	},
+	{
+		uid: "ff41dbd3",
+		type: "item",
+		items: [{
+			item: "contenttweaker:zeolite_crystal_block"
+		}]
+	},
+	{
+		uid: "46f24d30",
+		type: "item",
+		items: [{
+			item: "contenttweaker:palladium_metallic_powder_crystal_block"
+		}]
+	},
+	{
+		uid: "105136c0",
+		type: "item",
+		items: [{
+			item: "contenttweaker:kyanite_crystal_block"
+		}]
+	},
+	{
+		uid: "c39a2848",
+		type: "item",
+		items: [{
+			item: "contenttweaker:platinum_metallic_powder_crystal_block"
+		}]
+	},
+	{
+		uid: "ce2f56fc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:kaolinite_crystal_block"
+		}]
+	},
+	{
+		uid: "6ee6c273",
+		type: "item",
+		items: [{
+			item: "contenttweaker:apatite_crystal_block"
+		}]
+	},
+	{
+		uid: "20864dcd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fullers_earth_crystal_block"
+		}]
+	},
+	{
+		uid: "3858cb1b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:prasiolite_crystal_block"
+		}]
+	},
+	{
+		uid: "7bf04af4",
+		type: "item",
+		items: [{
+			item: "contenttweaker:talc_crystal_block"
+		}]
+	}]
+}

@@ -1,0 +1,736 @@
+{
+	title: "Mundane Singularities",
+	x: 25.5d,
+	y: -1.5d,
+	dependencies: [
+		"80218471"
+	],
+	tasks: [{
+		uid: "1631f07f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 192"
+		}]
+	},
+	{
+		uid: "ba2672ef",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 158"
+		}]
+	},
+	{
+		uid: "d69eda67",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 22"
+		}]
+	},
+	{
+		uid: "abab6c6a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 23"
+		}]
+	},
+	{
+		uid: "98dbefaf",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 134"
+		}]
+	},
+	{
+		uid: "cdab0ccf",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 1"
+		}]
+	},
+	{
+		uid: "dc9faf63",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 103"
+		}]
+	},
+	{
+		uid: "6f7605dc",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 18"
+		}]
+	},
+	{
+		uid: "7aaad8e7",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 132"
+		}]
+	},
+	{
+		uid: "e27b2a61",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity 1 17"
+		}]
+	},
+	{
+		uid: "82e97c9d",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 107"
+		}]
+	},
+	{
+		uid: "68fcf900",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 172"
+		}]
+	},
+	{
+		uid: "cc956c8a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 141"
+		}]
+	},
+	{
+		uid: "176f2040",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 117"
+		}]
+	},
+	{
+		uid: "d6889a69",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 106"
+		}]
+	},
+	{
+		uid: "3ed66eda",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 118"
+		}]
+	},
+	{
+		uid: "5d5ec014",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 120"
+		}]
+	},
+	{
+		uid: "cac16169",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 119"
+		}]
+	},
+	{
+		uid: "fa633027",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 115"
+		}]
+	},
+	{
+		uid: "b75f06dd",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 194"
+		}]
+	},
+	{
+		uid: "98ae304d",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 184"
+		}]
+	},
+	{
+		uid: "7acb5765",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 190"
+		}]
+	},
+	{
+		uid: "fb019394",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 180"
+		}]
+	},
+	{
+		uid: "a41fe5b0",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 140"
+		}]
+	},
+	{
+		uid: "0777c2bb",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 175"
+		}]
+	},
+	{
+		uid: "a8f518ad",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 124"
+		}]
+	},
+	{
+		uid: "a8acc95c",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 121"
+		}]
+	},
+	{
+		uid: "08c06c34",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 152"
+		}]
+	},
+	{
+		uid: "3f04aa57",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 153"
+		}]
+	},
+	{
+		uid: "b57fa149",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 159"
+		}]
+	},
+	{
+		uid: "4a9bfaf3",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 183"
+		}]
+	},
+	{
+		uid: "b4addac6",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 131"
+		}]
+	},
+	{
+		uid: "64b2e384",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 128"
+		}]
+	},
+	{
+		uid: "7b2771b9",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 191"
+		}]
+	},
+	{
+		uid: "3022f5a4",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 135"
+		}]
+	},
+	{
+		uid: "588364c1",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 104"
+		}]
+	},
+	{
+		uid: "427e1b3c",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 176"
+		}]
+	},
+	{
+		uid: "4917b819",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 157"
+		}]
+	},
+	{
+		uid: "b96106e9",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 173"
+		}]
+	},
+	{
+		uid: "47e17846",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 137"
+		}]
+	},
+	{
+		uid: "5ad3558c",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 177"
+		}]
+	},
+	{
+		uid: "8684677f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 126"
+		}]
+	},
+	{
+		uid: "b910c9fd",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 136"
+		}]
+	},
+	{
+		uid: "ae0b3e3f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 195"
+		}]
+	},
+	{
+		uid: "4c540741",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 138"
+		}]
+	},
+	{
+		uid: "3fc3e1a7",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 196"
+		}]
+	},
+	{
+		uid: "320ebab0",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 127"
+		}]
+	},
+	{
+		uid: "5b8d96a0",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 193"
+		}]
+	},
+	{
+		uid: "ef4496e3",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 156"
+		}]
+	},
+	{
+		uid: "6f2716d2",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 174"
+		}]
+	},
+	{
+		uid: "a635a179",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 144"
+		}]
+	},
+	{
+		uid: "5da314ef",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 162"
+		}]
+	},
+	{
+		uid: "e1ad78e2",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 200"
+		}]
+	},
+	{
+		uid: "7e593fea",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 143"
+		}]
+	},
+	{
+		uid: "fe8d2cd1",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 123"
+		}]
+	},
+	{
+		uid: "e93cc106",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 142"
+		}]
+	},
+	{
+		uid: "23f55b0f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 185"
+		}]
+	},
+	{
+		uid: "1dfe96ea",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 139"
+		}]
+	},
+	{
+		uid: "a7b84bbe",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 154"
+		}]
+	},
+	{
+		uid: "73cfa017",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 151"
+		}]
+	},
+	{
+		uid: "192e134d",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 150"
+		}]
+	},
+	{
+		uid: "aadbb17c",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 105"
+		}]
+	},
+	{
+		uid: "c6561dad",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 179"
+		}]
+	},
+	{
+		uid: "078349f1",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 170"
+		}]
+	},
+	{
+		uid: "cbb54587",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 116"
+		}]
+	},
+	{
+		uid: "504561e3",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 168"
+		}]
+	},
+	{
+		uid: "6ee18b84",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 178"
+		}]
+	},
+	{
+		uid: "675e0e81",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 130"
+		}]
+	},
+	{
+		uid: "0b64f4e4",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 149"
+		}]
+	},
+	{
+		uid: "7933421a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 122"
+		}]
+	},
+	{
+		uid: "f0c8ddf7",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 112"
+		}]
+	},
+	{
+		uid: "a6cf6f9a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 163"
+		}]
+	},
+	{
+		uid: "959f7439",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 181"
+		}]
+	},
+	{
+		uid: "da4d4d3d",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 186"
+		}]
+	},
+	{
+		uid: "7637e51b",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 161"
+		}]
+	},
+	{
+		uid: "a6c1f2f8",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 129"
+		}]
+	},
+	{
+		uid: "6c4569bf",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 147"
+		}]
+	},
+	{
+		uid: "01ef2b28",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 108"
+		}]
+	},
+	{
+		uid: "3ea48538",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 155"
+		}]
+	},
+	{
+		uid: "f5699081",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 145"
+		}]
+	},
+	{
+		uid: "365bda05",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 146"
+		}]
+	},
+	{
+		uid: "5da2125d",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 102"
+		}]
+	},
+	{
+		uid: "6ad6bce2",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 187"
+		}]
+	},
+	{
+		uid: "d59440ce",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 114"
+		}]
+	},
+	{
+		uid: "97136e28",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 188"
+		}]
+	},
+	{
+		uid: "a138642a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 169"
+		}]
+	},
+	{
+		uid: "db22784a",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 189"
+		}]
+	},
+	{
+		uid: "7a966fea",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 133"
+		}]
+	},
+	{
+		uid: "e5416940",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 171"
+		}]
+	},
+	{
+		uid: "70c4670b",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 182"
+		}]
+	},
+	{
+		uid: "c51ac5d1",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 164"
+		}]
+	},
+	{
+		uid: "97455859",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 100"
+		}]
+	},
+	{
+		uid: "596e011d",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 125"
+		}]
+	},
+	{
+		uid: "be55c34c",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 101"
+		}]
+	},
+	{
+		uid: "fa6b3fde",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 167"
+		}]
+	},
+	{
+		uid: "450d8a5b",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 110"
+		}]
+	},
+	{
+		uid: "5aa30e32",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 166"
+		}]
+	},
+	{
+		uid: "fcffa5f2",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 113"
+		}]
+	},
+	{
+		uid: "07fdbff0",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 165"
+		}]
+	},
+	{
+		uid: "94542371",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 109"
+		}]
+	},
+	{
+		uid: "f56146d1",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 199"
+		}]
+	},
+	{
+		uid: "c663addc",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 111"
+		}]
+	},
+	{
+		uid: "585faef6",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 160"
+		}]
+	},
+	{
+		uid: "1d357a20",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 148"
+		}]
+	}]
+}

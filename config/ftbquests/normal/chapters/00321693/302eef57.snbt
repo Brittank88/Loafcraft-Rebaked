@@ -6,8 +6,10 @@
 		"b025451f"
 	],
 	tasks: [{
-		uid: "88f35e41",
-		type: "checkmark",
-		title: "(some intermediate step)"
+		uid: "88c850ee",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 2066"
+		}]
 	}]
 }

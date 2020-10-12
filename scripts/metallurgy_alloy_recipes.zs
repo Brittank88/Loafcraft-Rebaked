@@ -219,7 +219,7 @@ alloy_smelter.recipeBuilder()
      .buildAndRegister();
 
 alloy_smelter.recipeBuilder()
-     .inputs(<ore:ingotAmericum> * 1, <ore:ingotCrystaltine> * 1)
+     .inputs(<ore:ingotAmericium> * 1, <ore:ingotCrystaltine> * 1)
      .outputs(<metallurgy:sanguinite_ingot> * 1)
      .duration(580)
      .EUt(524288)

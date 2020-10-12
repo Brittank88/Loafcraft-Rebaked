@@ -1,7 +1,7 @@
 {
 	title: "Mass Fabricator",
 	x: 13.5d,
-	y: -1.5d,
+	y: 0.0d,
 	dependencies: [
 		"d26d9bbc"
 	],

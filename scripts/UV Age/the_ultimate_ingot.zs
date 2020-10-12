@@ -1,0 +1,1 @@
+mods.actuallyadditions.AtomicReconstructor.addRecipe(<extendedcrafting:material:32>, <extendedcrafting:singularity_custom:227>, 300000);

@@ -1,0 +1,99 @@
+{
+	title: "Exotic Singularities",
+	x: 28.5d,
+	y: -3.0d,
+	dependencies: [
+		"ec97a883"
+	],
+	tasks: [{
+		uid: "e51c0724",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 271"
+		}]
+	},
+	{
+		uid: "efbb86de",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 272"
+		}]
+	},
+	{
+		uid: "ff9c41f4",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 273"
+		}]
+	},
+	{
+		uid: "25aa7b2b",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 274"
+		}]
+	},
+	{
+		uid: "972158ca",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 275"
+		}]
+	},
+	{
+		uid: "8ff0596b",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 276"
+		}]
+	},
+	{
+		uid: "289bbb22",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 278"
+		}]
+	},
+	{
+		uid: "ddef6893",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 279"
+		}]
+	},
+	{
+		uid: "919a704b",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 280"
+		}]
+	},
+	{
+		uid: "418d4643",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 281"
+		}]
+	},
+	{
+		uid: "6a97b445",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 282"
+		}]
+	},
+	{
+		uid: "90f5992e",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 283"
+		}]
+	},
+	{
+		uid: "507d5a68",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_custom 1 284"
+		}]
+	}]
+}

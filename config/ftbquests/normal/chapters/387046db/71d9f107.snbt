@@ -1,5 +1,5 @@
 {
-	x: 18.0d,
+	x: 30.0d,
 	y: -3.0d,
 	dependencies: [
 		"e00c3909"
@@ -8,5 +8,10 @@
 		uid: "5c740765",
 		type: "fluid",
 		fluid: "hydrofluoric_acid"
+	},
+	{
+		uid: "83ab66ce",
+		type: "fluid",
+		fluid: "chloroform"
 	}]
 }

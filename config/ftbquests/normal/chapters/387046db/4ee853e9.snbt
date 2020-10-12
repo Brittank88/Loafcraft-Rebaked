@@ -1,0 +1,14 @@
+{
+	x: 16.5d,
+	y: 0.0d,
+	dependencies: [
+		"b233171e",
+		"0e4a46f4"
+	],
+	tasks: [{
+		uid: "1b3e7913",
+		type: "fluid",
+		fluid: "neutronium",
+		amount: 1
+	}]
+}

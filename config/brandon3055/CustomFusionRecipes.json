@@ -27,4 +27,14 @@
             "extendedcrafting:material,1,36"
         ]
     }
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:awakened_core",
+        "catalyst": "minecraft:nether_star"
+    }
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:chaotic_core",
+        "catalyst": "draconicevolution:chaos_shard"
+    }
 ]
