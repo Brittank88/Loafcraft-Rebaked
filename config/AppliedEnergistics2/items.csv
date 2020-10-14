@@ -1964,8 +1964,8 @@ extracells:pattern.fluid:0, ME Fluid Pattern: Molten Inolashite
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Meutoite
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Orichalcum
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Infuscolium
-extracells:pattern.fluid:0, ME Fluid Pattern: Molten Shadow Steel
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Midasium
+extracells:pattern.fluid:0, ME Fluid Pattern: Molten Shadow Steel
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Krik
 extracells:pattern.fluid:0, ME Fluid Pattern: Molten Rubracium
 extracells:pattern.fluid:0, ME Fluid Pattern: Liquid Tar
@@ -8307,9 +8307,9 @@ appliedenergistics2:facade:0, Cable Facade - Soul Sandstone
 appliedenergistics2:facade:0, Cable Facade - Turf Block
 appliedenergistics2:facade:0, Cable Facade - Netherwrought Stone
 appliedenergistics2:facade:0, Cable Facade - White Quilted Wool
-appliedenergistics2:facade:0, Cable Facade - Sugar Block
-appliedenergistics2:facade:0, Cable Facade - Red Slime Block
-appliedenergistics2:facade:0, Cable Facade - Gravisand
+appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
+appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
+appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
 appliedenergistics2:facade:0, Cable Facade - Swamp Oak Leaves
 appliedenergistics2:facade:0, Cable Facade - White Cave Crystal
 appliedenergistics2:facade:0, Cable Facade - Ender Biotite Ore
@@ -8327,9 +8327,9 @@ appliedenergistics2:facade:0, Cable Facade - Elder Prismarine
 appliedenergistics2:facade:0, Cable Facade - Elder Sea Lantern
 appliedenergistics2:facade:0, Cable Facade - Glowcelium
 appliedenergistics2:facade:0, Cable Facade - Glowshroom
-appliedenergistics2:facade:0, Cable Facade - Spruce Bookshelf
-appliedenergistics2:facade:0, Cable Facade - Lit Redstone Lamp
-appliedenergistics2:facade:0, Cable Facade - Blaze Lantern
+appliedenergistics2:facade:0, Cable Facade - Sugar Block
+appliedenergistics2:facade:0, Cable Facade - Red Slime Block
+appliedenergistics2:facade:0, Cable Facade - Gravisand
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
 appliedenergistics2:facade:0, Cable Facade - Block of Aluminum
@@ -11020,13 +11020,13 @@ appliedenergistics2:facade:0, Cable Facade - Infuscolium Ore
 appliedenergistics2:facade:0, Cable Facade - Infuscolium Engraved Block
 appliedenergistics2:facade:0, Cable Facade - Infuscolium Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Infuscolium Bricks
-appliedenergistics2:facade:0, Cable Facade - Shadow Steel Engraved Block
-appliedenergistics2:facade:0, Cable Facade - Shadow Steel Large Bricks
-appliedenergistics2:facade:0, Cable Facade - Shadow Steel Bricks
 appliedenergistics2:facade:0, Cable Facade - Midasium Ore
 appliedenergistics2:facade:0, Cable Facade - Midasium Engraved Block
 appliedenergistics2:facade:0, Cable Facade - Midasium Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Midasium Bricks
+appliedenergistics2:facade:0, Cable Facade - Shadow Steel Engraved Block
+appliedenergistics2:facade:0, Cable Facade - Shadow Steel Large Bricks
+appliedenergistics2:facade:0, Cable Facade - Shadow Steel Bricks
 appliedenergistics2:facade:0, Cable Facade - Krik Engraved Block
 appliedenergistics2:facade:0, Cable Facade - Krik Large Bricks
 appliedenergistics2:facade:0, Cable Facade - Krik Bricks
@@ -15610,8 +15610,8 @@ tconstruct:shard:0, Oureclase Shard
 tconstruct:shard:0, Inolashite Shard
 tconstruct:shard:0, Orichalcum Shard
 tconstruct:shard:0, Infuscolium Shard
-tconstruct:shard:0, Shadow Steel Shard
 tconstruct:shard:0, Midasium Shard
+tconstruct:shard:0, Shadow Steel Shard
 tconstruct:shard:0, Krik Shard
 tconstruct:shard:0, Aluminium Shard
 tconstruct:shard:0, Chrome Shard
@@ -15743,8 +15743,8 @@ tconstruct:sharpening_kit:0, Oureclase Sharpening Kit
 tconstruct:sharpening_kit:0, Inolashite Sharpening Kit
 tconstruct:sharpening_kit:0, Orichalcum Sharpening Kit
 tconstruct:sharpening_kit:0, Infuscolium Sharpening Kit
-tconstruct:sharpening_kit:0, Shadow Steel Sharpening Kit
 tconstruct:sharpening_kit:0, Midasium Sharpening Kit
+tconstruct:sharpening_kit:0, Shadow Steel Sharpening Kit
 tconstruct:sharpening_kit:0, Krik Sharpening Kit
 tconstruct:sharpening_kit:0, Aluminium Sharpening Kit
 tconstruct:sharpening_kit:0, Chrome Sharpening Kit
@@ -15876,8 +15876,8 @@ tconstruct:pick_head:0, Oureclase Pickaxe Head
 tconstruct:pick_head:0, Inolashite Pickaxe Head
 tconstruct:pick_head:0, Orichalcum Pickaxe Head
 tconstruct:pick_head:0, Infuscolium Pickaxe Head
-tconstruct:pick_head:0, Shadow Steel Pickaxe Head
 tconstruct:pick_head:0, Midasium Pickaxe Head
+tconstruct:pick_head:0, Shadow Steel Pickaxe Head
 tconstruct:pick_head:0, Krik Pickaxe Head
 tconstruct:pick_head:0, Aluminium Pickaxe Head
 tconstruct:pick_head:0, Chrome Pickaxe Head
@@ -16009,8 +16009,8 @@ tconstruct:shovel_head:0, Oureclase Shovel Head
 tconstruct:shovel_head:0, Inolashite Shovel Head
 tconstruct:shovel_head:0, Orichalcum Shovel Head
 tconstruct:shovel_head:0, Infuscolium Shovel Head
-tconstruct:shovel_head:0, Shadow Steel Shovel Head
 tconstruct:shovel_head:0, Midasium Shovel Head
+tconstruct:shovel_head:0, Shadow Steel Shovel Head
 tconstruct:shovel_head:0, Krik Shovel Head
 tconstruct:shovel_head:0, Aluminium Shovel Head
 tconstruct:shovel_head:0, Chrome Shovel Head
@@ -16142,8 +16142,8 @@ tconstruct:axe_head:0, Oureclase Axe Head
 tconstruct:axe_head:0, Inolashite Axe Head
 tconstruct:axe_head:0, Orichalcum Axe Head
 tconstruct:axe_head:0, Infuscolium Axe Head
-tconstruct:axe_head:0, Shadow Steel Axe Head
 tconstruct:axe_head:0, Midasium Axe Head
+tconstruct:axe_head:0, Shadow Steel Axe Head
 tconstruct:axe_head:0, Krik Axe Head
 tconstruct:axe_head:0, Aluminium Axe Head
 tconstruct:axe_head:0, Chrome Axe Head
@@ -16275,8 +16275,8 @@ tconstruct:broad_axe_head:0, Oureclase Broad Axe Head
 tconstruct:broad_axe_head:0, Inolashite Broad Axe Head
 tconstruct:broad_axe_head:0, Orichalcum Broad Axe Head
 tconstruct:broad_axe_head:0, Infuscolium Broad Axe Head
-tconstruct:broad_axe_head:0, Shadow Steel Broad Axe Head
 tconstruct:broad_axe_head:0, Midasium Broad Axe Head
+tconstruct:broad_axe_head:0, Shadow Steel Broad Axe Head
 tconstruct:broad_axe_head:0, Krik Broad Axe Head
 tconstruct:broad_axe_head:0, Aluminium Broad Axe Head
 tconstruct:broad_axe_head:0, Chrome Broad Axe Head
@@ -16408,8 +16408,8 @@ tconstruct:sword_blade:0, Oureclase Sword Blade
 tconstruct:sword_blade:0, Inolashite Sword Blade
 tconstruct:sword_blade:0, Orichalcum Sword Blade
 tconstruct:sword_blade:0, Infuscolium Sword Blade
-tconstruct:sword_blade:0, Shadow Steel Sword Blade
 tconstruct:sword_blade:0, Midasium Sword Blade
+tconstruct:sword_blade:0, Shadow Steel Sword Blade
 tconstruct:sword_blade:0, Krik Sword Blade
 tconstruct:sword_blade:0, Aluminium Sword Blade
 tconstruct:sword_blade:0, Chrome Sword Blade
@@ -16541,8 +16541,8 @@ tconstruct:large_sword_blade:0, Oureclase Large Sword Blade
 tconstruct:large_sword_blade:0, Inolashite Large Sword Blade
 tconstruct:large_sword_blade:0, Orichalcum Large Sword Blade
 tconstruct:large_sword_blade:0, Infuscolium Large Sword Blade
-tconstruct:large_sword_blade:0, Shadow Steel Large Sword Blade
 tconstruct:large_sword_blade:0, Midasium Large Sword Blade
+tconstruct:large_sword_blade:0, Shadow Steel Large Sword Blade
 tconstruct:large_sword_blade:0, Krik Large Sword Blade
 tconstruct:large_sword_blade:0, Aluminium Large Sword Blade
 tconstruct:large_sword_blade:0, Chrome Large Sword Blade
@@ -16674,8 +16674,8 @@ tconstruct:hammer_head:0, Oureclase Hammer Head
 tconstruct:hammer_head:0, Inolashite Hammer Head
 tconstruct:hammer_head:0, Orichalcum Hammer Head
 tconstruct:hammer_head:0, Infuscolium Hammer Head
-tconstruct:hammer_head:0, Shadow Steel Hammer Head
 tconstruct:hammer_head:0, Midasium Hammer Head
+tconstruct:hammer_head:0, Shadow Steel Hammer Head
 tconstruct:hammer_head:0, Krik Hammer Head
 tconstruct:hammer_head:0, Aluminium Hammer Head
 tconstruct:hammer_head:0, Chrome Hammer Head
@@ -16807,8 +16807,8 @@ tconstruct:excavator_head:0, Oureclase Excavator Head
 tconstruct:excavator_head:0, Inolashite Excavator Head
 tconstruct:excavator_head:0, Orichalcum Excavator Head
 tconstruct:excavator_head:0, Infuscolium Excavator Head
-tconstruct:excavator_head:0, Shadow Steel Excavator Head
 tconstruct:excavator_head:0, Midasium Excavator Head
+tconstruct:excavator_head:0, Shadow Steel Excavator Head
 tconstruct:excavator_head:0, Krik Excavator Head
 tconstruct:excavator_head:0, Aluminium Excavator Head
 tconstruct:excavator_head:0, Chrome Excavator Head
@@ -16940,8 +16940,8 @@ tconstruct:kama_head:0, Oureclase Kama Head
 tconstruct:kama_head:0, Inolashite Kama Head
 tconstruct:kama_head:0, Orichalcum Kama Head
 tconstruct:kama_head:0, Infuscolium Kama Head
-tconstruct:kama_head:0, Shadow Steel Kama Head
 tconstruct:kama_head:0, Midasium Kama Head
+tconstruct:kama_head:0, Shadow Steel Kama Head
 tconstruct:kama_head:0, Krik Kama Head
 tconstruct:kama_head:0, Aluminium Kama Head
 tconstruct:kama_head:0, Chrome Kama Head
@@ -17073,8 +17073,8 @@ tconstruct:scythe_head:0, Oureclase Scythe Head
 tconstruct:scythe_head:0, Inolashite Scythe Head
 tconstruct:scythe_head:0, Orichalcum Scythe Head
 tconstruct:scythe_head:0, Infuscolium Scythe Head
-tconstruct:scythe_head:0, Shadow Steel Scythe Head
 tconstruct:scythe_head:0, Midasium Scythe Head
+tconstruct:scythe_head:0, Shadow Steel Scythe Head
 tconstruct:scythe_head:0, Krik Scythe Head
 tconstruct:scythe_head:0, Aluminium Scythe Head
 tconstruct:scythe_head:0, Chrome Scythe Head
@@ -17206,8 +17206,8 @@ tconstruct:pan_head:0, Oureclase Pan
 tconstruct:pan_head:0, Inolashite Pan
 tconstruct:pan_head:0, Orichalcum Pan
 tconstruct:pan_head:0, Infuscolium Pan
-tconstruct:pan_head:0, Shadow Steel Pan
 tconstruct:pan_head:0, Midasium Pan
+tconstruct:pan_head:0, Shadow Steel Pan
 tconstruct:pan_head:0, Krik Pan
 tconstruct:pan_head:0, Aluminium Pan
 tconstruct:pan_head:0, Chrome Pan
@@ -17339,8 +17339,8 @@ tconstruct:sign_head:0, Oureclase Sign Plate
 tconstruct:sign_head:0, Inolashite Sign Plate
 tconstruct:sign_head:0, Orichalcum Sign Plate
 tconstruct:sign_head:0, Infuscolium Sign Plate
-tconstruct:sign_head:0, Shadow Steel Sign Plate
 tconstruct:sign_head:0, Midasium Sign Plate
+tconstruct:sign_head:0, Shadow Steel Sign Plate
 tconstruct:sign_head:0, Krik Sign Plate
 tconstruct:sign_head:0, Aluminium Sign Plate
 tconstruct:sign_head:0, Chrome Sign Plate
@@ -17471,8 +17471,8 @@ tconstruct:tool_rod:0, Oureclase Tool Rod
 tconstruct:tool_rod:0, Inolashite Tool Rod
 tconstruct:tool_rod:0, Orichalcum Tool Rod
 tconstruct:tool_rod:0, Infuscolium Tool Rod
-tconstruct:tool_rod:0, Shadow Steel Tool Rod
 tconstruct:tool_rod:0, Midasium Tool Rod
+tconstruct:tool_rod:0, Shadow Steel Tool Rod
 tconstruct:tool_rod:0, Krik Tool Rod
 tconstruct:tool_rod:0, Rubracium Tool Rod
 tconstruct:tool_rod:0, Aluminium Tool Rod
@@ -17604,8 +17604,8 @@ tconstruct:tough_tool_rod:0, Oureclase Tough Tool Rod
 tconstruct:tough_tool_rod:0, Inolashite Tough Tool Rod
 tconstruct:tough_tool_rod:0, Orichalcum Tough Tool Rod
 tconstruct:tough_tool_rod:0, Infuscolium Tough Tool Rod
-tconstruct:tough_tool_rod:0, Shadow Steel Tough Tool Rod
 tconstruct:tough_tool_rod:0, Midasium Tough Tool Rod
+tconstruct:tough_tool_rod:0, Shadow Steel Tough Tool Rod
 tconstruct:tough_tool_rod:0, Krik Tough Tool Rod
 tconstruct:tough_tool_rod:0, Rubracium Tough Tool Rod
 tconstruct:tough_tool_rod:0, Aluminium Tough Tool Rod
@@ -17737,8 +17737,8 @@ tconstruct:binding:0, Oureclase Binding
 tconstruct:binding:0, Inolashite Binding
 tconstruct:binding:0, Orichalcum Binding
 tconstruct:binding:0, Infuscolium Binding
-tconstruct:binding:0, Shadow Steel Binding
 tconstruct:binding:0, Midasium Binding
+tconstruct:binding:0, Shadow Steel Binding
 tconstruct:binding:0, Krik Binding
 tconstruct:binding:0, Rubracium Binding
 tconstruct:binding:0, Aluminium Binding
@@ -17870,8 +17870,8 @@ tconstruct:tough_binding:0, Oureclase Tough Binding
 tconstruct:tough_binding:0, Inolashite Tough Binding
 tconstruct:tough_binding:0, Orichalcum Tough Binding
 tconstruct:tough_binding:0, Infuscolium Tough Binding
-tconstruct:tough_binding:0, Shadow Steel Tough Binding
 tconstruct:tough_binding:0, Midasium Tough Binding
+tconstruct:tough_binding:0, Shadow Steel Tough Binding
 tconstruct:tough_binding:0, Krik Tough Binding
 tconstruct:tough_binding:0, Rubracium Tough Binding
 tconstruct:tough_binding:0, Aluminium Tough Binding
@@ -18003,8 +18003,8 @@ tconstruct:wide_guard:0, Oureclase Wide Guard
 tconstruct:wide_guard:0, Inolashite Wide Guard
 tconstruct:wide_guard:0, Orichalcum Wide Guard
 tconstruct:wide_guard:0, Infuscolium Wide Guard
-tconstruct:wide_guard:0, Shadow Steel Wide Guard
 tconstruct:wide_guard:0, Midasium Wide Guard
+tconstruct:wide_guard:0, Shadow Steel Wide Guard
 tconstruct:wide_guard:0, Krik Wide Guard
 tconstruct:wide_guard:0, Rubracium Wide Guard
 tconstruct:wide_guard:0, Aluminium Wide Guard
@@ -18136,8 +18136,8 @@ tconstruct:hand_guard:0, Oureclase Hand Guard
 tconstruct:hand_guard:0, Inolashite Hand Guard
 tconstruct:hand_guard:0, Orichalcum Hand Guard
 tconstruct:hand_guard:0, Infuscolium Hand Guard
-tconstruct:hand_guard:0, Shadow Steel Hand Guard
 tconstruct:hand_guard:0, Midasium Hand Guard
+tconstruct:hand_guard:0, Shadow Steel Hand Guard
 tconstruct:hand_guard:0, Krik Hand Guard
 tconstruct:hand_guard:0, Rubracium Hand Guard
 tconstruct:hand_guard:0, Aluminium Hand Guard
@@ -18269,8 +18269,8 @@ tconstruct:cross_guard:0, Oureclase Cross Guard
 tconstruct:cross_guard:0, Inolashite Cross Guard
 tconstruct:cross_guard:0, Orichalcum Cross Guard
 tconstruct:cross_guard:0, Infuscolium Cross Guard
-tconstruct:cross_guard:0, Shadow Steel Cross Guard
 tconstruct:cross_guard:0, Midasium Cross Guard
+tconstruct:cross_guard:0, Shadow Steel Cross Guard
 tconstruct:cross_guard:0, Krik Cross Guard
 tconstruct:cross_guard:0, Rubracium Cross Guard
 tconstruct:cross_guard:0, Aluminium Cross Guard
@@ -18403,8 +18403,8 @@ tconstruct:large_plate:0, Oureclase Large Plate
 tconstruct:large_plate:0, Inolashite Large Plate
 tconstruct:large_plate:0, Orichalcum Large Plate
 tconstruct:large_plate:0, Infuscolium Large Plate
-tconstruct:large_plate:0, Shadow Steel Large Plate
 tconstruct:large_plate:0, Midasium Large Plate
+tconstruct:large_plate:0, Shadow Steel Large Plate
 tconstruct:large_plate:0, Krik Large Plate
 tconstruct:large_plate:0, Rubracium Large Plate
 tconstruct:large_plate:0, Aluminium Large Plate
@@ -18536,8 +18536,8 @@ tconstruct:knife_blade:0, Oureclase Knife Blade
 tconstruct:knife_blade:0, Inolashite Knife Blade
 tconstruct:knife_blade:0, Orichalcum Knife Blade
 tconstruct:knife_blade:0, Infuscolium Knife Blade
-tconstruct:knife_blade:0, Shadow Steel Knife Blade
 tconstruct:knife_blade:0, Midasium Knife Blade
+tconstruct:knife_blade:0, Shadow Steel Knife Blade
 tconstruct:knife_blade:0, Krik Knife Blade
 tconstruct:knife_blade:0, Aluminium Knife Blade
 tconstruct:knife_blade:0, Chrome Knife Blade
@@ -18747,8 +18747,8 @@ tconstruct:arrow_head:0, Oureclase Arrow Head
 tconstruct:arrow_head:0, Inolashite Arrow Head
 tconstruct:arrow_head:0, Orichalcum Arrow Head
 tconstruct:arrow_head:0, Infuscolium Arrow Head
-tconstruct:arrow_head:0, Shadow Steel Arrow Head
 tconstruct:arrow_head:0, Midasium Arrow Head
+tconstruct:arrow_head:0, Shadow Steel Arrow Head
 tconstruct:arrow_head:0, Krik Arrow Head
 tconstruct:arrow_head:0, Aluminium Arrow Head
 tconstruct:arrow_head:0, Chrome Arrow Head
@@ -21507,17 +21507,17 @@ metallurgy:infuscolium_engraved_block, Infuscolium Engraved Block
 metallurgy:infuscolium_large_bricks, Infuscolium Large Bricks
 metallurgy:infuscolium_bricks, Infuscolium Bricks
 metallurgy:infuscolium_ingot, Infuscolium Ingot
-metallurgy:shadow_steel_engraved_block, Shadow Steel Engraved Block
-metallurgy:shadow_steel_large_bricks, Shadow Steel Large Bricks
-metallurgy:shadow_steel_bricks, Shadow Steel Bricks
-metallurgy:shadow_steel_ingot, Shadow Steel Ingot
-metallurgy:shadow_steel_sword, Shadow Steel Sword
 metallurgy:midasium_ore, Midasium Ore
 metallurgy:midasium_engraved_block, Midasium Engraved Block
 metallurgy:midasium_large_bricks, Midasium Large Bricks
 metallurgy:midasium_bricks, Midasium Bricks
 metallurgy:midasium_ingot, Midasium Ingot
 metallurgy:midasium_sword, Midasium Sword
+metallurgy:shadow_steel_engraved_block, Shadow Steel Engraved Block
+metallurgy:shadow_steel_large_bricks, Shadow Steel Large Bricks
+metallurgy:shadow_steel_bricks, Shadow Steel Bricks
+metallurgy:shadow_steel_ingot, Shadow Steel Ingot
+metallurgy:shadow_steel_sword, Shadow Steel Sword
 metallurgy:krik_engraved_block, Krik Engraved Block
 metallurgy:krik_large_bricks, Krik Large Bricks
 metallurgy:krik_bricks, Krik Bricks
@@ -25012,6 +25012,24 @@ ironbackpacks:upgrade:0, Damage Bar Upgrade
 ironbackpacks:upgrade:0, Latch Upgrade
 ironbackpacks:upgrade:0, Extra Upgrade Point
 ironbackpacks:upgrade:0, Everlasting Upgrade
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -25132,24 +25150,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 mekanismtools:woodpaxel, Wood Paxel
 mekanismtools:stonepaxel, Stone Paxel
 mekanismtools:ironpaxel, Iron Paxel
@@ -30211,8 +30211,13 @@ chiselsandbits:block_bit:0, Chiseled Bit - Brown Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Green Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Red Quilted Wool
 chiselsandbits:block_bit:0, Chiseled Bit - Black Quilted Wool
-chiselsandbits:block_bit:0, Chiseled Bit - Sugar Block
-chiselsandbits:block_bit:0, Chiseled Bit - Gravisand
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
+chiselsandbits:block_bit:0, Chiseled Bit - Lit Redstone Lamp
+chiselsandbits:block_bit:0, Chiseled Bit - Blaze Lantern
 chiselsandbits:block_bit:0, Chiseled Bit - Ender Biotite Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Biotite
 chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Biotite Block
@@ -30236,13 +30241,8 @@ chiselsandbits:block_bit:0, Chiseled Bit - Elder Prismarine
 chiselsandbits:block_bit:0, Chiseled Bit - Elder Prismarine Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Dark Elder Prismarine
 chiselsandbits:block_bit:0, Chiseled Bit - Elder Sea Lantern
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Spruce Bookshelf
-chiselsandbits:block_bit:0, Chiseled Bit - Lit Redstone Lamp
-chiselsandbits:block_bit:0, Chiseled Bit - Blaze Lantern
+chiselsandbits:block_bit:0, Chiseled Bit - Sugar Block
+chiselsandbits:block_bit:0, Chiseled Bit - Gravisand
 chiselsandbits:block_bit:0, Chiseled Bit - Electrical Steel Block
 chiselsandbits:block_bit:0, Chiseled Bit - Energetic Alloy Block
 chiselsandbits:block_bit:0, Chiseled Bit - Vibrant Alloy Block
@@ -30827,13 +30827,13 @@ chiselsandbits:block_bit:0, Chiseled Bit - Infuscolium Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Infuscolium Engraved Block
 chiselsandbits:block_bit:0, Chiseled Bit - Infuscolium Large Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Infuscolium Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Shadow Steel Engraved Block
-chiselsandbits:block_bit:0, Chiseled Bit - Shadow Steel Large Bricks
-chiselsandbits:block_bit:0, Chiseled Bit - Shadow Steel Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Midasium Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Midasium Engraved Block
 chiselsandbits:block_bit:0, Chiseled Bit - Midasium Large Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Midasium Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Shadow Steel Engraved Block
+chiselsandbits:block_bit:0, Chiseled Bit - Shadow Steel Large Bricks
+chiselsandbits:block_bit:0, Chiseled Bit - Shadow Steel Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Krik Engraved Block
 chiselsandbits:block_bit:0, Chiseled Bit - Krik Large Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Krik Bricks
