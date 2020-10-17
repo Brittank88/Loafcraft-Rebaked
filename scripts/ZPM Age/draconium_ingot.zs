@@ -1,3 +1,5 @@
+furnace.remove(<ore:ingotDraconium>);
+
 val chemical_reactor = mods.gregtech.recipe.RecipeMap.getByName("chemical_reactor");
 chemical_reactor.recipeBuilder()
     .inputs(<ore:dustDraconium> * 16, <minecraft:dragon_egg> * 1)
