@@ -36,5 +36,10 @@
         "mode": "REMOVE",
         "result": "draconicevolution:chaotic_core",
         "catalyst": "draconicevolution:chaos_shard"
+    },
+    {
+        "mode": "REMOVE",
+        "result": "draconicevolution:draconic_block",
+        "catalyst": "draconicevolution:draconium_block"
     }
 ]

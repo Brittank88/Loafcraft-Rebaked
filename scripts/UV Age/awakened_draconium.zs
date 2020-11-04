@@ -1,0 +1,1 @@
+mods.thaumcraft.Infusion.registerRecipe("awakenedDraconium", "", <draconicevolution:draconic_ingot>, 1, [<aspect:alienis> * 32, <aspect:potentia> * 32], <metallurgy:desichalkos_ingot>, [<draconicevolution:dragon_heart>, <draconicevolution:wyvern_core>, <bloodmagic:activation_crystal:1>, <extendedcrafting:material:48>]);

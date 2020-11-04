@@ -1,0 +1,19 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "hexagon",
+	tasks: [{
+		uid: "08768dec",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 509"
+		}]
+	},
+	{
+		uid: "1ca9136f",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_2 1 32501"
+		}]
+	}]
+}
