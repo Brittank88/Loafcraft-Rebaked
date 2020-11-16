@@ -1,6 +1,10 @@
 {
 	x: 5.0d,
 	y: 9.0d,
+	shape: "hexagon",
+	dependencies: [
+		"c53e4236"
+	],
 	tasks: [{
 		uid: "3a884990",
 		type: "item",

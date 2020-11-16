@@ -1,0 +1,15 @@
+{
+	x: 3.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"883b9480"
+	],
+	tasks: [{
+		uid: "f7543a9e",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 4"
+		}]
+	}]
+}

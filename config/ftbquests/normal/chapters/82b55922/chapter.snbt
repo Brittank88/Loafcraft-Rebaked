@@ -3,5 +3,5 @@
 	icon: "gregtech:machine 1 509",
 	always_invisible: false,
 	group: 154673656,
-	default_quest_shape: ""
+	default_quest_shape: "hexagon"
 }
