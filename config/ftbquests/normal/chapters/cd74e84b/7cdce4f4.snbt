@@ -6,10 +6,10 @@
 		"8bbb182e"
 	],
 	tasks: [{
-		uid: "160c9177",
+		uid: "0fc41acc",
 		type: "item",
 		items: [{
-			item: "thermalfoundation:upgrade 1 256"
+			item: "avaritia:resource 1 5"
 		}]
 	}]
 }

@@ -1,3 +1,5 @@
+recipes.remove(<icbmclassic:explosives:17>);
+
 val mixer = mods.gregtech.recipe.RecipeMap.getByName("mixer");
 mixer.recipeBuilder()
     .inputs(<icbmclassic:explosives:6> * 1)

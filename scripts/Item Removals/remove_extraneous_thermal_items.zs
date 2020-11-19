@@ -415,3 +415,4 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:material:2050>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:2048>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:802>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:801>);
+mods.jei.JEI.removeAndHide(<thermalexpansion:device:10>);

@@ -18,3 +18,7 @@ mods.jei.JEI.removeAndHide(<avaritia:compressed_crafting_table>);
 mods.jei.JEI.removeAndHide(<avaritia:double_compressed_crafting_table>);
 mods.jei.JEI.removeAndHide(<avaritia:extreme_crafting_table>);
 mods.jei.JEI.removeAndHide(<avaritia:neutronium_compressor>);
+mods.jei.JEI.removeAndHide(<avaritia:infinity_pickaxe>);
+mods.jei.JEI.removeAndHide(<avaritia:infinity_shovel>);
+mods.jei.JEI.removeAndHide(<avaritia:infinity_axe>);
+mods.jei.JEI.removeAndHide(<avaritia:infinity_hoe>);

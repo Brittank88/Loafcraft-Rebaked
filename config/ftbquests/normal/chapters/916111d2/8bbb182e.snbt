@@ -1,5 +1,6 @@
 {
 	title: "Infinity",
+	icon: "avaritia:resource 1 5",
 	x: 0.0d,
 	y: 0.0d,
 	shape: "hexagon",
@@ -13,30 +14,12 @@
 	],
 	size: 3.0d,
 	tasks: [{
-		uid: "19a5095f",
-		type: "item",
-		items: [{
-			item: "thermalfoundation:upgrade 1 256"
-		}]
+		uid: "1b89e92f",
+		type: "checkmark"
 	}],
 	rewards: [{
-		uid: "fa78c840",
+		uid: "cd41cc18",
 		type: "item",
-		item: {
-			id: "simple_trophies:trophy",
-			tag: {
-				TrophyColorGreen: 255,
-				TrophyVariant: "classic",
-				TrophyShowsTooltip: 1b,
-				TrophyItem: {
-					id: "thermalfoundation:upgrade",
-					Count: 1b,
-					Damage: 256s
-				},
-				TrophyColorBlue: 255,
-				TrophyName: "Infinity",
-				TrophyColorRed: 255
-			}
-		}
+		item: "avaritia:resource 1 5"
 	}]
 }
