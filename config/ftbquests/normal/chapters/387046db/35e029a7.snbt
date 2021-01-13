@@ -23,5 +23,11 @@
 		items: [{
 			item: "gregtech:meta_item_2 1 32501"
 		}]
+	}],
+	rewards: [{
+		uid: "14a4c4c6",
+		type: "item",
+		item: "bhc:orange_heart_canister",
+		count: 8
 	}]
 }

@@ -1,0 +1,11 @@
+{
+	x: 12.5d,
+	y: 1.0d,
+	tasks: [{
+		uid: "6e44c086",
+		type: "item",
+		items: [{
+			item: "harvestcraft:groundmuttonitem"
+		}]
+	}]
+}

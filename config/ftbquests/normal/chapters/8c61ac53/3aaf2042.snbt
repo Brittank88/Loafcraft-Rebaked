@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:etherium_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "90b9e71a",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

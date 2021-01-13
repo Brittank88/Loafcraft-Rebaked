@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:shadow_iron_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "a9ffccee",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

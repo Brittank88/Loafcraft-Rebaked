@@ -1,0 +1,15 @@
+{
+	x: -3.5d,
+	y: 11.5d,
+	shape: "hexagon",
+	dependencies: [
+		"fa114197"
+	],
+	tasks: [{
+		uid: "faa77b6c",
+		type: "item",
+		items: [{
+			item: "bloodmagic:item_demon_crystal"
+		}]
+	}]
+}

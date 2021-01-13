@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: 7.5d,
+	shape: "hexagon",
+	dependencies: [
+		"e699b7ec"
+	],
+	tasks: [{
+		uid: "d8fff345",
+		type: "item",
+		items: [{
+			item: "compactmachines3:wallbreakable"
+		}]
+	},
+	{
+		uid: "f527aeb3",
+		type: "item",
+		items: [{
+			item: "compactmachines3:fieldprojector"
+		}],
+		count: 4L
+	}]
+}

@@ -1,6 +1,6 @@
 {
-	x: -4.5d,
-	y: 13.5d,
+	x: -5.0d,
+	y: 14.0d,
 	shape: "hexagon",
 	dependencies: [
 		"9c885569",
@@ -19,5 +19,11 @@
 			Damage: 3s
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dfe1eae9",
+		type: "item",
+		item: "bhc:green_heart_canister",
+		count: 2
 	}]
 }

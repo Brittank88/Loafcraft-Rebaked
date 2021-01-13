@@ -1,0 +1,11 @@
+{
+	x: 9.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "fefd80a8",
+		type: "item",
+		items: [{
+			item: "harvestcraft:groundvenisonitem"
+		}]
+	}]
+}

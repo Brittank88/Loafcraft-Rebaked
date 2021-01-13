@@ -118,3 +118,4 @@ mods.jei.JEI.removeAndHide(<randomthings:sakanade>);
 mods.jei.JEI.removeAndHide(<randomthings:floobrick>);
 mods.jei.JEI.removeAndHide(<randomthings:spectrecore>);
 mods.jei.JEI.removeAndHide(<randomthings:quartzglass>);
+mods.jei.JEI.removeAndHide(<randomthings:ingredient:5>);

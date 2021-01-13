@@ -1,0 +1,1 @@
+mods.thaumcraft.Infusion.registerRecipe("demonBloodShard", "", <bloodmagic:blood_shard:1>, 1, [<aspect:spiritus> * 32, <aspect:vinculum> * 32], <bloodmagic:blood_shard>, [<bloodmagic:item_demon_crystal:1>, <bloodmagic:item_demon_crystal:2>, <bloodmagic:item_demon_crystal:3>, <bloodmagic:item_demon_crystal:4>]);

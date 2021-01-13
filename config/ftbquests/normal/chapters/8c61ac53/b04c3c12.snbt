@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:ignatius_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "fc43d08a",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

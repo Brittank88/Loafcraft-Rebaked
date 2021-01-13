@@ -11,5 +11,11 @@
 		items: [{
 			item: "metallurgy:tartarite_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "6ba0414c",
+		type: "item",
+		item: "bhc:orange_heart_canister",
+		count: 8
 	}]
 }

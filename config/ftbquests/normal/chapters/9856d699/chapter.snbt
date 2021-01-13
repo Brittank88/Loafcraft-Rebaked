@@ -1,0 +1,7 @@
+{
+	title: "Culinary Completion",
+	icon: "avaritia:ultimate_stew",
+	always_invisible: false,
+	group: -1855909422,
+	default_quest_shape: "hexagon"
+}

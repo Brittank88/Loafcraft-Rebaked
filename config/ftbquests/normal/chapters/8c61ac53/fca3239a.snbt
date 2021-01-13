@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:sanguinite_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "e5df482b",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

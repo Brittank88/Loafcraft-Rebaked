@@ -37,5 +37,11 @@
 			},
 			id: "industrialforegoing:mob_imprisonment_tool"
 		}
+	},
+	{
+		uid: "9b5be03c",
+		type: "item",
+		item: "bhc:blue_heart_canister",
+		count: 8
 	}]
 }

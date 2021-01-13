@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:lemurite_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "5e519a0a",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

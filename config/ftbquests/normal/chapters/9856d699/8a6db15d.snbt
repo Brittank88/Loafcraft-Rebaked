@@ -1,0 +1,51 @@
+{
+	x: 10.5d,
+	y: 0.0d,
+	dependencies: [
+		"8fb01371",
+		"1d771176",
+		"3b7d73ff",
+		"b19e7657",
+		"2e9b4a14",
+		"86a66029",
+		"7ec17a50",
+		"8bbb182e",
+		"080ba890",
+		"ed9e2a45",
+		"4d6bacf7",
+		"4452724e",
+		"ec18cf38",
+		"3d5ee27b",
+		"c6a92f4c",
+		"5d933ab4",
+		"98d834f0",
+		"94e7794f",
+		"493dcd17",
+		"936d7e01",
+		"1ffd81d0",
+		"8503a2ed",
+		"5d8e35a0",
+		"ec9c8fae",
+		"f338814c",
+		"ba5180e4",
+		"f16387d6",
+		"a95f9fe9",
+		"70379181",
+		"4b71218d",
+		"792b82d7",
+		"ac2d6150"
+	],
+	tasks: [{
+		uid: "09ddc948",
+		type: "item",
+		items: [{
+			item: "avaritia:cosmic_meatballs"
+		}]
+	}],
+	rewards: [{
+		uid: "0512019c",
+		type: "item",
+		item: "tconstruct:materials 1 50",
+		count: 16
+	}]
+}

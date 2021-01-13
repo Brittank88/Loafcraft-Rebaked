@@ -24,5 +24,11 @@
 		uid: "109e1312",
 		type: "ftbmoney:money",
 		ftb_money: 50L
+	},
+	{
+		uid: "29c10f14",
+		type: "item",
+		item: "bhc:green_heart_canister",
+		count: 2
 	}]
 }

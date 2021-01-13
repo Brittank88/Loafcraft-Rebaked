@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"e4606361"
+	],
+	tasks: [{
+		uid: "03d99dc2",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:machine_casing"
+		}]
+	}]
+}

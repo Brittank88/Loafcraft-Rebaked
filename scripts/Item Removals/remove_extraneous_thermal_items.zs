@@ -416,3 +416,7 @@ mods.jei.JEI.removeAndHide(<thermalfoundation:material:2048>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:802>);
 mods.jei.JEI.removeAndHide(<thermalfoundation:material:801>);
 mods.jei.JEI.removeAndHide(<thermalexpansion:device:10>);
+mods.jei.JEI.removeAndHide(<thermaldynamics:duct_0:6>);
+mods.jei.JEI.removeAndHide(<thermaldynamics:duct_0:7>);
+mods.jei.JEI.removeAndHide(<thermaldynamics:duct_0:8>);
+mods.jei.JEI.removeAndHide(<thermaldynamics:duct_0:3>);

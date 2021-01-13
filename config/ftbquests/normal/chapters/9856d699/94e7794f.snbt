@@ -1,0 +1,11 @@
+{
+	x: 14.0d,
+	y: 2.5d,
+	tasks: [{
+		uid: "69ee8918",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cookedtofuttonitem"
+		}]
+	}]
+}

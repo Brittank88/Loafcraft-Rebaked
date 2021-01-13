@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:infuscolium_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "9484b3de",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

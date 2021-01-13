@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "82b840b9",
+		type: "item",
+		items: [{
+			item: "harvestcraft:gumboitem"
+		}]
+	}]
+}

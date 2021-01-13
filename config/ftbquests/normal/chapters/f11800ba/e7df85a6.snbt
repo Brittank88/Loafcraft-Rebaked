@@ -10,5 +10,10 @@
 		items: [{
 			item: "projectex:matter 1 7"
 		}]
+	}],
+	rewards: [{
+		uid: "66778407",
+		type: "item",
+		item: "bhc:red_heart_canister"
 	}]
 }

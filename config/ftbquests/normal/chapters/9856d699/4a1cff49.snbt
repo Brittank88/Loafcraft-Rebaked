@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 1.0d,
+	tasks: [{
+		uid: "49937e75",
+		type: "item",
+		items: [{
+			item: "harvestcraft:netherstartoastitem"
+		}]
+	}]
+}

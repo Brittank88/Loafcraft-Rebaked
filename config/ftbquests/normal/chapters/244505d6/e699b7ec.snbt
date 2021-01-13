@@ -1,0 +1,50 @@
+{
+	x: 0.0d,
+	y: 6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"78a6b89a"
+	],
+	tasks: [{
+		uid: "5a51a1ba",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:simulation_chamber"
+		}]
+	},
+	{
+		uid: "256becc3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:deep_learner"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b29ca752",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:data_model_blank"
+		}]
+	}],
+	rewards: [{
+		uid: "313c28ee",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "deepmoblearning:data_model_thermal_elemental",
+			tag: {
+				tier: 4,
+				simulationCount: 0,
+				killCount: 0,
+				totalKillCount: 92
+			}
+		}
+	}]
+}

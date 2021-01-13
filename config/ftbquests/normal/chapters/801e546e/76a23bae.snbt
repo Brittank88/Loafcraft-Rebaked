@@ -1,4 +1,5 @@
 {
+	title: "Aether",
 	icon: "aether_legacy:aether_grass",
 	x: 6.0d,
 	y: 6.0d,
@@ -6,7 +7,27 @@
 		"c48f7b90"
 	],
 	tasks: [{
-		uid: "151b5ad5",
+		uid: "98b7b742",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:smooth_sky_stone_block"
+		}],
+		count: 10L
+	},
+	{
+		uid: "c3c90c33",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrautils2:suncrystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "945271f2",
 		type: "dimension",
 		dim: 4
 	}]

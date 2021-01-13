@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:prometheum_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "093c0f5b",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

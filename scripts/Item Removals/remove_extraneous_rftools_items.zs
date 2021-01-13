@@ -241,3 +241,6 @@ mods.jei.JEI.removeAndHide(<rftools:notick_invisible_shield_block>);
 mods.jei.JEI.removeAndHide(<rftools:invisible_shield_block_opaque>);
 mods.jei.JEI.removeAndHide(<rftools:notick_invisible_shield_block_opaque>);
 mods.jei.JEI.removeAndHide(<rftools:smartwrench>);
+mods.jei.JEI.removeAndHide(<rftools:machine_infuser>);
+mods.jei.JEI.removeAndHide(<rftools:relay>);
+mods.jei.JEI.removeAndHide(<rftools:item_filter>);

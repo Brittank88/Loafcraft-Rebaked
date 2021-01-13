@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:amordrine_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "8417e84a",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

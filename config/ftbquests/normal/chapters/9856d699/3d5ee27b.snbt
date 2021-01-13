@@ -1,0 +1,11 @@
+{
+	x: 10.5d,
+	y: 2.0d,
+	tasks: [{
+		uid: "b8ee7995",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cookedtofeakitem"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"78a6b89a"
+	],
+	tasks: [{
+		uid: "76cb319b",
+		type: "item",
+		items: [{
+			item: "deepmoblearning:extraction_chamber"
+		}]
+	}]
+}

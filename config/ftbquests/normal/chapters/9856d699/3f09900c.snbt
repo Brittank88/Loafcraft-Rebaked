@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "53aaef0a",
+		type: "item",
+		items: [{
+			item: "harvestcraft:cornedbeefhashitem"
+		}]
+	}]
+}

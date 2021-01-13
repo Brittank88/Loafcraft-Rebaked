@@ -41,3 +41,7 @@ mods.bloodmagic.TartaricForge.addRecipe(<bloodmagic:component:9>,[<bloodmagic:te
 // Blood Lamp Reagent
 mods.bloodmagic.TartaricForge.removeRecipe([<minecraft:glowstone>, <minecraft:torch>, <minecraft:redstone>, <minecraft:redstone>]);
 mods.bloodmagic.TartaricForge.addRecipe(<bloodmagic:component:11>,[<minecraft:glowstone>, <minecraft:torch>, <minecraft:redstone>, <forge:bucketfilled>.withTag({FluidName: "glowstone", Amount: 1000})], 300,10);
+
+// Severance Reagent
+mods.bloodmagic.TartaricForge.removeRecipe([<minecraft:ender_eye>, <minecraft:ender_pearl>, <minecraft:gold_ingot>, <minecraft:gold_ingot>]);
+mods.bloodmagic.TartaricForge.addRecipe(<bloodmagic:component:16>,[<minecraft:ender_eye>, <minecraft:ender_pearl>, <deepmoblearning:pristine_matter_enderman>, <thermalfoundation:material:136>], 300,10);

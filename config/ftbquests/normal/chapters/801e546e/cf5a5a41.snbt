@@ -1,4 +1,5 @@
 {
+	title: "Deep Dark",
 	icon: "extrautils2:teleporter 1 1",
 	x: -6.0d,
 	y: 6.0d,
@@ -6,7 +7,37 @@
 		"c48f7b90"
 	],
 	tasks: [{
-		uid: "377da8c8",
+		uid: "74730fb4",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stone_ancient_glyphed"
+		}],
+		count: 10L
+	},
+	{
+		uid: "7dc4e633",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "thaumcraft:elemental_pick",
+			tag: {
+				infench: [{
+					lvl: 1s,
+					id: 4s
+				},
+				{
+					lvl: 2s,
+					id: 3s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c73e6d23",
 		type: "dimension",
 		dim: -11325
 	}]

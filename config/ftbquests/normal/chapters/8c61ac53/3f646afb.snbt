@@ -13,5 +13,10 @@
 		items: [{
 			item: "metallurgy:hepatizon_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "493acf79",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

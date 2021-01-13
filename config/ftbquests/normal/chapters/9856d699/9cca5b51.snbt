@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "dc8efe08",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bentoboxitem"
+		}]
+	}]
+}

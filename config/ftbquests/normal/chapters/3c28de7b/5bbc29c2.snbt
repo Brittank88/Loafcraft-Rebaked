@@ -11,5 +11,11 @@
 		uid: "87d47950",
 		type: "fluid",
 		fluid: "mana"
+	}],
+	rewards: [{
+		uid: "2babf86f",
+		type: "item",
+		item: "bhc:green_heart_canister",
+		count: 2
 	}]
 }

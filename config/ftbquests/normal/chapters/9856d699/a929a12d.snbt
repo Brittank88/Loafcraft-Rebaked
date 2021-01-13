@@ -1,0 +1,11 @@
+{
+	x: 3.5d,
+	y: -3.0d,
+	tasks: [{
+		uid: "b3ae1933",
+		type: "item",
+		items: [{
+			item: "harvestcraft:anchovypepperonipizzaitem"
+		}]
+	}]
+}

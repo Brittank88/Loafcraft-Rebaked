@@ -1,0 +1,29 @@
+{
+	title: "End",
+	icon: "minecraft:end_stone",
+	x: 0.0d,
+	y: -6.0d,
+	dependencies: [
+		"d79a9481"
+	],
+	tasks: [{
+		uid: "53d2a65d",
+		type: "item",
+		items: [{
+			item: "minecraft:end_stone"
+		}],
+		count: 10L
+	},
+	{
+		uid: "044b40be",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 16"
+		}]
+	},
+	{
+		uid: "6f40edec",
+		type: "dimension",
+		dim: 1
+	}]
+}

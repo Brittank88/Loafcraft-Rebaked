@@ -12,5 +12,11 @@
 		items: [{
 			item: "techreborn:machine_frame 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "58d500d5",
+		type: "item",
+		item: "bhc:red_heart_canister",
+		count: 2
 	}]
 }

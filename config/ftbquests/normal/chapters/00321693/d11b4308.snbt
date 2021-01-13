@@ -20,5 +20,11 @@
 		items: [{
 			item: "gtadditions:ga_meta_item 1 32215"
 		}]
+	}],
+	rewards: [{
+		uid: "98d6edc8",
+		type: "item",
+		item: "bhc:orange_heart_canister",
+		count: 8
 	}]
 }

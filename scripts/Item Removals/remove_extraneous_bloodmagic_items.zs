@@ -140,3 +140,6 @@ mods.jei.JEI.removeAndHide(<bloodmagic:upgrade_trainer>.withTag({key: "bloodmagi
 mods.jei.JEI.removeAndHide(<bloodmagic:upgrade_trainer>.withTag({key: "bloodmagic.upgrade.meleeDecrease"}));
 mods.jei.JEI.removeAndHide(<bloodmagic:sentient_armour_gem>);
 mods.jei.JEI.removeAndHide(<bloodmagic:node_router>);
+mods.jei.JEI.removeAndHide(<bloodmagic:demon_pylon>);
+mods.jei.JEI.removeAndHide(<bloodmagic:component:30>);
+mods.jei.JEI.removeAndHide(<bloodmagic:sigil_claw>.withTag({}));

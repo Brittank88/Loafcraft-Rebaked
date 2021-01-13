@@ -1,0 +1,11 @@
+{
+	x: 2.0d,
+	y: -2.0d,
+	tasks: [{
+		uid: "a6a8caca",
+		type: "item",
+		items: [{
+			item: "harvestcraft:thankfuldinneritem"
+		}]
+	}]
+}

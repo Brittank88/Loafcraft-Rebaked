@@ -1,0 +1,11 @@
+{
+	x: 1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "c2b71a7f",
+		type: "item",
+		items: [{
+			item: "harvestcraft:heartybreakfastitem"
+		}]
+	}]
+}

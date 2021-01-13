@@ -1,4 +1,5 @@
 {
+	title: "Overworld",
 	icon: "minecraft:grass",
 	x: -6.0d,
 	y: -6.0d,

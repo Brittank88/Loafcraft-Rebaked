@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:deep_iron_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "4fcedeed",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

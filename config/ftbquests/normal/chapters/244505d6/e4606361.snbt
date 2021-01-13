@@ -14,5 +14,11 @@
 		items: [{
 			item: "thermalexpansion:frame"
 		}]
+	}],
+	rewards: [{
+		uid: "5ede942b",
+		type: "item",
+		item: "bhc:red_heart_canister",
+		count: 2
 	}]
 }

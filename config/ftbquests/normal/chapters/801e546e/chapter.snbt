@@ -4,7 +4,17 @@
 		ForgeCaps: {
 			"astralsorcery:cap_item_amulet_holder": {}
 		},
-		id: "minecraft:iron_pickaxe"
+		id: "thaumcraft:elemental_pick",
+		tag: {
+			infench: [{
+				lvl: 1s,
+				id: 4s
+			},
+			{
+				lvl: 2s,
+				id: 3s
+			}]
+		}
 	},
 	description: [
 		"Why so many ores?"

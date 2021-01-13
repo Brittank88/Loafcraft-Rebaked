@@ -1,0 +1,11 @@
+{
+	x: -1.0d,
+	y: 2.0d,
+	tasks: [{
+		uid: "2f56f8f4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:deluxenachoesitem"
+		}]
+	}]
+}

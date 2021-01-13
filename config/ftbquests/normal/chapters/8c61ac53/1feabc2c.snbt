@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:vyroxeres_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "53d0a0a8",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

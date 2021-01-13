@@ -1,0 +1,11 @@
+{
+	x: -3.5d,
+	y: 2.5d,
+	tasks: [{
+		uid: "6f67c6ff",
+		type: "item",
+		items: [{
+			item: "harvestcraft:bbqplatteritem"
+		}]
+	}]
+}

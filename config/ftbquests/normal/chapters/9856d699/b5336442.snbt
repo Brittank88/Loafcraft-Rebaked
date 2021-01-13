@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 4.0d,
+	tasks: [{
+		uid: "ede12c87",
+		type: "item",
+		items: [{
+			item: "harvestcraft:jambalayaitem"
+		}]
+	}]
+}

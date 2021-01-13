@@ -22,5 +22,15 @@
 		uid: "582a97c3",
 		type: "item",
 		item: "projectex:power_flower"
+	},
+	{
+		uid: "d4aab1d0",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "bhc:heart_amulet"
+		}
 	}]
 }

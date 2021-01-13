@@ -1,0 +1,61 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	dependencies: [
+		"cd63f463",
+		"8f785739",
+		"5dab826a",
+		"db7c757f",
+		"d298d11b",
+		"a929a12d",
+		"3f09900c",
+		"67a5ecec",
+		"b19e7657",
+		"92ca9c81",
+		"4c090498",
+		"ea3d7b6e",
+		"4a1cff49",
+		"8bbb182e",
+		"9cca5b51",
+		"5f33f8d2",
+		"6d8cef6d",
+		"ffa37380",
+		"02761115",
+		"f41f583a",
+		"774d632b",
+		"3ff7e211",
+		"77e2c4c4",
+		"28cf7da6",
+		"7a89d5a3",
+		"0d125ffe",
+		"c98d14bc",
+		"b5336442",
+		"a2413273",
+		"d674a3c6",
+		"f2468d32",
+		"966edad8",
+		"3bba23cc",
+		"319e2c28",
+		"7dd9b6a7"
+	],
+	tasks: [{
+		uid: "bf95b498",
+		type: "item",
+		items: [{
+			item: "avaritia:ultimate_stew"
+		}]
+	}],
+	rewards: [{
+		uid: "abf65867",
+		type: "item",
+		item: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:glass_sword",
+			tag: {
+				Unbreakable: 1b
+			}
+		}
+	}]
+}

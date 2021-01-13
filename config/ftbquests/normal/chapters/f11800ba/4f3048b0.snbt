@@ -28,5 +28,10 @@
 		uid: "5146cd77",
 		type: "item",
 		item: "projectex:power_flower 1 5"
+	},
+	{
+		uid: "d89918f6",
+		type: "item",
+		item: "bhc:red_heart_canister"
 	}]
 }

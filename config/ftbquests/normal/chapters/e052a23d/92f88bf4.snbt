@@ -13,5 +13,11 @@
 		items: [{
 			item: "enderio:item_material 1 53"
 		}]
+	}],
+	rewards: [{
+		uid: "dfb7a6e1",
+		type: "item",
+		item: "bhc:red_heart_canister",
+		count: 2
 	}]
 }

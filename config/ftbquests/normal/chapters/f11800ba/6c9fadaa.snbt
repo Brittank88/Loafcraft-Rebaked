@@ -10,5 +10,10 @@
 		items: [{
 			item: "projectex:final_star_shard"
 		}]
+	}],
+	rewards: [{
+		uid: "85f93b1f",
+		type: "item",
+		item: "bhc:red_heart_canister"
 	}]
 }

@@ -1,0 +1,11 @@
+{
+	x: 8.5d,
+	y: -1.0d,
+	tasks: [{
+		uid: "cdc8c002",
+		type: "item",
+		items: [{
+			item: "minecraft:cooked_porkchop"
+		}]
+	}]
+}

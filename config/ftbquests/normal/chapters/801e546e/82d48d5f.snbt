@@ -1,0 +1,14 @@
+{
+	icon: "minecraft:netherrack",
+	x: 6.0d,
+	y: 0.0d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"013d790e"
+	],
+	tasks: [{
+		uid: "b35ed073",
+		type: "checkmark",
+		title: "Nether (see left)"
+	}]
+}

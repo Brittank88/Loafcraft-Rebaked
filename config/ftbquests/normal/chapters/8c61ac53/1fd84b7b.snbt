@@ -12,5 +12,10 @@
 		items: [{
 			item: "metallurgy:alduorite_ingot"
 		}]
+	}],
+	rewards: [{
+		uid: "f2704768",
+		type: "item",
+		item: "bhc:green_heart_canister"
 	}]
 }

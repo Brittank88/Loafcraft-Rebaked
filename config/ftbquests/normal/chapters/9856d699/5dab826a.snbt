@@ -1,0 +1,11 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "f11d118b",
+		type: "item",
+		items: [{
+			item: "harvestcraft:spaghettidinneritem"
+		}]
+	}]
+}
